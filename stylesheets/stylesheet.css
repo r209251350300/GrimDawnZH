@@ -63,14 +63,21 @@ a {
 }
 
 .page-header img {
-    margin: 30px auto;
-    padding: 5px;
-    position: relative;
-    overflow: hidden;
-    border-radius: 5px;
-    transition: all 1000ms cubic-bezier(0.005, 1.650, 1.000, -0.600);
-    transition-timing-function: cubic-bezier(0.005, 1.650, 1.000, -0.600);
+  animation: header-down 1s;
 }
+
+@keyframes header-down {
+  0% {
+    top: -100px;
+  }
+  30% {
+    top: 80px;
+  }
+  100% {
+    top: 100px;
+  }
+}
+
 
 @media screen and (min-width: 64em) {
   .page-header {
