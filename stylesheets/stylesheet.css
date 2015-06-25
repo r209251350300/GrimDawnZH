@@ -63,6 +63,7 @@ a {
 }
 
 .page-header img {
+  position:relative;
   animation: header-down 1s;
 }
 
@@ -71,10 +72,10 @@ a {
     top: -100px;
   }
   30% {
-    top: 80px;
+    top: 20px;
   }
   100% {
-    top: 100px;
+    top: 0px;
   }
 }
 
