@@ -64,7 +64,7 @@ a {
 
 .page-header img {
   position:relative;
-  animation: header-down 1s;
+  animation: header-down 1.8s;
 }
 
 @keyframes header-down {
