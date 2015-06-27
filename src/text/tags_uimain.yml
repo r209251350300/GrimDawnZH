@@ -155,13 +155,6 @@ tags_uimain.txt :
         譯文 : >-
             tagCharLevelClass= {%d0} 級{%t1}
 #-------------------------------#
-    23 :
-        標註 : 
-        原文 : >-
-            # Temporary popup message for alpha multiplayer build warning
-        譯文 : >-
-            #Temporarypopupmessageforalphamultiplayerbuildwarning
-#-------------------------------#
     24 :
         標註 : 
         原文 : >-
@@ -175,13 +168,6 @@ tags_uimain.txt :
             #
         譯文 : >-
             #
-#-------------------------------#
-    27 :
-        標註 : 
-        原文 : >-
-            # Play Menu
-        譯文 : >-
-            #PlayMenu
 #-------------------------------#
     28 :
         標註 : 
@@ -595,13 +581,6 @@ tags_uimain.txt :
             #
         譯文 : >-
             #
-#-------------------------------#
-    93 :
-        標註 : 
-        原文 : >-
-            # Options
-        譯文 : >-
-            #Options
 #-------------------------------#
     94 :
         標註 : 

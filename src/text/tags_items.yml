@@ -1,26 +1,12 @@
 tags_items.txt : 
 
 #-------------------------------#
-    0 :
-        標註 : 
-        原文 : >-
-            #prefix/quality/style/name/suffix concatenation
-        譯文 : >-
-            #裝備顯示組合：前綴{%_s0}/品質{%_s1}/類型{%_s2}/名稱{%_s3}/後綴{%_s4}漢化時需要調整順序
-#-------------------------------#
     2 :
         標註 : 
         原文 : >-
             tagItemNameOrder={%_s0}{%_s1}{%_s2}{%_s3}{%_s4}
         譯文 : >-
             tagItemNameOrder={%_s4}{%_s0}{%_s1}{%_s2}{%_s3}
-#-------------------------------#
-    4 :
-        標註 : 
-        原文 : >-
-            #Weapons
-        譯文 : >-
-            #武器
 #-------------------------------#
     6 :
         標註 : 
@@ -3088,13 +3074,6 @@ tags_items.txt :
         譯文 : >-
             tagWeaponCrossbow1hA004=連弩
 #-------------------------------#
-    488 :
-        標註 : 
-        原文 : >-
-            #Shields
-        譯文 : >-
-            #Shields盾牌
-#-------------------------------#
     490 :
         標註 : 
         原文 : >-
@@ -3556,13 +3535,6 @@ tags_items.txt :
             tagQualityShieldA11=Exalted
         譯文 : >-
             tagQualityShieldA11=尊崇
-#-------------------------------#
-    563 :
-        標註 : 
-        原文 : >-
-            #Focus
-        譯文 : >-
-            #Focus聚能法器
 #-------------------------------#
     565 :
         標註 : 
@@ -4131,13 +4103,6 @@ tags_items.txt :
         譯文 : >-
             tagFocusF011=亡者的凝視 Death's Gaze
 #-------------------------------#
-    652 :
-        標註 : 
-        原文 : >-
-            #WEAPON_QUALITY
-        譯文 : >-
-            #WEAPON_QUALITY
-#-------------------------------#
     654 :
         標註 : 
         原文 : >-
@@ -4312,13 +4277,6 @@ tags_items.txt :
             tagQualityWeaponWood11=Exalted
         譯文 : >-
             tagQualityWeaponWood11=尊崇
-#-------------------------------#
-    683 :
-        標註 : 
-        原文 : >-
-            #ARMOR_STYLES
-        譯文 : >-
-            #ARMOR_STYLES
 #-------------------------------#
     685 :
         標註 : 
@@ -4614,13 +4572,6 @@ tags_items.txt :
         譯文 : >-
             tagStyle042=豐饒
 #-------------------------------#
-    733 :
-        標註 : 
-        原文 : >-
-            #ArmorClass
-        譯文 : >-
-            #ArmorClass
-#-------------------------------#
     734 :
         標註 : 
         原文 : >-
@@ -4642,13 +4593,6 @@ tags_items.txt :
         譯文 : >-
             tagArmorClass03=重型護甲
 #-------------------------------#
-    738 :
-        標註 : 
-        原文 : >-
-            #WeaponClass
-        譯文 : >-
-            #WeaponClass
-#-------------------------------#
     739 :
         標註 : 
         原文 : >-
@@ -4669,13 +4613,6 @@ tags_items.txt :
             tagOffHand=Off-Hand
         譯文 : >-
             tagOffHand=副手
-#-------------------------------#
-    743 :
-        標註 : 
-        原文 : >-
-            #MiscClass
-        譯文 : >-
-            #MiscClass
 #-------------------------------#
     744 :
         標註 : 
@@ -4704,13 +4641,6 @@ tags_items.txt :
             tagBelt=Belt
         譯文 : >-
             tagBelt=腰帶
-#-------------------------------#
-    749 :
-        標註 : 
-        原文 : >-
-            #QualityClass
-        譯文 : >-
-            #QualityClass
 #-------------------------------#
     750 :
         標註 : 
@@ -4830,13 +4760,6 @@ tags_items.txt :
             tagTransmuteDestroy=Are you sure you want to infuse this Transmogrification? Doing so will destroy the item.
         譯文 : >-
             tagTransmuteDestroy=你確定要灌注幻化效果嗎？這將會摧毀這件裝備。
-#-------------------------------#
-    771 :
-        標註 : 
-        原文 : >-
-            #ArmorHead
-        譯文 : >-
-            #ArmorHead頭盔
 #-------------------------------#
     773 :
         標註 : 
@@ -5454,13 +5377,6 @@ tags_items.txt :
         譯文 : >-
             tagHeadF012=神選頭盔 Chosen Headguard
 #-------------------------------#
-    867 :
-        標註 : 
-        原文 : >-
-            #ArmorShoulders
-        譯文 : >-
-            #ArmorShoulders肩甲
-#-------------------------------#
     869 :
         標註 : 
         原文 : >-
@@ -5964,13 +5880,6 @@ tags_items.txt :
             tagShoulderF021=Chosen Pauldrons
         譯文 : >-
             tagShoulderF021=神選肩鎧
-#-------------------------------#
-    947 :
-        標註 : 
-        原文 : >-
-            #ArmorTorso
-        譯文 : >-
-            #ArmorTorso護甲
 #-------------------------------#
     949 :
         標註 : 
@@ -6651,13 +6560,6 @@ tags_items.txt :
         譯文 : >-
             tagTorsoM003=染血長袍 Bloodstained Robes
 #-------------------------------#
-    1053 :
-        標註 : 
-        原文 : >-
-            #ArmorWaist
-        譯文 : >-
-            #ArmorWaist腰帶
-#-------------------------------#
     1055 :
         標註 : 
         原文 : >-
@@ -7099,13 +7001,6 @@ tags_items.txt :
         譯文 : >-
             tagWaistF018=神選束腰 Chosen Girdle
 #-------------------------------#
-    1123 :
-        標註 : 
-        原文 : >-
-            #ArmorHands
-        譯文 : >-
-            #ArmorHands手套
-#-------------------------------#
     1125 :
         標註 : 
         原文 : >-
@@ -7435,13 +7330,6 @@ tags_items.txt :
         譯文 : >-
             tagHandsF004=收割者護手 Harvest Handguards
 #-------------------------------#
-    1178 :
-        標註 : 
-        原文 : >-
-            #ArmorLegs
-        譯文 : >-
-            #ArmorLegs護腿
-#-------------------------------#
     1180 :
         標註 : 
         原文 : >-
@@ -7658,13 +7546,6 @@ tags_items.txt :
             tagLegsD008=Archmage's Leggings
         譯文 : >-
             tagLegsD008=大法師的長褲 Archmage's Leggings
-#-------------------------------#
-    1216 :
-        標註 : 
-        原文 : >-
-            #ArmorFeet
-        譯文 : >-
-            #ArmorFeet鞋子
 #-------------------------------#
     1218 :
         標註 : 
@@ -7980,13 +7861,6 @@ tags_items.txt :
             tagFeetF005=Harvest Greaves
         譯文 : >-
             tagFeetF005=收割者護脛 Harvest Greaves
-#-------------------------------#
-    1269 :
-        標註 : 
-        原文 : >-
-            #Rings
-        譯文 : >-
-            #Rings戒指
 #-------------------------------#
     1271 :
         標註 : 
@@ -8611,13 +8485,6 @@ tags_items.txt :
         譯文 : >-
             tagRingF012=神選風暴印戒 Chosen Storm Seal
 #-------------------------------#
-    1366 :
-        標註 : 
-        原文 : >-
-            #Necklaces
-        譯文 : >-
-            #Necklaces項鍊
-#-------------------------------#
     1368 :
         標註 : 
         原文 : >-
@@ -9206,13 +9073,6 @@ tags_items.txt :
         譯文 : >-
             tagNecklaceF009=虛空召喚者吊墜 Pendant of Ubiquitous Wrath
 #-------------------------------#
-    1458 :
-        標註 : 
-        原文 : >-
-            #Medals
-        譯文 : >-
-            #Medals勳章
-#-------------------------------#
     1460 :
         標註 : 
         原文 : >-
@@ -9604,13 +9464,6 @@ tags_items.txt :
             tagMedalF009Desc="Tarnished by the powers of the enemy, this medal nevertheless can serve a righteous purpose."
         譯文 : >-
             tagMedalF009Desc="儘管受到了敵人力量的汙染，這枚勳章仍可用作正途。"
-#-------------------------------#
-    1522 :
-        標註 : 
-        原文 : >-
-            #Blueprints
-        譯文 : >-
-            #Blueprints設計圖
 #-------------------------------#
     1523 :
         標註 : 
@@ -10879,13 +10732,6 @@ tags_items.txt :
         譯文 : >-
             tagBlueprint_MaterialA01=設計圖：虛化集簇
 #-------------------------------#
-    1720 :
-        標註 : 
-        原文 : >-
-            #Relics
-        譯文 : >-
-            #Relics遺物
-#-------------------------------#
     1722 :
         標註 : 
         原文 : >-
@@ -11684,13 +11530,6 @@ tags_items.txt :
         譯文 : >-
             tagRelicD023Desc="能夠同時手持兩把手槍進行精準射擊的象徵。"
 #-------------------------------#
-    1840 :
-        標註 : 
-        原文 : >-
-            #Crafting
-        譯文 : >-
-            #Crafting鍛造
-#-------------------------------#
     1841 :
         標註 : 
         原文 : >-
@@ -12215,13 +12054,6 @@ tags_items.txt :
             tagSuppliesError=
         譯文 : >-
             tagSuppliesError=
-#-------------------------------#
-    1925 :
-        標註 : 
-        原文 : >-
-            #Consumables
-        譯文 : >-
-            #Consumables消耗品
 #-------------------------------#
     1927 :
         標註 : 
@@ -12937,13 +12769,6 @@ tags_items.txt :
         譯文 : >-
             tagConsumableF12Desc="Shatter the vial, releasing Kymon's divine wrath around you."
 #-------------------------------#
-    2033 :
-        標註 : 
-        原文 : >-
-            #DLC
-        譯文 : >-
-            #DLC
-#-------------------------------#
     2034 :
         標註 : 
         原文 : >-
@@ -13014,13 +12839,6 @@ tags_items.txt :
         譯文 : >-
             tagDLCConsumableA02Desc="這酒可不是給軟蛋喝的，它可能產生的副作用有：噁心，嘔吐，忘了你昨晚在哪兒。"
 #-------------------------------#
-    2045 :
-        標註 : 
-        原文 : >-
-            #ItemNote
-        譯文 : >-
-            #ItemNote閱讀記錄
-#-------------------------------#
     2047 :
         標註 : 
         原文 : >-
@@ -13041,13 +12859,6 @@ tags_items.txt :
             tagNoteExcerpt="{%t}.."
         譯文 : >-
             tagNoteExcerpt="{%t}……"
-#-------------------------------#
-    2051 :
-        標註 : 
-        原文 : >-
-            #ItemEnchantment
-        譯文 : >-
-            #ItemEnchantment附魔
 #-------------------------------#
     2053 :
         標註 : 
@@ -16178,13 +15989,6 @@ tags_items.txt :
         譯文 : >-
             tagEnchantB063Desc="Binding Dust created by the Keeper herself to bind the most powerful of undead servants."^w^n(Applied to rings and amulets)
 #-------------------------------#
-    2612 :
-        標註 : 
-        原文 : >-
-            #ItemComponents
-        譯文 : >-
-            #ItemComponents部件
-#-------------------------------#
     2614 :
         標註 : 
         原文 : >-
@@ -17473,13 +17277,6 @@ tags_items.txt :
         譯文 : >-
             tagCompAScrapDesc="可以用於固定和連接的廢舊材料，例如子彈，皮繩和劣質的金屬。"
 #-------------------------------#
-    2888 :
-        標註 : 
-        原文 : >-
-            #ItemFactionBoosters
-        譯文 : >-
-            #ItemFactionBoosters
-#-------------------------------#
     2890 :
         標註 : 
         原文 : >-
@@ -17753,13 +17550,6 @@ tags_items.txt :
         譯文 : >-
             tagBoosterRO_B03=流浪者的神話級委任狀
 #-------------------------------#
-    2932 :
-        標註 : 
-        原文 : >-
-            #Misc
-        譯文 : >-
-            #Misc雜項
-#-------------------------------#
     2934 :
         標註 : 
         原文 : >-
@@ -17872,13 +17662,6 @@ tags_items.txt :
         譯文 : >-
             tagCombineStacks=[當選取時，右鍵點擊以合併堆疊]
 #-------------------------------#
-    2956 :
-        標註 : 
-        原文 : >-
-            # Bonuses
-        譯文 : >-
-            #Bonuses獎勵
-#-------------------------------#
     2957 :
         標註 : 
         原文 : >-
@@ -17955,13 +17738,6 @@ tags_items.txt :
             tagBonusAttribPoint={%+d0} Attribute Points
         譯文 : >-
             tagBonusAttribPoint={%+d0}屬性點數
-#-------------------------------#
-    2970 :
-        標註 : 
-        原文 : >-
-            #ItemSets
-        譯文 : >-
-            #ItemSets套裝
 #-------------------------------#
     2973 :
         標註 : 
@@ -18424,13 +18200,6 @@ tags_items.txt :
             tagItemSetD011Desc="The raging power of a volcano balanced by the chill of the northern wind."
         譯文 : >-
             tagItemSetD011Desc="火山的狂暴之力平衡於北風的極寒。"
-#-------------------------------#
-    3073 :
-        標註 : 
-        原文 : >-
-            #Prefixes
-        譯文 : >-
-            #Prefixes前綴
 #-------------------------------#
     3075 :
         標註 : 
@@ -19572,13 +19341,6 @@ tags_items.txt :
             tagPrefixB020_Sh_A=Hoarfrost
         譯文 : >-
             tagPrefixB020_Sh_A=白霜
-#-------------------------------#
-    3249 :
-        標註 : 
-        原文 : >-
-            #Suffixes
-        譯文 : >-
-            #Suffixes後綴
 #-------------------------------#
     3251 :
         標註 : 
@@ -20917,13 +20679,6 @@ tags_items.txt :
         譯文 : >-
             tagSuffixB044_Sh_A=冰河之
 #-------------------------------#
-    3454 :
-        標註 : 
-        原文 : >-
-            #ItemSkills
-        譯文 : >-
-            #ItemSkills物品技能
-#-------------------------------#
     3456 :
         標註 : 
         原文 : >-
@@ -21000,13 +20755,6 @@ tags_items.txt :
             tagAutoSkillCondition11= ({%d0}% Chance on Block)
         譯文 : >-
             tagAutoSkillCondition11=(格擋時有 {%d0}% 的機率施放該技能)
-#-------------------------------#
-    3469 :
-        標註 : 
-        原文 : >-
-            #LootChests
-        譯文 : >-
-            #LootChests寶箱
 #-------------------------------#
     3471 :
         標註 : 
@@ -21519,26 +21267,12 @@ tags_items.txt :
         譯文 : >-
             tagChestOneShot_HiddenWealth=隱藏寶藏
 #-------------------------------#
-    3552 :
-        標註 : 
-        原文 : >-
-            #Interactive Objects
-        譯文 : >-
-            #InteractiveObjects
-#-------------------------------#
     3553 :
         標註 : 
         原文 : >-
             tagShrineConstitutionA01=Untouched Meal
         譯文 : >-
             tagShrineConstitutionA01=未動過的飯
-#-------------------------------#
-    3555 :
-        標註 : 
-        原文 : >-
-            #Breakables
-        譯文 : >-
-            #Breakables可破壞
 #-------------------------------#
     3557 :
         標註 : 
@@ -21553,13 +21287,6 @@ tags_items.txt :
             tagBarnDoor=Barn Door
         譯文 : >-
             tagBarnDoor=穀倉門
-#-------------------------------#
-    3560 :
-        標註 : 
-        原文 : >-
-            #Dungeon Doors
-        譯文 : >-
-            #DungeonDoors地下城大門
 #-------------------------------#
     3562 :
         標註 : 
@@ -21680,13 +21407,6 @@ tags_items.txt :
         譯文 : >-
             tagDoorLever01=吊門控制器
 #-------------------------------#
-    3581 :
-        標註 : 
-        原文 : >-
-            #Doors
-        譯文 : >-
-            #Doors門
-#-------------------------------#
     3583 :
         標註 : 
         原文 : >-
@@ -21798,13 +21518,6 @@ tags_items.txt :
             tagLocked_Necro= {^R} ~ Sealed by the Order of Death's Vigil
         譯文 : >-
             tagLocked_Necro= {^R} ~ 由死亡守夜人教團封印著
-#-------------------------------#
-    3600 :
-        標註 : 
-        原文 : >-
-            #Quest Rewards
-        譯文 : >-
-            #QuestRewards任務獎勵
 #-------------------------------#
     3602 :
         標註 : 

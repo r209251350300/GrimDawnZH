@@ -1,13 +1,6 @@
 tags_creatures.txt : 
 
 #-------------------------------#
-    0 :
-        標註 : 
-        原文 : >-
-            #CreatureAllSurvivors
-        譯文 : >-
-            #CreatureAllSurvivors
-#-------------------------------#
     2 :
         標註 : 
         原文 : >-
@@ -246,13 +239,6 @@ tags_creatures.txt :
         譯文 : >-
             tagZealot_AncestralSpirit=執政官 巴託雷姆
 #-------------------------------#
-    42 :
-        標註 : 
-        原文 : >-
-            #CreatureAetherial
-        譯文 : >-
-            #CreatureAetherial
-#-------------------------------#
     44 :
         標註 : 
         原文 : >-
@@ -386,13 +372,6 @@ tags_creatures.txt :
         譯文 : >-
             tagAetherialCommanderBoss01=指揮官盧修斯
 #-------------------------------#
-    69 :
-        標註 : 
-        原文 : >-
-            #CreatureBoar
-        譯文 : >-
-            #CreatureBoar
-#-------------------------------#
     71 :
         標註 : 
         原文 : >-
@@ -455,13 +434,6 @@ tags_creatures.txt :
             tagBoarHeroH06=Riftsnout ~ Voidtouched
         譯文 : >-
             tagBoarHeroH06=裂隙之面 ~ 虛空之觸
-#-------------------------------#
-    83 :
-        標註 : 
-        原文 : >-
-            #CreatureBoneRat
-        譯文 : >-
-            #CreatureBoneRat 骨背鼠
 #-------------------------------#
     85 :
         標註 : 
@@ -554,26 +526,12 @@ tags_creatures.txt :
         譯文 : >-
             tagBoneRatMiniBoss02=貯藏者 普斯貴爾
 #-------------------------------#
-    103 :
-        標註 : 
-        原文 : >-
-            #CreatureCelestial
-        譯文 : >-
-            #CreatureCelestial 天神
-#-------------------------------#
     105 :
         標註 : 
         原文 : >-
             tagEnemyCelestial_QuestA01=Celestial Thing
         譯文 : >-
             tagEnemyCelestial_QuestA01=Celestial Thing
-#-------------------------------#
-    108 :
-        標註 : 
-        原文 : >-
-            #CreatureChthonian
-        譯文 : >-
-            #CreatureChthonian 冥靈
 #-------------------------------#
     110 :
         標註 : 
@@ -792,13 +750,6 @@ tags_creatures.txt :
         譯文 : >-
             tagChthonianBoss04=Balok'Anatu, Bloodfiend
 #-------------------------------#
-    149 :
-        標註 : 
-        原文 : >-
-            #CreatureChthonianFiend
-        譯文 : >-
-            #CreatureChthonianFiend
-#-------------------------------#
     151 :
         標註 : 
         原文 : >-
@@ -861,13 +812,6 @@ tags_creatures.txt :
             tagVoidFiendBoss01=Ballog'Nath, the Hellfire
         譯文 : >-
             tagVoidFiendBoss01=地獄之火 巴洛格·納斯
-#-------------------------------#
-    164 :
-        標註 : 
-        原文 : >-
-            #CreatureChthonianDevourer
-        譯文 : >-
-            #CreatureChthonianDevourer
 #-------------------------------#
     166 :
         標註 : 
@@ -938,13 +882,6 @@ tags_creatures.txt :
             tagChthonianDevourerBossB01=Rag'Nadar, the Great Maw
         譯文 : >-
             tagChthonianDevourerBossB01=巨胃 拉格·納達
-#-------------------------------#
-    180 :
-        標註 : 
-        原文 : >-
-            #CreatureDranghoul
-        譯文 : >-
-            #CreatureDranghoul 咆哮巨獸
 #-------------------------------#
     182 :
         標註 : 
@@ -1023,13 +960,6 @@ tags_creatures.txt :
         譯文 : >-
             tagDranghoulHeroH07=維納達 ~ 虛空之觸
 #-------------------------------#
-    196 :
-        標註 : 
-        原文 : >-
-            #CreatureFleshHulk
-        譯文 : >-
-            #CreatureFleshHulk 血肉巨人
-#-------------------------------#
     198 :
         標註 : 
         原文 : >-
@@ -1078,13 +1008,6 @@ tags_creatures.txt :
             tagFleshHulkHeroH04=Festerlis ~ Bruiser
         譯文 : >-
             tagFleshHulkHeroH04=菲斯特利斯 ~ 壓碎者
-#-------------------------------#
-    207 :
-        標註 : 
-        原文 : >-
-            #CreatureGazer
-        譯文 : >-
-            #CreatureGazer 
 #-------------------------------#
     209 :
         標註 : 
@@ -1148,13 +1071,6 @@ tags_creatures.txt :
             tagGazerHeroH06=Illumin ~ Electrified
         譯文 : >-
             tagGazerHeroH06=亮光 ~ 帶電
-#-------------------------------#
-    220 :
-        標註 : 
-        原文 : >-
-            #CreatureGhost
-        譯文 : >-
-            #CreatureGhost
 #-------------------------------#
     222 :
         標註 : 
@@ -1261,13 +1177,6 @@ tags_creatures.txt :
         譯文 : >-
             tagGhostBoss06=悲傷魂靈
 #-------------------------------#
-    240 :
-        標註 : 
-        原文 : >-
-            #Ghoul
-        譯文 : >-
-            #Ghoul 食屍鬼
-#-------------------------------#
     242 :
         標註 : 
         原文 : >-
@@ -1345,13 +1254,6 @@ tags_creatures.txt :
         譯文 : >-
             tagGhoulBoss02=Plagius, the Decrepit
 #-------------------------------#
-    257 :
-        標註 : 
-        原文 : >-
-            #CreatureGolem
-        譯文 : >-
-            #CreatureGolem 傀儡
-#-------------------------------#
     259 :
         標註 : 
         原文 : >-
@@ -1421,13 +1323,6 @@ tags_creatures.txt :
             tagGolemRockHeroH06=Voidstone ~ Voidtouched
         譯文 : >-
             tagGolemRockHeroH06=虛空之石 ~ 虛空之觸
-#-------------------------------#
-    271 :
-        標註 : 
-        原文 : >-
-            #CreatureGrobles
-        譯文 : >-
-            #CreatureGrobles
 #-------------------------------#
     273 :
         標註 : 
@@ -1702,13 +1597,6 @@ tags_creatures.txt :
         譯文 : >-
             tagGrobleHeroH05=霍爾伯拉克 ~ 防禦者
 #-------------------------------#
-    323 :
-        標註 : 
-        原文 : >-
-            #Harpy
-        譯文 : >-
-            #Harpy 鷹身女妖
-#-------------------------------#
     325 :
         標註 : 
         原文 : >-
@@ -1779,13 +1667,6 @@ tags_creatures.txt :
         譯文 : >-
             tagHarpyBossB01=被遺忘的盧特拉
 #-------------------------------#
-    338 :
-        標註 : 
-        原文 : >-
-            #CreatureHarvestman
-        譯文 : >-
-            #CreatureHarvestman
-#-------------------------------#
     340 :
         標註 : 
         原文 : >-
@@ -1827,13 +1708,6 @@ tags_creatures.txt :
             tagHarvestmanHeroH04=Crowfiend ~ Bruiser
         譯文 : >-
             tagHarvestmanHeroH04=烏鴉凶煞 ~ 壓碎者
-#-------------------------------#
-    348 :
-        標註 : 
-        原文 : >-
-            #CreatureHuman
-        譯文 : >-
-            #CreatureHuman
 #-------------------------------#
     350 :
         標註 : 
@@ -2276,13 +2150,6 @@ tags_creatures.txt :
         譯文 : >-
             tagHumanRoverA_C01=流浪者 強制者
 #-------------------------------#
-    423 :
-        標註 : 
-        原文 : >-
-            #CreatureHumanPossessed
-        譯文 : >-
-            #CreatureHumanPossessed 被佔據人類
-#-------------------------------#
     425 :
         標註 : 
         原文 : >-
@@ -2352,13 +2219,6 @@ tags_creatures.txt :
             tagHumanPossessedBoss01=Noveria Stormfire
         譯文 : >-
             tagHumanPossessedBoss01=風暴之火 諾維利亞
-#-------------------------------#
-    438 :
-        標註 : 
-        原文 : >-
-            #CreatureInsectDermapteran
-        譯文 : >-
-            #CreatureInsectDermapteran 革翅目
 #-------------------------------#
     440 :
         標註 : 
@@ -2465,13 +2325,6 @@ tags_creatures.txt :
         譯文 : >-
             tagDermapteranBoss04=領袖 汙染者 阿諾克斯 
 #-------------------------------#
-    459 :
-        標註 : 
-        原文 : >-
-            #CreatureInsectMosquito
-        譯文 : >-
-            #CreatureInsectMosquito 蚊子
-#-------------------------------#
     460 :
         標註 : 
         原文 : >-
@@ -2548,13 +2401,6 @@ tags_creatures.txt :
             tagInsectMosquitoHeroH05=Oorlax ~ Voidtouched
         譯文 : >-
             tagInsectMosquitoHeroH05=奧拉克斯 ~ 虛空之觸
-#-------------------------------#
-    473 :
-        標註 : 
-        原文 : >-
-            #CreatureInsectWasp
-        譯文 : >-
-            #CreatureInsectWasp 蜂群
 #-------------------------------#
     475 :
         標註 : 
@@ -2640,13 +2486,6 @@ tags_creatures.txt :
         譯文 : >-
             tagInsectWaspBoss02=至高女皇 羅納普萊克斯
 #-------------------------------#
-    490 :
-        標註 : 
-        原文 : >-
-            #CreatureInsectSwarm
-        譯文 : >-
-            #CreatureInsectSwarm 蟲群
-#-------------------------------#
     492 :
         標註 : 
         原文 : >-
@@ -2688,13 +2527,6 @@ tags_creatures.txt :
             tagInsectSwarmHeroH03=Omnol, the Blight ~ Diseased
         譯文 : >-
             tagInsectSwarmHeroH03=災荒 奧姆諾 ~ 疾病
-#-------------------------------#
-    501 :
-        標註 : 
-        原文 : >-
-            #CreatureManticores
-        譯文 : >-
-            #CreatureManticores 蠍尾獅
 #-------------------------------#
     503 :
         標註 : 
@@ -2801,13 +2633,6 @@ tags_creatures.txt :
         譯文 : >-
             tagManticoreBoss01=女王 莫伽拉
 #-------------------------------#
-    522 :
-        標註 : 
-        原文 : >-
-            #CreatureObsidianDefiler
-        譯文 : >-
-            #CreatureObsidianDefiler 黑曜石蠍子
-#-------------------------------#
     524 :
         標註 : 
         原文 : >-
@@ -2877,13 +2702,6 @@ tags_creatures.txt :
             tagObsidianDefilerBoss01=Bane'Gargoth
         譯文 : >-
             tagObsidianDefilerBoss01=夢魘 加戈斯
-#-------------------------------#
-    537 :
-        標註 : 
-        原文 : >-
-            #CreaturePrawns
-        譯文 : >-
-            #CreaturePrawns 蝦
 #-------------------------------#
     539 :
         標註 : 
@@ -3025,13 +2843,6 @@ tags_creatures.txt :
         譯文 : >-
             tagCavePrawnBoss01=捕食者 伊克里克斯
 #-------------------------------#
-    564 :
-        標註 : 
-        原文 : >-
-            #CreatureRaptor
-        譯文 : >-
-            #CreatureRaptor 猛禽
-#-------------------------------#
     566 :
         標註 : 
         原文 : >-
@@ -3129,13 +2940,6 @@ tags_creatures.txt :
             tagRaptorHeroH06=Balra ~ Voidtouched
         譯文 : >-
             tagRaptorHeroH06=巴爾拉 ~ 虛空之觸
-#-------------------------------#
-    583 :
-        標註 : 
-        原文 : >-
-            #CreatureRiftHound
-        譯文 : >-
-            #CreatureRiftHound 裂隙魔犬
 #-------------------------------#
     585 :
         標註 : 
@@ -3256,13 +3060,6 @@ tags_creatures.txt :
         譯文 : >-
             tagBossRifthoundB01=Kalis Ka, the Bonehunter
 #-------------------------------#
-    607 :
-        標註 : 
-        原文 : >-
-            #CreatureScavenger
-        譯文 : >-
-            #CreatureScavenger 食腐動物
-#-------------------------------#
     609 :
         標註 : 
         原文 : >-
@@ -3326,13 +3123,6 @@ tags_creatures.txt :
         譯文 : >-
             tagScavengerHeroH06=拉夫 ~ 虛空之觸
 #-------------------------------#
-    620 :
-        標註 : 
-        原文 : >-
-            #CreatureShadowman
-        譯文 : >-
-            #CreatureShadowman 影人
-#-------------------------------#
     622 :
         標註 : 
         原文 : >-
@@ -3353,13 +3143,6 @@ tags_creatures.txt :
             tagEnemyShadowmanC01=Shadowman Eidolon
         譯文 : >-
             tagEnemyShadowmanC01=影人 幻靈
-#-------------------------------#
-    626 :
-        標註 : 
-        原文 : >-
-            #CreatureSkeletal Golem
-        譯文 : >-
-            #CreatureSkeletal Golem 骷髏傀儡
 #-------------------------------#
     628 :
         標註 : 
@@ -3423,13 +3206,6 @@ tags_creatures.txt :
             tagSkeletalGolemBossB02=Uroboruuk's Guardian
         譯文 : >-
             tagSkeletalGolemBossB02=尤若布魯克的守衛
-#-------------------------------#
-    641 :
-        標註 : 
-        原文 : >-
-            #CreatureSkeleton
-        譯文 : >-
-            #CreatureSkeleton 骷髏
 #-------------------------------#
     643 :
         標註 : 
@@ -3591,13 +3367,6 @@ tags_creatures.txt :
             tagGravestone_Skeleton03=Ryan
         譯文 : >-
             tagGravestone_Skeleton03=瑞恩
-#-------------------------------#
-    670 :
-        標註 : 
-        原文 : >-
-            #CreatureSlith
-        譯文 : >-
-            #CreatureSlith 蛇人
 #-------------------------------#
     672 :
         標註 : 
@@ -3823,13 +3592,6 @@ tags_creatures.txt :
         譯文 : >-
             tagEnemyMurkTide_SlithShamanC01=黑潮召喚者
 #-------------------------------#
-    710 :
-        標註 : 
-        原文 : >-
-            #CreatureSpider
-        譯文 : >-
-            #CreatureSpider 蜘蛛
-#-------------------------------#
     712 :
         標註 : 
         原文 : >-
@@ -3913,13 +3675,6 @@ tags_creatures.txt :
             tagSpiderHeroH06=Uldina, the Broodmother ~ Defender
         譯文 : >-
             tagSpiderHeroH06=育母蜘蛛 奧蒂娜 ~ 防禦者
-#-------------------------------#
-    726 :
-        標註 : 
-        原文 : >-
-            #CreatureThornedHorror
-        譯文 : >-
-            #CreatureThornedHorror 荊棘恐魔
 #-------------------------------#
     728 :
         標註 : 
@@ -4005,13 +3760,6 @@ tags_creatures.txt :
         譯文 : >-
             tagAetherHorrorHeroH01=艾澤若斯
 #-------------------------------#
-    747 :
-        標註 : 
-        原文 : >-
-            #CreatureTraps
-        譯文 : >-
-            #CreatureTraps 陷阱
-#-------------------------------#
     749 :
         標註 : 
         原文 : >-
@@ -4046,13 +3794,6 @@ tags_creatures.txt :
             tagEnemyTrapA05=Floor Spikes
         譯文 : >-
             tagEnemyTrapA05=地面尖刺
-#-------------------------------#
-    755 :
-        標註 : 
-        原文 : >-
-            #CreatureTrolls
-        譯文 : >-
-            #CreatureTrolls 巨魔
 #-------------------------------#
     757 :
         標註 : 
@@ -4390,13 +4131,6 @@ tags_creatures.txt :
         譯文 : >-
             tagTrollCorruptedBoss01=屠殺者 哈拉斯
 #-------------------------------#
-    817 :
-        標註 : 
-        原文 : >-
-            #CreatureUnderdwellers
-        譯文 : >-
-            #CreatureUnderdwellers
-#-------------------------------#
     819 :
         標註 : 
         原文 : >-
@@ -4544,13 +4278,6 @@ tags_creatures.txt :
         譯文 : >-
             tagCaveTrollHalfBoss01=穴居者 高魯斯
 #-------------------------------#
-    843 :
-        標註 : 
-        原文 : >-
-            #CreatureVultures
-        譯文 : >-
-            #creatureVultures 禿鷲
-#-------------------------------#
     845 :
         標註 : 
         原文 : >-
@@ -4607,13 +4334,6 @@ tags_creatures.txt :
         譯文 : >-
             tagHeroVultureH05=虛空利爪 ~ 虛化之觸
 #-------------------------------#
-    855 :
-        標註 : 
-        原文 : >-
-            #CreatureWorm
-        譯文 : >-
-            #CreatureWorm 蟲
-#-------------------------------#
     857 :
         標註 : 
         原文 : >-
@@ -4669,13 +4389,6 @@ tags_creatures.txt :
             tagWormHeroH05=Riftworm ~ Voidtouched
         譯文 : >-
             tagWormHeroH05=裂隙魔蟲 ~ 虛化之觸
-#-------------------------------#
-    868 :
-        標註 : 
-        原文 : >-
-            #CreatureYeti
-        譯文 : >-
-            #CreatureYeti 雪人
 #-------------------------------#
     870 :
         標註 : 
@@ -4739,13 +4452,6 @@ tags_creatures.txt :
             tagYetiBoss01=Ragrathar Rageblood
         譯文 : >-
             tagYetiBoss01=Ragrathar Rageblood
-#-------------------------------#
-    883 :
-        標註 : 
-        原文 : >-
-            #CreatureZombie
-        譯文 : >-
-            #CreatureZombie
 #-------------------------------#
     885 :
         標註 : 
@@ -4908,13 +4614,6 @@ tags_creatures.txt :
         譯文 : >-
             tagZombieHeroH10=巫火 艾爾瑞克
 #-------------------------------#
-    912 :
-        標註 : 
-        原文 : >-
-            #CreatureZombieHound
-        譯文 : >-
-            #CreatureZombieHound
-#-------------------------------#
     914 :
         標註 : 
         原文 : >-
@@ -4956,13 +4655,6 @@ tags_creatures.txt :
             tagZombieHoundHeroH04=Bloodhowl ~ Regenerator
         譯文 : >-
             tagZombieHoundHeroH04=血之咆哮 ~ 回覆者
-#-------------------------------#
-    922 :
-        標註 : 
-        原文 : >-
-            #CreatureReanimator
-        譯文 : >-
-            #CreatureReanimator 復生者
 #-------------------------------#
     924 :
         標註 : 
@@ -5033,13 +4725,6 @@ tags_creatures.txt :
             tagReanimatorBossH04=Nazagrad, the Fallen
         譯文 : >-
             tagReanimatorBossH04=墮落者 那扎格拉德
-#-------------------------------#
-    937 :
-        標註 : 
-        原文 : >-
-            #Pets
-        譯文 : >-
-            #Pets 寵物
 #-------------------------------#
     939 :
         標註 : 
@@ -5181,13 +4866,6 @@ tags_creatures.txt :
         譯文 : >-
             tagDLCWisp=Will'O'Wisp
 #-------------------------------#
-    965 :
-        標註 : 
-        原文 : >-
-            #EnemySummons
-        譯文 : >-
-            #EnemySummons 敵軍召喚物
-#-------------------------------#
     967 :
         標註 : 
         原文 : >-
@@ -5251,13 +4929,6 @@ tags_creatures.txt :
         譯文 : >-
             tagEnemySummonTentacle=纏繞觸手
 #-------------------------------#
-    977 :
-        標註 : 
-        原文 : >-
-            #Boss&Quest
-        譯文 : >-
-            #Boss&Quest boss和任務怪
-#-------------------------------#
     979 :
         標註 : 
         原文 : >-
@@ -5313,13 +4984,6 @@ tags_creatures.txt :
             tagBossOutcast03=Anasteria, Wrath of the Aether
         譯文 : >-
             tagBossOutcast03=虛靈之怒 阿納斯塔裡婭
-#-------------------------------#
-    989 :
-        標註 : 
-        原文 : >-
-            #Nemesis
-        譯文 : >-
-            #Nemesis 復仇者
 #-------------------------------#
     990 :
         標註 : 
@@ -5432,13 +5096,6 @@ tags_creatures.txt :
             tagNemesis_Undead03=Toxemus
         譯文 : >-
             tagNemesis_Undead03=血毒
-#-------------------------------#
-    1008 :
-        標註 : 
-        原文 : >-
-            #Bounties
-        譯文 : >-
-            #Bounties 賞金
 #-------------------------------#
     1009 :
         標註 : 
@@ -5726,13 +5383,6 @@ tags_creatures.txt :
             tagBountyRO19=Grum
         譯文 : >-
             tagBountyRO19=格魯姆
-#-------------------------------#
-    1051 :
-        標註 : 
-        原文 : >-
-            #Races
-        譯文 : >-
-            #Races 種族
 #-------------------------------#
     1053 :
         標註 : 

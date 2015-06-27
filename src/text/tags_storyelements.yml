@@ -1,13 +1,6 @@
 tags_storyelements.txt : 
 
 #-------------------------------#
-    0 :
-        標註 : 
-        原文 : >-
-            #Region Names
-        譯文 : >-
-            #Region Names
-#-------------------------------#
     2 :
         標註 : 
         原文 : >-
@@ -561,13 +554,6 @@ tags_storyelements.txt :
         譯文 : >-
             #Riftgate Names
 #-------------------------------#
-    88 :
-        標註 : 
-        原文 : >-
-            #Riftgate Names
-        譯文 : >-
-            tagRiftDevilsCrossing=惡魔十字傳送門
-#-------------------------------#
     90 :
         標註 : 
         原文 : >-
@@ -763,13 +749,6 @@ tags_storyelements.txt :
             tagRiftRandom01=Chthonic Rift
         譯文 : >-
             #World Map Labels
-#-------------------------------#
-    123 :
-        標註 : 
-        原文 : >-
-            #World Map Labels
-        譯文 : >-
-            tagWorldMapBurrwitchEstates={^w}伯爾維治{^n}{^w}莊園
 #-------------------------------#
     125 :
         標註 : 
@@ -1106,13 +1085,6 @@ tags_storyelements.txt :
             tagWorldMapBloodGroveMine=Morton's{^n}Claim
         譯文 : >-
             tagWorldMapBloodGroveMine=Morton's{^n}Claim
-#-------------------------------#
-    175 :
-        標註 : 
-        原文 : >-
-            #Underground Names
-        譯文 : >-
-            tagUGLowerCrossingRatDen01=腐敗獸穴
 #-------------------------------#
     177 :
         標註 : 
@@ -1548,13 +1520,6 @@ tags_storyelements.txt :
         譯文 : >-
             #Signs
 #-------------------------------#
-    245 :
-        標註 : 
-        原文 : >-
-            #Signs
-        譯文 : >-
-            tagSign_BurialHill=殮葬山
-#-------------------------------#
     247 :
         標註 : 
         原文 : >-
@@ -1729,13 +1694,6 @@ tags_storyelements.txt :
             tagGravestone_OldArkovia03=Here Lies: Ryan
         譯文 : >-
             #Points of Interest
-#-------------------------------#
-    275 :
-        標註 : 
-        原文 : >-
-            #Points of Interest
-        譯文 : >-
-            tagPOI001A=入口
 #-------------------------------#
     277 :
         標註 : 
@@ -2206,13 +2164,6 @@ tags_storyelements.txt :
         譯文 : >-
             tagPOIQuest_Homestead=Secure a way to Homestead
 #-------------------------------#
-    349 :
-        標註 : 
-        原文 : >-
-            #Notifications
-        譯文 : >-
-            tagNotification_WightmireBurialCaveFound=距離死屍的源頭已經不遠了……
-#-------------------------------#
     351 :
         標註 : 
         原文 : >-
@@ -2408,13 +2359,6 @@ tags_storyelements.txt :
             tagNotification_WarningGatesOfAnguishLocked=The Gates of Anguish are sealed and will not reopen again in this session.
         譯文 : >-
             #NPCNames
-#-------------------------------#
-    384 :
-        標註 : 
-        原文 : >-
-            #NPC Names
-        譯文 : >-
-            tagNPC_JohnBourbon=約翰·波旁隊長
 #-------------------------------#
     386 :
         標註 : 
@@ -3116,13 +3060,6 @@ tags_storyelements.txt :
         譯文 : >-
             tagNPC_SybilGreene=Sybil Greene
 #-------------------------------#
-    499 :
-        標註 : 
-        原文 : >-
-            #Flavor NPC Names
-        譯文 : >-
-            tagNPC_Jailor=劊子手·賈維斯
-#-------------------------------#
     501 :
         標註 : 
         原文 : >-
@@ -3578,13 +3515,6 @@ tags_storyelements.txt :
         譯文 : >-
             #Quest Items
 #-------------------------------#
-    570 :
-        標註 : 
-        原文 : >-
-            #Quest Items
-        譯文 : >-
-            tagQuestItemHartsAmulet_Name=哈特的項鍊
-#-------------------------------#
     572 :
         標註 : 
         原文 : >-
@@ -4011,13 +3941,6 @@ tags_storyelements.txt :
             tagQuestItemDesecratedAshes_Desc="The corrupted ashes of Archon Barthollem, devout follower of a forgotten god."
         譯文 : >-
             #Journals 日誌
-#-------------------------------#
-    658 :
-        標註 : 
-        原文 : >-
-            #Journals
-        譯文 : >-
-            tagLoreObj_InquisitorCreedA01Name=審判官克里德的日誌-第一章
 #-------------------------------#
     660 :
         標註 : 
@@ -4551,13 +4474,6 @@ tags_storyelements.txt :
         譯文 : >-
             tagLoreObject_BozemanFollyText=They all say I'm insane for taking the caravan through the deep road. The only thing that's insane is paying bribes to those smug bastards in control of Smuggler's Pass. May as well pay the imperial tariffs!{^n}{^n}I've heard on good account that the dangers in the mountain deeps are well overblown, and that the exit will spit us out far closer to Homestead than that bandit-ridden pass.{^n}{^n}When I'm swimming in gold up to my neck down in Burrwitch, then they'll all see. They'll all see that Bozeman was right.
 #-------------------------------#
-    772 :
-        標註 : 
-        原文 : >-
-            #Random Burrwitch Notes
-        譯文 : >-
-            tagLoreObj_BookA01Text=Fear, my brothers. Fear ye the Ch'thonian, for it is the harbinger of our sins. Speak not the name of its master, for it is the manifestation of malevolence and vile intent. Abhor the heretic, for his words are poison to the ears of the faithful. Just as evil must be purged of the soul, so the heretic must be purged of the living.
-#-------------------------------#
     773 :
         標註 : 
         原文 : >-
@@ -4803,13 +4719,6 @@ tags_storyelements.txt :
         譯文 : >-
             tagLoreObj_VillagerNoteE01Text=The office of the Magistrate of Burrwitch has received increased reports of Groble activity in the area. Citizens are advised to secure their homes as Grobles are known to steal loose scrap and valuables. While encounters with individual Grobles rarely lead to injury, it is highly advisable that citizens avoid larger gatherings of the foul beastkin.{^n}{^n}Groble encampments are characterized by heathen totems and piles of stolen property. If you discover the presence of Groble totems in your area, do not approach them. Report the camp to proper authorities immediately.
 #-------------------------------#
-    826 :
-        標註 : 
-        原文 : >-
-            #Random Old Arkovia Notes
-        譯文 : >-
-            tagLoreObj_OldArkovia_NoteA01Text=I thought about ending it. But I witnessed first-hand what happens when you try. Good people, driven to madness by this...this curse... I don't blame them for trying to escape this never-ending torment, even if escape seemingly comes at the edge of a knife. There is no way out though. We are bound to our flesh and bone, even as they rot away to the winds of time.{^n}{^n}To others, a knife brings a sharp reminder that we once lived. There are those who willingly partake of this newfound pleasure, carving each other apart in a downward spiral of decadence and depravity. But I cannot deny the temptation to join those in the streets as they spill their blood onto the cold stone. As I look upon my rotting hands, I begin to wonder if perhaps it is too late even for that. How long will this torture last? How far will we decay before we are at last set free?
-#-------------------------------#
     827 :
         標註 : 
         原文 : >-
@@ -4879,13 +4788,6 @@ tags_storyelements.txt :
             tagLoreObj_OldArkovia_BookA03Text=I can hear them bustling about outside. They came at last, and in great numbers. Wise...{^n}{^n}Many tales had been spun around my persona over the centuries, most of them grossly exaggerated, but they served a subtle purpose in keeping me free of abuse and interference. It appears that even the stories will not keep the Arkovians away this time.{^n}{^n}I must end this entry as they will soon be upon me. I do not fear what will come next. In the end of all things, they will be ashes, and only I will remain...{^n}{^n}Uroboruuk
         譯文 : >-
             tagLoreObj_OldArkovia_BookA03Text=I can hear them bustling about outside. They came at last, and in great numbers. Wise...{^n}{^n}Many tales had been spun around my persona over the centuries, most of them grossly exaggerated, but they served a subtle purpose in keeping me free of abuse and interference. It appears that even the stories will not keep the Arkovians away this time.{^n}{^n}I must end this entry as they will soon be upon me. I do not fear what will come next. In the end of all things, they will be ashes, and only I will remain...{^n}{^n}Uroboruuk
-#-------------------------------#
-    843 :
-        標註 : 
-        原文 : >-
-            #Cronley's Mine Notes
-        譯文 : >-
-            tagLoreObj_Cronley_NoteA01Text=Word going 'round the camp is that the undead finally stopped attacking the walls. Not that I'm complaining, but a man's gotta wonder why. Just the other day, we lost three on the west wall when a bunch of them corpsefiends burst out of the bodies and took everyone by surprise. They was bleeding us dry, with no end in sight to their numbers. Hell, pretty sure I've seen a few of our dead lurking around out there. Now I ain't no general, but seems to me like it was only a matter of time.{^n}{^n}The boss says that we've won, that 古安克維亞 belongs to the gang. He's even called in his top lieutenants to join him in the mine for some sorta celebration. Feels too soon to me, but ain't nobody asking what Wilkins thinks.
 #-------------------------------#
     844 :
         標註 : 
@@ -4977,13 +4879,6 @@ tags_storyelements.txt :
             tagLoreObj_Cronley_NoteA06Text=The Aetherials left. They are headed north to Homestead in order to squash a human resistance orchestrated by the damned Black Legion. I've been left to my own devices, but for one caveat: eradicate Devil's Crossing. It is a task I will relish with great pleasure.  There are so many ways I could squeeze the life out of Bourbon, but unfortunately I'll have to settle for just one. Perhaps after I behead his mangled corpse, I'll shove him full of aether shards and bring him back as a personal servant. Then I can kill him over and over and over again.{^n}{^n}But first I must finish my glorious army. Another batch of aspiring followers is due to arrive within the hour. They have no idea of what suffering and agony is in store for them. I sometimes wish that more would die during the procedure. The failed ones make for such entertaining playthings, their screams echoing through the tunnels. Perhaps today I will have to slit one's throat, just for good fun.
         譯文 : >-
             tagLoreObj_Cronley_NoteA06Text=The Aetherials left. They are headed north to Homestead in order to squash a human resistance orchestrated by the damned Black Legion. I've been left to my own devices, but for one caveat: eradicate Devil's Crossing. It is a task I will relish with great pleasure.  There are so many ways I could squeeze the life out of Bourbon, but unfortunately I'll have to settle for just one. Perhaps after I behead his mangled corpse, I'll shove him full of aether shards and bring him back as a personal servant. Then I can kill him over and over and over again.{^n}{^n}But first I must finish my glorious army. Another batch of aspiring followers is due to arrive within the hour. They have no idea of what suffering and agony is in store for them. I sometimes wish that more would die during the procedure. The failed ones make for such entertaining playthings, their screams echoing through the tunnels. Perhaps today I will have to slit one's throat, just for good fun.
-#-------------------------------#
-    864 :
-        標註 : 
-        原文 : >-
-            #AreaC Notes
-        譯文 : >-
-            tagLoreObj_HiddenWealth_MapCodexTitle=艾弗布魯克的遺願
 #-------------------------------#
     865 :
         標註 : 
@@ -5307,26 +5202,12 @@ tags_storyelements.txt :
         譯文 : >-
             tagLoreObj_AreaCZealot_Note04Text=There are questions that have been scratching at the back of my mind. I have tried to push them aside but with each conversation I have with the Messenger they become harder to ignore.{^n}{^n}I must ask: when the last demon is driven from this world, what will become of us then? In my heart, I fear I already know the answer, but dare not speak it out loud. I have no doubt that I have made the right choice. The power I have revived will be humanity's salvation from the blood fiends of the Chthonic Void.{^n}{^n}However, there must always be evil. And when there is no evil left to conquer who or, more frighteningly, what will fill that emptiness? Will we become as reviled as those who we oppose? The Primordial powers have no care or sympathy for humanity. Without shackles, this power I have borrowed could be just as disastrous as, or perhaps even worse than, Ch'thon.{^n}{^n}I now wish I had not burned the town where I awoke this ancient being. If it ever needs to be stopped I may have destroyed the last remaining knowledge to unmake it.{^n}{^n}Father Kymon
 #-------------------------------#
-    935 :
-        標註 : 
-        原文 : >-
-            #Guards
-        譯文 : >-
-            tagNPC_GateGuardA01=守門人 - 魯克 
-#-------------------------------#
     937 :
         標註 : 
         原文 : >-
             tagNPC_GateGuardA01=Rook - Gate Keeper
         譯文 : >-
             tagNPC_GateGuardA01=Rook - Gate Keeper
-#-------------------------------#
-    940 :
-        標註 : 
-        原文 : >-
-            #Merchants and Other Services
-        譯文 : >-
-            tagNPC_BonusItems=保管人 科麗
 #-------------------------------#
     942 :
         標註 : 
@@ -5748,13 +5629,6 @@ tags_storyelements.txt :
         譯文 : >-
             tagStoreDesc_SmithA05_4=Crafted Weapons, Armor and Accessories are imbued with one of the following properties:
 #-------------------------------#
-    1023 :
-        標註 : 
-        原文 : >-
-            #Faction Quartermasters
-        譯文 : >-
-            tagStoreTitle_FactionQuartermaster_01=軍需官
-#-------------------------------#
     1024 :
         標註 : 
         原文 : >-
@@ -5887,13 +5761,6 @@ tags_storyelements.txt :
             tagStoreTitle_FactionQuartermaster_10=The Outcasts's Secrets
         譯文 : >-
             #Faction Bounty Tables
-#-------------------------------#
-    1050 :
-        標註 : 
-        原文 : >-
-            #Faction Bounty Tables
-        譯文 : >-
-            tagNPC_FactionTable_02=流浪者賞金桌
 #-------------------------------#
     1051 :
         標註 : 

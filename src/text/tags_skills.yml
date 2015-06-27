@@ -386,13 +386,6 @@ tags_skills.txt :
         譯文 : >-
             tagSkillClassDescription09=
 #-------------------------------#
-    67 :
-        標註 : 
-        原文 : >-
-            #Default
-        譯文 : >-
-            #Default默認
-#-------------------------------#
     69 :
         標註 : 
         原文 : >-
@@ -455,13 +448,6 @@ tags_skills.txt :
             tagSkillUsableReady=Skill Ready
         譯文 : >-
             tagSkillUsableReady=技能已準備就緒
-#-------------------------------#
-    83 :
-        標註 : 
-        原文 : >-
-            #Class01
-        譯文 : >-
-            #Class01職業01
 #-------------------------------#
     85 :
         標註 : 
@@ -924,13 +910,6 @@ tags_skills.txt :
             tagClass01SkillDescription05X=Greatly magnifies the power of Blade Arc and increases the number of targets hit.
         譯文 : >-
             tagClass01SkillDescription05X=極大地增強刀鋒橫掃的威力並提升其擊中目標個數。
-#-------------------------------#
-    170 :
-        標註 : 
-        原文 : >-
-            #Class02
-        譯文 : >-
-            #Class02
 #-------------------------------#
     172 :
         標註 : 
@@ -1477,13 +1456,6 @@ tags_skills.txt :
             tagClass02SkillDescription14A=A powerful attack that does increased damage and knocks down most small to mid-sized enemies.
         譯文 : >-
             tagClass02SkillDescription14A=提升傷害並擊倒小到中型敵人的強力攻擊。
-#-------------------------------#
-    266 :
-        標註 : 
-        原文 : >-
-            #Class03
-        譯文 : >-
-            #Class03
 #-------------------------------#
     268 :
         標註 : 
@@ -2044,13 +2016,6 @@ tags_skills.txt :
             tagClass03SkillDescription15A=Seals the target within a protective, healing sanctuary where they are unable to move but shielded against all harm.
         譯文 : >-
             tagClass03SkillDescription15A=將目標封印於一塊保護性的愈傷結界內，目標雖然無法移動但是能夠免疫一切傷害。
-#-------------------------------#
-    364 :
-        標註 : 
-        原文 : >-
-            #Class04
-        譯文 : >-
-            #Class04
 #-------------------------------#
     366 :
         標註 : 
@@ -2675,13 +2640,6 @@ tags_skills.txt :
         譯文 : >-
             tagClass04SkillDescription15B=一項大師級的武技，能夠更有效地切割內臟，如果完美地施放更能造成毀滅性的傷害。但同時它也有徒勞無功的危險。
 #-------------------------------#
-    472 :
-        標註 : 
-        原文 : >-
-            #Class05
-        譯文 : >-
-            #Class05
-#-------------------------------#
     474 :
         標註 : 
         原文 : >-
@@ -3185,13 +3143,6 @@ tags_skills.txt :
             tagClass05SkillDescription16B=Completely sap the nearby air of heat, leaving anything caught within the Flash Freeze slowed and debilitated even after the initial effects wear off.
         譯文 : >-
             tagClass05SkillDescription16B=完全吸乾周圍空氣中的熱量，使所有接觸到的敵人減速和衰弱，即使是在最初的凍結效果已經消失之後。
-#-------------------------------#
-    564 :
-        標註 : 
-        原文 : >-
-            #Class06
-        譯文 : >-
-            #Class06
 #-------------------------------#
     565 :
         標註 : 
@@ -3739,27 +3690,6 @@ tags_skills.txt :
         譯文 : >-
             xtagClass06SkillDescription08B_Pet=A swirling whirlwind of destruction assaults nearby foes.
 #-------------------------------#
-    660 :
-        標註 : 
-        原文 : >-
-            #Class07
-        譯文 : >-
-            #Class07
-#-------------------------------#
-    663 :
-        標註 : 
-        原文 : >-
-            #Class08
-        譯文 : >-
-            #Class08
-#-------------------------------#
-    666 :
-        標註 : 
-        原文 : >-
-            #Class09
-        譯文 : >-
-            #Class09
-#-------------------------------#
     668 :
         標註 : 
         原文 : >-
@@ -3913,13 +3843,6 @@ tags_skills.txt :
             xxxtagClass05SkillDescription02A=Coats your weapons with oil from the vile brew.
         譯文 : >-
             xxxtagClass05SkillDescription02A=將你的武器塗滿墮落釀造之油。
-#-------------------------------#
-    706 :
-        標註 : 
-        原文 : >-
-            #ItemSkills
-        譯文 : >-
-            #ItemSkills
 #-------------------------------#
     708 :
         標註 : 
@@ -6413,13 +6336,6 @@ tags_skills.txt :
         譯文 : >-
             tagItemSkillFailDesc=Failalittleharder.
 #-------------------------------#
-    1238 :
-        標註 : 
-        原文 : >-
-            #Component Skills
-        譯文 : >-
-            #ComponentSkills
-#-------------------------------#
     1240 :
         標註 : 
         原文 : >-
@@ -6979,13 +6895,6 @@ tags_skills.txt :
             tagCompSkillB006Desc=Strikes with your weapon, inflicting grievous wounds and crippling the target.
         譯文 : >-
             tagCompSkillB006Desc=用你的武器猛擊，造成重傷並致殘目標。
-#-------------------------------#
-    1363 :
-        標註 : 
-        原文 : >-
-            #Relic Skills
-        譯文 : >-
-            #Relic Skills
 #-------------------------------#
     1365 :
         標註 : 
@@ -7680,13 +7589,6 @@ tags_skills.txt :
         譯文 : >-
             tagRelicSkillD021Desc=你冒著施法中斷的風險，謹慎地平衡著元素力量。釋放一股讓你的敵人後悔靠近你的力量。^o需要裝備施法者副手。
 #-------------------------------#
-    1515 :
-        標註 : 
-        原文 : >-
-            #ConsumableSkills
-        譯文 : >-
-            #ConsumableSkills
-#-------------------------------#
     1517 :
         標註 : 
         原文 : >-
@@ -8191,13 +8093,6 @@ tags_skills.txt :
         譯文 : >-
             tagConsumableSkill_F12Desc=你發出爆裂的火焰。
 #-------------------------------#
-    1592 :
-        標註 : 
-        原文 : >-
-            #SkillsQuest
-        譯文 : >-
-            #SkillsQuest
-#-------------------------------#
     1594 :
         標註 : 
         原文 : >-
@@ -8225,13 +8120,6 @@ tags_skills.txt :
             tagQuestSkill_A02Desc=Your weapons are enchanted by the Order.
         譯文 : >-
             tagQuestSkill_A02Desc=你的武器受到了教團的強化。
-#-------------------------------#
-    1600 :
-        標註 : 
-        原文 : >-
-            #SkillsGeneral
-        譯文 : >-
-            #SkillsGeneral
 #-------------------------------#
     1602 :
         標註 : 
@@ -8302,13 +8190,6 @@ tags_skills.txt :
             tagConfirmSkillChanges=Confirm changes?
         譯文 : >-
             tagConfirmSkillChanges=確認變更？
-#-------------------------------#
-    1613 :
-        標註 : 
-        原文 : >-
-            #SkillDevotion
-        譯文 : >-
-            #SkillDevotion
 #-------------------------------#
     1614 :
         標註 : 
@@ -8464,13 +8345,6 @@ tags_skills.txt :
         譯文 : >-
             tagDevotionInfo=在這最為黑暗的時刻，人性將會成為耀眼的星辰。將自己奉獻給天神和古老的神明，來獲得他們古老的力量。
 #-------------------------------#
-    1638 :
-        標註 : 
-        原文 : >-
-            #SkillsReallocator
-        譯文 : >-
-            #SkillsReallocator
-#-------------------------------#
     1640 :
         標註 : 
         原文 : >-
@@ -8617,13 +8491,6 @@ tags_skills.txt :
             tagTemplateDescription=Describe Me
         譯文 : >-
             tagTemplateDescription=DescribeMe
-#-------------------------------#
-    1665 :
-        標註 : 
-        原文 : >-
-            #EnemySkills
-        譯文 : >-
-            #EnemySkills 敵人技能
 #-------------------------------#
     1667 :
         標註 : 

@@ -1,13 +1,6 @@
 tags_ui.txt : 
 
 #-------------------------------#
-    0 :
-        標註 : 
-        原文 : >-
-            ﻿#General
-        譯文 : >-
-            #General
-#-------------------------------#
     2 :
         標註 : 
         原文 : >-
@@ -176,13 +169,6 @@ tags_ui.txt :
         譯文 : >-
             tagTransferStashError={^r}那件物品不能放置在這裡
 #-------------------------------#
-    34 :
-        標註 : 
-        原文 : >-
-            #Riftgate
-        譯文 : >-
-            #Riftgate
-#-------------------------------#
     36 :
         標註 : 
         原文 : >-
@@ -217,13 +203,6 @@ tags_ui.txt :
             tagRiftGateMapA01=Cairn
         譯文 : >-
             tagRiftGateMapA01=凱恩世界
-#-------------------------------#
-    42 :
-        標註 : 
-        原文 : >-
-            #Quest
-        譯文 : >-
-            #Quest
 #-------------------------------#
     44 :
         標註 : 
@@ -539,13 +518,6 @@ tags_ui.txt :
             tagQuestBlockedDescription=Quest Locked in this Session based on Host's Progress.
         譯文 : >-
             tagQuestBlockedDescription=基於遊戲建立者的進度，任務在此次遊戲中已經鎖定。
-#-------------------------------#
-    90 :
-        標註 : 
-        原文 : >-
-            #Faction
-        譯文 : >-
-            #Faction
 #-------------------------------#
     92 :
         標註 : 
@@ -2108,13 +2080,6 @@ tags_ui.txt :
         譯文 : >-
             tagFactionStateRevered=敬畏
 #-------------------------------#
-    316 :
-        標註 : 
-        原文 : >-
-            #Faction Window
-        譯文 : >-
-            #Faction Window 勢力窗口
-#-------------------------------#
     318 :
         標註 : 
         原文 : >-
@@ -2262,13 +2227,6 @@ tags_ui.txt :
         譯文 : >-
             tagFactionBonusRep=聲望加成： {%d0}%
 #-------------------------------#
-    340 :
-        標註 : 
-        原文 : >-
-            #Achievements
-        譯文 : >-
-            #Achievements 成就
-#-------------------------------#
     342 :
         標註 : 
         原文 : >-
@@ -2282,13 +2240,6 @@ tags_ui.txt :
             tagAchievementUnlocked=Achievement Unlocked!
         譯文 : >-
             tagAchievementUnlocked=已解鎖成就！
-#-------------------------------#
-    345 :
-        標註 : 
-        原文 : >-
-            #HUD
-        譯文 : >-
-            #HUD
 #-------------------------------#
     347 :
         標註 : 
@@ -2731,13 +2682,6 @@ tags_ui.txt :
         譯文 : >-
             tagHUDButtonRollOptions=保存，退出和遊戲設置。
 #-------------------------------#
-    421 :
-        標註 : 
-        原文 : >-
-            #SkillUI
-        譯文 : >-
-            #SkillUI
-#-------------------------------#
     423 :
         標註 : 
         原文 : >-
@@ -2828,13 +2772,6 @@ tags_ui.txt :
             tagSkillPointsRemainSingular={%d0} Point Remaining
         譯文 : >-
             tagSkillPointsRemainSingular={%d0} 點剩餘點數
-#-------------------------------#
-    437 :
-        標註 : 
-        原文 : >-
-            #Character
-        譯文 : >-
-            #Character
 #-------------------------------#
     439 :
         標註 : 
@@ -3788,20 +3725,6 @@ tags_ui.txt :
         譯文 : >-
             tagItemInsufficientStatus={^r}聲望不足
 #-------------------------------#
-    599 :
-        標註 : 
-        原文 : >-
-            #Char Stats Tab 2
-        譯文 : >-
-            #CharStatsTab2人物屬性欄2
-#-------------------------------#
-    601 :
-        標註 : 
-        原文 : >-
-            #Character
-        譯文 : >-
-            #Character人物
-#-------------------------------#
     602 :
         標註 : 
         原文 : >-
@@ -3998,13 +3921,6 @@ tags_ui.txt :
         譯文 : >-
             tagCharStatsArcanistSkillsBonusInfo=所有奧術師專精中已習得技能的額外加成。
 #-------------------------------#
-    631 :
-        標註 : 
-        原文 : >-
-            #Physical
-        譯文 : >-
-            #Physical物理
-#-------------------------------#
     632 :
         標註 : 
         原文 : >-
@@ -4186,13 +4102,6 @@ tags_ui.txt :
             tagCharStatsDamageToHealthInfo=The percent of the weapon attack damage you deal which also replenishes your health.
         譯文 : >-
             tagCharStatsDamageToHealthInfo=武器傷害用來回復生命的百分數。
-#-------------------------------#
-    664 :
-        標註 : 
-        原文 : >-
-            #Magical
-        譯文 : >-
-            #Magical魔法
 #-------------------------------#
     665 :
         標註 : 
@@ -4656,13 +4565,6 @@ tags_ui.txt :
         譯文 : >-
             tagCharStatsVitalityDecayDurationInfo=你的活力衰減傷害持續時間的額外加成的百分數，每秒造成的傷害不會提高。
 #-------------------------------#
-    747 :
-        標註 : 
-        原文 : >-
-            #Pets
-        譯文 : >-
-            #Pets
-#-------------------------------#
     748 :
         標註 : 
         原文 : >-
@@ -4760,20 +4662,6 @@ tags_ui.txt :
             tagCharStatsPetDAInfo=The percent bonus to the Defensive Ability of your pets and summoned minions.
         譯文 : >-
             tagCharStatsPetDAInfo=你的戰寵和召喚物的防禦能力加成的百分數。
-#-------------------------------#
-    769 :
-        標註 : 
-        原文 : >-
-            #Char Stats Tab 3
-        譯文 : >-
-            #CharStatsTab3人物屬性欄3
-#-------------------------------#
-    771 :
-        標註 : 
-        原文 : >-
-            #Defense
-        譯文 : >-
-            #Defense防禦
 #-------------------------------#
     772 :
         標註 : 
@@ -4970,13 +4858,6 @@ tags_ui.txt :
             tagCharStatsSlowResistInfo=Resistance to effects which reduce your ability to attack, cast spells and run.
         譯文 : >-
             tagCharStatsSlowResistInfo=對所有能減緩你攻擊、施法和移動能力的法術的抗性。
-#-------------------------------#
-    814 :
-        標註 : 
-        原文 : >-
-            #Retaliation
-        譯文 : >-
-            #Retaliation反擊
 #-------------------------------#
     815 :
         標註 : 
@@ -5454,13 +5335,6 @@ tags_ui.txt :
         譯文 : >-
             tagCharStatsVitalityDecayPercentRetInfo=所有活力衰減傷害反擊效果的加成比率。
 #-------------------------------#
-    901 :
-        標註 : 
-        原文 : >-
-            #Stats
-        譯文 : >-
-            #Stats
-#-------------------------------#
     902 :
         標註 : 
         原文 : >-
@@ -5607,13 +5481,6 @@ tags_ui.txt :
             tagCPercentageValue={%.0f}%
         譯文 : >-
             tagCPercentageValue={%.0f}%
-#-------------------------------#
-    933 :
-        標註 : 
-        原文 : >-
-            #Vendor
-        譯文 : >-
-            #Vendor
 #-------------------------------#
     935 :
         標註 : 
@@ -5874,13 +5741,6 @@ tags_ui.txt :
         譯文 : >-
             Sold=已售出
 #-------------------------------#
-    978 :
-        標註 : 
-        原文 : >-
-            #Crafting
-        譯文 : >-
-            #Crafting 鍛造
-#-------------------------------#
     980 :
         標註 : 
         原文 : >-
@@ -6083,13 +5943,6 @@ tags_ui.txt :
             tagCraftingInsterComponent=Add components specified by a blueprint to these slots.
         譯文 : >-
             tagCraftingInsterComponent=把設計圖特定的部件放入到這些空位中。
-#-------------------------------#
-    1015 :
-        標註 : 
-        原文 : >-
-            #Subheadings
-        譯文 : >-
-            #Subheadings
 #-------------------------------#
     1017 :
         標註 : 
@@ -6385,13 +6238,6 @@ tags_ui.txt :
         譯文 : >-
             tagDismantleBoxInfo=放置一個普通級別以上的物品到工作臺。
 #-------------------------------#
-    1068 :
-        標註 : 
-        原文 : >-
-            #Shrine
-        譯文 : >-
-            #Shrine
-#-------------------------------#
     1070 :
         標註 : 
         原文 : >-
@@ -6426,13 +6272,6 @@ tags_ui.txt :
             tagShrineWarning=Are you sure you want to place this offering?
         譯文 : >-
             tagShrineWarning=Are you sure you want to place this offering?
-#-------------------------------#
-    1076 :
-        標註 : 
-        原文 : >-
-            #Smuggler
-        譯文 : >-
-            #Smuggler
 #-------------------------------#
     1078 :
         標註 : 
@@ -6574,13 +6413,6 @@ tags_ui.txt :
         譯文 : >-
             tagTransferTab04=第四欄
 #-------------------------------#
-    1099 :
-        標註 : 
-        原文 : >-
-            #Chat
-        譯文 : >-
-            #Chat
-#-------------------------------#
     1101 :
         標註 : 
         原文 : >-
@@ -6637,13 +6469,6 @@ tags_ui.txt :
         譯文 : >-
             tagChatBrag=[{%t0}{%t1}{^-}]
 #-------------------------------#
-    1110 :
-        標註 : 
-        原文 : >-
-            #NPC Conversation
-        譯文 : >-
-            #NPC Conversation
-#-------------------------------#
     1111 :
         標註 : 
         原文 : >-
@@ -6679,26 +6504,12 @@ tags_ui.txt :
         譯文 : >-
             tagShrineLocked=這座聖壇處於休眠狀態。
 #-------------------------------#
-    1118 :
-        標註 : 
-        原文 : >-
-            #Treasure Trove
-        譯文 : >-
-            #Treasure Trove寶藏
-#-------------------------------#
     1119 :
         標註 : 
         原文 : >-
             tagTroveBusy=That object is being interacted with by another player.
         譯文 : >-
             tagTroveBusy=那個目標正在和另一名玩家進行互動。
-#-------------------------------#
-    1121 :
-        標註 : 
-        原文 : >-
-            #Maps
-        譯文 : >-
-            #Maps
 #-------------------------------#
     1123 :
         標註 : 
@@ -6916,13 +6727,6 @@ tags_ui.txt :
             tagMapSymbolSmithDesc=A skilled craftsman capable of creating new items.
         譯文 : >-
             tagMapSymbolSmithDesc=一位技藝精湛能夠打造新物品的工匠。
-#-------------------------------#
-    1157 :
-        標註 : 
-        原文 : >-
-            #SystemStatsSkillUI
-        譯文 : >-
-            #SystemStatsSkillUI
 #-------------------------------#
     1159 :
         標註 : 
@@ -11984,13 +11788,6 @@ tags_ui.txt :
             tagDevotionUnassigned=No Skill
         譯文 : >-
             tagDevotionUnassigned=無技能
-#-------------------------------#
-    1933 :
-        標註 : 
-        原文 : >-
-            #Multiplayer
-        譯文 : >-
-            #Multiplayer
 #-------------------------------#
     1935 :
         標註 : 

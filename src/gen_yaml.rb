@@ -36,6 +36,7 @@ def makeYamlFiles()
 	str << fileName << " : \n"
         for i in ( 0 .. enLines.size - 1 )
             next if enLines[i].all_blink?
+            next if enLines[i].split("#").size > 1
             cnLine = if cnLines[i]
                 if cnLines[i].all_blink? then enLines[i] else cnLines[i] end
             else

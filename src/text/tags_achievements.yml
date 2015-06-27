@@ -1,13 +1,6 @@
 tags_achievements.txt : 
 
 #-------------------------------#
-    0 :
-        標註 : 
-        原文 : >-
-            # Achievement Groups
-        譯文 : >-
-            # Achievement Groups
-#-------------------------------#
     2 :
         標註 : 
         原文 : >-
@@ -35,13 +28,6 @@ tags_achievements.txt :
             achGroupWorld=World
         譯文 : >-
             achGroupWorld=世界
-#-------------------------------#
-    7 :
-        標註 : 
-        原文 : >-
-            # Achievements
-        譯文 : >-
-            # Achievements
 #-------------------------------#
     9 :
         標註 : 
