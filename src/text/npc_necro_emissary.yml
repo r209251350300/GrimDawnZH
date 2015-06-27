@@ -1,0 +1,369 @@
+npc_necro_emissary.txt:
+
+#-------------------------------#
+    1 :
+        標註 : 
+        原文 : >-
+            Haruuv
+        譯文 : >-
+            
+
+#-------------------------------#
+    2 :
+        標註 : 
+        原文 : >-
+            The path you walk is a wise one. We look forward to working alongside you.
+        譯文 : >-
+            
+
+#-------------------------------#
+    3 :
+        標註 : 
+        原文 : >-
+            Likewise.
+        譯文 : >-
+            
+
+#-------------------------------#
+    4 :
+        標註 : 
+        原文 : >-
+            If your decision-making is indicative of the Black Legion, then perhaps humanity is doomed after all.
+        譯文 : >-
+            
+
+#-------------------------------#
+    5 :
+        標註 : 
+        原文 : >-
+            I do what I must so that we all survive.
+        譯文 : >-
+            
+
+#-------------------------------#
+    6 :
+        標註 : 
+        原文 : >-
+            I sincerely hope that you are right then. But I can't help but question your allegiance with fanatics.
+        譯文 : >-
+            
+
+#-------------------------------#
+    7 :
+        標註 : 
+        原文 : >-
+            Goodbye.
+        譯文 : >-
+            
+
+#-------------------------------#
+    8 :
+        標註 : 
+        原文 : >-
+            I did what I feel is right.
+        譯文 : >-
+            
+
+#-------------------------------#
+    9 :
+        標註 : 
+        原文 : >-
+            The one you call Ulgrim has asked to speak with the Order of Death's Vigil, so I have come before you.
+        譯文 : >-
+            
+
+#-------------------------------#
+    11 :
+        標註 : 
+        原文 : >-
+            Goodbye.
+        譯文 : >-
+            
+
+#-------------------------------#
+    12 :
+        標註 : 
+        原文 : >-
+            Please, visit out sanctum. Master Varuuk will wish to speak with you.
+        譯文 : >-
+            
+
+#-------------------------------#
+    13 :
+        標註 : 
+        原文 : >-
+            Where is your sanctum?
+        譯文 : >-
+            
+
+#-------------------------------#
+    14 :
+        標註 : 
+        原文 : >-
+            Our sanctum is located west of the old fort ruins in the north, known as Sorrow's Bastion.{^n}{^n}To get there, you must take the road north out of Homestead, through the Fallow Fields.
+        譯文 : >-
+            
+
+#-------------------------------#
+    15 :
+        標註 : 
+        原文 : >-
+            Thank you.
+        譯文 : >-
+            
+
+#-------------------------------#
+    16 :
+        標註 : 
+        原文 : >-
+            I'm on my way.
+        譯文 : >-
+            
+
+#-------------------------------#
+    17 :
+        標註 : 
+        原文 : >-
+            I would ask that you seek out our sanctum to the north. We have claimed a small crypt hidden in the mountains, just west of Sorrow's Bastion.{^n}{^n}To get there, you must take the road north through the Fallow Fields. When you've reached the old fort ruins, then you are close to our home.{^n}{^n}Once inside, see Master Varuuk. He will wish to speak with our new ally.
+        譯文 : >-
+            
+
+#-------------------------------#
+    18 :
+        標註 : 
+        原文 : >-
+            I will seek out your sanctum.
+        譯文 : >-
+            
+
+#-------------------------------#
+    19 :
+        標註 : 
+        原文 : >-
+            Perhaps another time.
+        譯文 : >-
+            
+
+#-------------------------------#
+    20 :
+        標註 : 
+        原文 : >-
+            Greetings, I am Haruuv and I represent the Order of Death's Vigil.{^n}{^n}We are eager to discuss an agreement, even if it has to be made amongst such questionable company.
+        譯文 : >-
+            
+
+#-------------------------------#
+    21 :
+        標註 : 
+        原文 : >-
+            I think I've made my decision.
+        譯文 : >-
+            
+
+#-------------------------------#
+    22 :
+        標註 : 
+        原文 : >-
+            What will it be then? Will the Black Legion fight alongside the Order of Death's Vigil against these invaders to our realm?
+        譯文 : >-
+            
+
+#-------------------------------#
+    23 :
+        標註 : 
+        原文 : >-
+            The Black Legion will work with you. (Select the Order)
+        譯文 : >-
+            
+
+#-------------------------------#
+    24 :
+        標註 : 
+        原文 : >-
+            Splendid. I shall make the arrangements immediately.{^n}{^n}In the meantime, I would ask that you seek out our sanctum to the north. We have claimed a small crypt hidden in the mountains, just west of Sorrow's Bastion.{^n}{^n}To get there, you must take the road north through the Fallow Fields. When you've reached the old fort ruins, then you are close to our home.{^n}{^n}Once inside, see Master Varuuk. He will wish to speak with our new ally.
+        譯文 : >-
+            
+
+#-------------------------------#
+    25 :
+        標註 : 
+        原文 : >-
+            I will seek out your sanctum.
+        譯文 : >-
+            
+
+#-------------------------------#
+    26 :
+        標註 : 
+        原文 : >-
+            Perhaps another time.
+        譯文 : >-
+            
+
+#-------------------------------#
+    27 :
+        標註 : 
+        原文 : >-
+            Actually, I'll need more time to think this through.
+        譯文 : >-
+            
+
+#-------------------------------#
+    28 :
+        標註 : 
+        原文 : >-
+            What can you tell me about the Order?
+        譯文 : >-
+            
+
+#-------------------------------#
+    29 :
+        標註 : 
+        原文 : >-
+            We are seekers and preservers of knowledge, trained in the ancient art of necromancy by our grandmaster Uroboruuk.{^n}{^n}We do not fear death. We embrace all that it teaches us, and through it become more in tune with the world around us.
+        譯文 : >-
+            
+
+#-------------------------------#
+    31 :
+        標註 : 
+        原文 : >-
+            What do you offer the Black Legion?
+        譯文 : >-
+            
+
+#-------------------------------#
+    32 :
+        標註 : 
+        原文 : >-
+            We are experts in the arcane and masters of necromancy.{^n}{^n}Why send living men to die at the hands of the enemy when we could send loyal undead servants to battle in our stead?{^n}{^n}We will combat the enemy, and preserve valuable human lives in the process.
+        譯文 : >-
+            
+
+#-------------------------------#
+    37 :
+        標註 : 
+        原文 : >-
+            I'll need some time to think this through.
+        譯文 : >-
+            
+
+#-------------------------------#
+    38 :
+        標註 : 
+        原文 : >-
+            What can you tell me about Uroboruuk?
+        譯文 : >-
+            
+
+#-------------------------------#
+    39 :
+        標註 : 
+        原文 : >-
+            Our master is eternal. He was there when the Arkovian Empire was young and he was there when they fell to his curse. The Arkovians, much like the Erulan Empire shattered by the Grim Dawn, had persecuted necromancy and those who would seek forbidden knowledge.{^n}{^n}They tortured our master, eager to learn his secret to immortality. In return, Uroboruuk cursed them to eternal un-life. Since the fall of Arkovia, Uroboruuk founded the Order of Death's Vigil, to ensure that the pursuit of knowledge and life's mysteries would never again be threatened by the ignorant.{^n}{^n}Now that humanity stands at the brink of annihilation, it seems his teachings are more relevant than ever. We will return balance to the world, as our master had decreed.
+        譯文 : >-
+            
+
+#-------------------------------#
+    44 :
+        標註 : 
+        原文 : >-
+            I'll need some time to think this through.
+        譯文 : >-
+            
+
+#-------------------------------#
+    45 :
+        標註 : 
+        原文 : >-
+            What is necromancy?
+        譯文 : >-
+            
+
+#-------------------------------#
+    46 :
+        標註 : 
+        原文 : >-
+            Necromancy is the study of death and the forces of life that bind us to that final fate.{^n}{^n}To us, death is a mystery that must be studied, not some esoteric topic worthy of fear.
+        譯文 : >-
+            
+
+#-------------------------------#
+    51 :
+        標註 : 
+        原文 : >-
+            I'll need some time to think this through.
+        譯文 : >-
+            
+
+#-------------------------------#
+    53 :
+        標註 : 
+        原文 : >-
+            What can you tell me about Kymon's Chosen?
+        譯文 : >-
+            
+
+#-------------------------------#
+    54 :
+        標註 : 
+        原文 : >-
+            They are fanatics, obsessed with an ancient faith worshipping a nonexistent god known as Empyrion.{^n}{^n}Anyone that stands against their tenets is a heretic and worthy only of extermination. In that, they are no better than the empire which had persecuted the Order for generations.
+        譯文 : >-
+            
+
+#-------------------------------#
+    57 :
+        標註 : 
+        原文 : >-
+            I'll need some time to think this through.
+        譯文 : >-
+            
+
+#-------------------------------#
+    58 :
+        標註 : 
+        原文 : >-
+            Farewell.
+        譯文 : >-
+            
+
+#-------------------------------#
+    59 :
+        標註 : 
+        原文 : >-
+            The one you call Ulgrim has asked to speak with the Order of Death's Vigil, so I have come before you.
+        譯文 : >-
+            
+
+#-------------------------------#
+    60 :
+        標註 : 
+        原文 : >-
+            What is the Order of Death's Vigil?
+        譯文 : >-
+            
+
+#-------------------------------#
+    61 :
+        標註 : 
+        原文 : >-
+            We are seekers and preservers of knowledge, trained in the ancient art of necromancy.{^n}{^n}We do not fear death. We embrace all that it teaches us, and through it become more in tune with the world around us.
+        譯文 : >-
+            
+
+#-------------------------------#
+    62 :
+        標註 : 
+        原文 : >-
+            I see.
+        譯文 : >-
+            
+
+#-------------------------------#
+    63 :
+        標註 : 
+        原文 : >-
+            Goodbye.
+        譯文 : >-
+            

@@ -1,0 +1,313 @@
+npc_greven.txt:
+
+#-------------------------------#
+    1 :
+        標註 : 
+        原文 : >-
+            Greven
+        譯文 : >-
+            
+
+#-------------------------------#
+    2 :
+        標註 : 
+        原文 : >-
+            Welcome back to our humble camp.
+        譯文 : >-
+            
+
+#-------------------------------#
+    3 :
+        標註 : 
+        原文 : >-
+            Farewell.
+        譯文 : >-
+            
+
+#-------------------------------#
+    4 :
+        標註 : 
+        原文 : >-
+            Welcome to our humble camp.
+        譯文 : >-
+            
+
+#-------------------------------#
+    5 :
+        標註 : 
+        原文 : >-
+            Farewell.
+        譯文 : >-
+            
+
+#-------------------------------#
+    6 :
+        標註 : 
+        原文 : >-
+            Hello! What brings you to our camp?
+        譯文 : >-
+            
+
+#-------------------------------#
+    7 :
+        標註 : 
+        原文 : >-
+            I found your elder out in the ruins. I'm sorry.
+        譯文 : >-
+            
+
+#-------------------------------#
+    8 :
+        標註 : 
+        原文 : >-
+            Ah...a great loss to our people. Elder Mathias did all he could to keep our talisman from bandit hands, and it seems he had given his life to preserve his duty. Tell me, did you find a talisman on him? It is a small object carved from bone. Please, if you have it, we will be happy to provide compensation for its return.
+        譯文 : >-
+            
+
+#-------------------------------#
+    9 :
+        標註 : 
+        原文 : >-
+            Yes, actually. Here it is.
+        譯文 : >-
+            
+
+#-------------------------------#
+    10 :
+        標註 : 
+        原文 : >-
+            At least his death was not in vain. Thank you...the return of this talisman will lift the spirits of my people.
+        譯文 : >-
+            
+
+#-------------------------------#
+    11 :
+        標註 : 
+        原文 : >-
+            You're welcome. Goodbye.
+        譯文 : >-
+            
+
+#-------------------------------#
+    12 :
+        標註 : 
+        原文 : >-
+            No, I did not find a talisman. (Lie)
+        譯文 : >-
+            
+
+#-------------------------------#
+    13 :
+        標註 : 
+        原文 : >-
+            Then our relic and our elder are both lost to us this day. Thank you for delivering this news, though it saddens us all.
+        譯文 : >-
+            
+
+#-------------------------------#
+    14 :
+        標註 : 
+        原文 : >-
+            I'm sorry for your loss. Goodbye.
+        譯文 : >-
+            
+
+#-------------------------------#
+    15 :
+        標註 : 
+        原文 : >-
+            He did, but I lost it on the journey back.
+        譯文 : >-
+            
+
+#-------------------------------#
+    16 :
+        標註 : 
+        原文 : >-
+            Oh? Please, if you could find the relic again, we would gladly compensate you for the trouble.
+        譯文 : >-
+            
+
+#-------------------------------#
+    17 :
+        標註 : 
+        原文 : >-
+            I will find it again.
+        譯文 : >-
+            
+
+#-------------------------------#
+    18 :
+        標註 : 
+        原文 : >-
+            Goodbye.
+        譯文 : >-
+            
+
+#-------------------------------#
+    19 :
+        標註 : 
+        原文 : >-
+            Any luck in your search for Elder Mathias?
+        譯文 : >-
+            
+
+#-------------------------------#
+    20 :
+        標註 : 
+        原文 : >-
+            I found the elder, I'm sorry.
+        譯文 : >-
+            
+
+#-------------------------------#
+    21 :
+        標註 : 
+        原文 : >-
+            Ah...a great loss to our people. Elder Mathias did all he could to keep our talisman from bandit hands, and it seems he had given his life to preserve his duty. Tell me, did you find the talisman on him?
+        譯文 : >-
+            
+
+#-------------------------------#
+    22 :
+        標註 : 
+        原文 : >-
+            Yes, actually. Here it is.
+        譯文 : >-
+            
+
+#-------------------------------#
+    23 :
+        標註 : 
+        原文 : >-
+            At least his death was not in vain. Thank you...the return of this talisman will lift the spirits of my people.
+        譯文 : >-
+            
+
+#-------------------------------#
+    24 :
+        標註 : 
+        原文 : >-
+            You're welcome. Goodbye.
+        譯文 : >-
+            
+
+#-------------------------------#
+    25 :
+        標註 : 
+        原文 : >-
+            No, I did not find a talisman. (Lie)
+        譯文 : >-
+            
+
+#-------------------------------#
+    26 :
+        標註 : 
+        原文 : >-
+            Then our relic and our elder are both lost to us this day. Thank you for delivering this news, though it saddens us all.
+        譯文 : >-
+            
+
+#-------------------------------#
+    27 :
+        標註 : 
+        原文 : >-
+            I'm sorry for your loss. Goodbye.
+        譯文 : >-
+            
+
+#-------------------------------#
+    28 :
+        標註 : 
+        原文 : >-
+            Goodbye.
+        譯文 : >-
+            
+
+#-------------------------------#
+    29 :
+        標註 : 
+        原文 : >-
+            Any luck in your search for Elder Mathias?
+        譯文 : >-
+            
+
+#-------------------------------#
+    30 :
+        標註 : 
+        原文 : >-
+            Where should I look again?
+        譯文 : >-
+            
+
+#-------------------------------#
+    31 :
+        標註 : 
+        原文 : >-
+            Head out west from the camp, past Staunton Mine. Elder Mathias fled into the ruins in that area.
+        譯文 : >-
+            
+
+#-------------------------------#
+    32 :
+        標註 : 
+        原文 : >-
+            Thank you. I will resume the search.
+        譯文 : >-
+            
+
+#-------------------------------#
+    33 :
+        標註 : 
+        原文 : >-
+            Still searching. Goodbye.
+        譯文 : >-
+            
+
+#-------------------------------#
+    34 :
+        標註 : 
+        原文 : >-
+            Hello! Pleased to meet a friendly face out here. Bandits don't usually grant us the courtesy. Since you are traveling these parts, I was wondering if you could help us out.
+        譯文 : >-
+            
+
+#-------------------------------#
+    35 :
+        標註 : 
+        原文 : >-
+            What do you need assistance with?
+        譯文 : >-
+            
+
+#-------------------------------#
+    36 :
+        標註 : 
+        原文 : >-
+            Our elder, Mathias, has gone missing following a recent raid on our camp. The Elder was determined to keep our talisman, a precious relic of my people, away from their greedy hands and so he fled into the nearby ruins when the bandits showed up. It has been several days and I'm beginning to fear the worst. Please, if you find yourself exploring the ruins west of Staunton Mine, seek out Elder Mathias. If it is as I fear and the Elder is dead, please at least recover the talisman. It is a small object carved from bone and carries great spiritual significance to us. We would be eternally grateful for its return.
+        譯文 : >-
+            
+
+#-------------------------------#
+    37 :
+        標註 : 
+        原文 : >-
+            I will search for your elder.
+        譯文 : >-
+            
+
+#-------------------------------#
+    38 :
+        標註 : 
+        原文 : >-
+            I'm sorry. I cannot help you.
+        譯文 : >-
+            
+
+#-------------------------------#
+    39 :
+        標註 : 
+        原文 : >-
+            I'm not interested. Goodbye.
+        譯文 : >-
+            

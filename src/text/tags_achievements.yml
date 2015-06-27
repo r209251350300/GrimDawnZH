@@ -1,0 +1,961 @@
+tags_achievements.txt:
+
+#-------------------------------#
+    3 :
+        標註 : 
+        原文 : >-
+            achGroupAct1=Act 1
+        譯文 : >-
+            
+
+#-------------------------------#
+    4 :
+        標註 : 
+        原文 : >-
+            achGroupAct2=Act 2
+        譯文 : >-
+            
+
+#-------------------------------#
+    5 :
+        標註 : 
+        原文 : >-
+            achGroupAct3=Act 3
+        譯文 : >-
+            
+
+#-------------------------------#
+    6 :
+        標註 : 
+        原文 : >-
+            achGroupWorld=World
+        譯文 : >-
+            
+
+#-------------------------------#
+    10 :
+        標註 : 
+        原文 : >-
+            ach001Title=Monster Slayer
+        譯文 : >-
+            
+
+#-------------------------------#
+    11 :
+        標註 : 
+        原文 : >-
+            ach001Desc=Eradicate 15 Heroic Monsters (marked by a Star).
+        譯文 : >-
+            
+
+#-------------------------------#
+    13 :
+        標註 : 
+        原文 : >-
+            ach002Title=Heroic Slayer
+        譯文 : >-
+            
+
+#-------------------------------#
+    14 :
+        標註 : 
+        原文 : >-
+            ach002Desc=Eradicate 30 Heroic Monsters (marked by a Star).
+        譯文 : >-
+            
+
+#-------------------------------#
+    16 :
+        標註 : 
+        原文 : >-
+            ach003Title=Legendary Slayer
+        譯文 : >-
+            
+
+#-------------------------------#
+    17 :
+        標註 : 
+        原文 : >-
+            ach003Desc=Eradicate 100 Heroic Monsters (marked by a Star).
+        譯文 : >-
+            
+
+#-------------------------------#
+    19 :
+        標註 : 
+        原文 : >-
+            ach004Title=One in a Million
+        譯文 : >-
+            
+
+#-------------------------------#
+    20 :
+        標註 : 
+        原文 : >-
+            ach004Desc=Slay an Ultra Rare Heroic Monster (red name) on Elite or Ultimate Difficulty.
+        譯文 : >-
+            
+
+#-------------------------------#
+    22 :
+        標註 : 
+        原文 : >-
+            ach005Title=Eight in a Million
+        譯文 : >-
+            
+
+#-------------------------------#
+    23 :
+        標註 : 
+        原文 : >-
+            ach005Desc=Slay All the Ultra Rare Heroic Monsters (red name) on Elite or Ultimate Difficulty.
+        譯文 : >-
+            
+
+#-------------------------------#
+    25 :
+        標註 : 
+        原文 : >-
+            ach006Title=Cleansing the World
+        譯文 : >-
+            
+
+#-------------------------------#
+    26 :
+        標註 : 
+        原文 : >-
+            ach006Desc=Rid Cairn of 100000 Monsters.
+        譯文 : >-
+            
+
+#-------------------------------#
+    28 :
+        標註 : 
+        原文 : >-
+            ach007Title=A Wake of Carnage
+        譯文 : >-
+            
+
+#-------------------------------#
+    29 :
+        標註 : 
+        原文 : >-
+            ach007Desc=Rid Cairn of 500000 Monsters.
+        譯文 : >-
+            
+
+#-------------------------------#
+    31 :
+        標註 : 
+        原文 : >-
+            ach008Title=An Ocean of Blood
+        譯文 : >-
+            
+
+#-------------------------------#
+    32 :
+        標註 : 
+        原文 : >-
+            ach008Desc=Rid Cairn of 1000000 Monsters.
+        譯文 : >-
+            
+
+#-------------------------------#
+    34 :
+        標註 : 
+        原文 : >-
+            ach009Title=Friends in the Apocalypse
+        譯文 : >-
+            
+
+#-------------------------------#
+    35 :
+        標註 : 
+        原文 : >-
+            ach009Desc=Become Revered with a Faction.
+        譯文 : >-
+            
+
+#-------------------------------#
+    37 :
+        標註 : 
+        原文 : >-
+            ach010Title=Paragon of Cairn
+        譯文 : >-
+            
+
+#-------------------------------#
+    38 :
+        標註 : 
+        原文 : >-
+            ach010Desc=Become Revered with 6 Factions.
+        譯文 : >-
+            
+
+#-------------------------------#
+    40 :
+        標註 : 
+        原文 : >-
+            ach011Title=Servant of Empyrion
+        譯文 : >-
+            
+
+#-------------------------------#
+    41 :
+        標註 : 
+        原文 : >-
+            ach011Desc=Reach Revered reputation with Kymon's Chosen.
+        譯文 : >-
+            
+
+#-------------------------------#
+    43 :
+        標註 : 
+        原文 : >-
+            ach012Title=Follower of Uroboruuk
+        譯文 : >-
+            
+
+#-------------------------------#
+    44 :
+        標註 : 
+        原文 : >-
+            ach012Desc=Reach Revered reputation with the Order of Death's Vigil.
+        譯文 : >-
+            
+
+#-------------------------------#
+    46 :
+        標註 : 
+        原文 : >-
+            ach013Title=The End to Depravity
+        譯文 : >-
+            
+
+#-------------------------------#
+    47 :
+        標註 : 
+        原文 : >-
+            ach013Desc=Slay Salazar, Blade of Ch'thon in the Depraved Sanctuary.
+        譯文 : >-
+            
+
+#-------------------------------#
+    49 :
+        標註 : 
+        原文 : >-
+            ach014Title=Shattering the Blade of Ch'thon
+        譯文 : >-
+            
+
+#-------------------------------#
+    50 :
+        標註 : 
+        原文 : >-
+            ach014Desc=Slay Salazar, Blade of Ch'thon in the Depraved Sanctuary on Veteran Mode.
+        譯文 : >-
+            
+
+#-------------------------------#
+    52 :
+        標註 : 
+        原文 : >-
+            ach015Title=The Executioner Executed
+        譯文 : >-
+            
+
+#-------------------------------#
+    53 :
+        標註 : 
+        原文 : >-
+            ach015Desc=Slay Alkamos, Lord Executioner in the Steps of Torment.
+        譯文 : >-
+            
+
+#-------------------------------#
+    55 :
+        標註 : 
+        原文 : >-
+            ach016Title=The End of Torment
+        譯文 : >-
+            
+
+#-------------------------------#
+    56 :
+        標註 : 
+        原文 : >-
+            ach016Desc=Slay Alkamos, Lord Executioner in the Steps of Torment on Veteran Mode.
+        譯文 : >-
+            
+
+#-------------------------------#
+    58 :
+        標註 : 
+        原文 : >-
+            ach017Title=Immortal Executioner
+        譯文 : >-
+            
+
+#-------------------------------#
+    59 :
+        標註 : 
+        原文 : >-
+            ach017Desc=Slay Alkamos, Lord Executioner in the Steps of Torment on Hardcore Mode.
+        譯文 : >-
+            
+
+#-------------------------------#
+    61 :
+        標註 : 
+        原文 : >-
+            ach018Title=Delivering Justice
+        譯文 : >-
+            
+
+#-------------------------------#
+    62 :
+        標註 : 
+        原文 : >-
+            ach018Desc=Slay Warden Krieg in the Hidden Laboratory.
+        譯文 : >-
+            
+
+#-------------------------------#
+    64 :
+        標註 : 
+        原文 : >-
+            ach019Title=An Old Threat
+        譯文 : >-
+            
+
+#-------------------------------#
+    65 :
+        標註 : 
+        原文 : >-
+            ach019Desc=Slay Darius Cronley.
+        譯文 : >-
+            
+
+#-------------------------------#
+    67 :
+        標註 : 
+        原文 : >-
+            ach020Title=Blood for Blood
+        譯文 : >-
+            
+
+#-------------------------------#
+    68 :
+        標註 : 
+        原文 : >-
+            ach020Desc=Slay Karroz, Sigil of Ch'thon.
+        譯文 : >-
+            
+
+#-------------------------------#
+    70 :
+        標註 : 
+        原文 : >-
+            ach021Title=The Bane of Cairn
+        譯文 : >-
+            
+
+#-------------------------------#
+    71 :
+        標註 : 
+        原文 : >-
+            ach021Desc=Slay ???
+        譯文 : >-
+            
+
+#-------------------------------#
+    73 :
+        標註 : 
+        原文 : >-
+            ach022Title=Cleansing the Conflagration
+        譯文 : >-
+            
+
+#-------------------------------#
+    74 :
+        標註 : 
+        原文 : >-
+            ach022Desc=Slay the Herald of Flame in the Conflagration.
+        譯文 : >-
+            
+
+#-------------------------------#
+    76 :
+        標註 : 
+        原文 : >-
+            ach023Title=Not Afraid of a Little Fire
+        譯文 : >-
+            
+
+#-------------------------------#
+    77 :
+        標註 : 
+        原文 : >-
+            ach023Desc=Slay the Herald of Flame in the Conflagration on Veteran Mode.
+        譯文 : >-
+            
+
+#-------------------------------#
+    79 :
+        標註 : 
+        原文 : >-
+            ach024Title=Gutting Gutworm
+        譯文 : >-
+            
+
+#-------------------------------#
+    80 :
+        標註 : 
+        原文 : >-
+            ach024Desc=Slay Gutworm in Smuggler's Basin.
+        譯文 : >-
+            
+
+#-------------------------------#
+    82 :
+        標註 : 
+        原文 : >-
+            ach025Title=You've Got Guts
+        譯文 : >-
+            
+
+#-------------------------------#
+    83 :
+        標註 : 
+        原文 : >-
+            ach025Desc=Slay Gutworm in Smuggler's Basin on Veteran Mode.
+        譯文 : >-
+            
+
+#-------------------------------#
+    85 :
+        標註 : 
+        原文 : >-
+            ach026Title=Tinkering is Her Speciality
+        譯文 : >-
+            
+
+#-------------------------------#
+    86 :
+        標註 : 
+        原文 : >-
+            ach026Desc=Rescue Darlet in Burrwitch.
+        譯文 : >-
+            
+
+#-------------------------------#
+    88 :
+        標註 : 
+        原文 : >-
+            ach027Title=By the Malleum Menhir
+        譯文 : >-
+            
+
+#-------------------------------#
+    89 :
+        標註 : 
+        原文 : >-
+            ach027Desc=Enlist the help of a Blacksmith.
+        譯文 : >-
+            
+
+#-------------------------------#
+    91 :
+        標註 : 
+        原文 : >-
+            ach028Title=No Soup for You
+        譯文 : >-
+            
+
+#-------------------------------#
+    92 :
+        標註 : 
+        原文 : >-
+            ach028Desc=Rescue Ulgrim in the Burrwitch Outskirts.
+        譯文 : >-
+            
+
+#-------------------------------#
+    94 :
+        標註 : 
+        原文 : >-
+            ach029Title=Apprentice Crafter
+        譯文 : >-
+            
+
+#-------------------------------#
+    95 :
+        標註 : 
+        原文 : >-
+            ach029Desc=Craft 10 items.
+        譯文 : >-
+            
+
+#-------------------------------#
+    97 :
+        標註 : 
+        原文 : >-
+            ach030Title=Expert Crafter
+        譯文 : >-
+            
+
+#-------------------------------#
+    98 :
+        標註 : 
+        原文 : >-
+            ach030Desc=Craft 100 items.
+        譯文 : >-
+            
+
+#-------------------------------#
+    100 :
+        標註 : 
+        原文 : >-
+            ach031Title=Master Crafter
+        譯文 : >-
+            
+
+#-------------------------------#
+    101 :
+        標註 : 
+        原文 : >-
+            ach031Desc=Craft 1000 items.
+        譯文 : >-
+            
+
+#-------------------------------#
+    103 :
+        標註 : 
+        原文 : >-
+            ach032Title=Relics from the Past
+        譯文 : >-
+            
+
+#-------------------------------#
+    104 :
+        標註 : 
+        原文 : >-
+            ach032Desc=Craft a Relic.
+        譯文 : >-
+            
+
+#-------------------------------#
+    106 :
+        標註 : 
+        原文 : >-
+            ach033Title=Transcendent Power
+        譯文 : >-
+            
+
+#-------------------------------#
+    107 :
+        標註 : 
+        原文 : >-
+            ach033Desc=Craft a Transcendent Relic.
+        譯文 : >-
+            
+
+#-------------------------------#
+    109 :
+        標註 : 
+        原文 : >-
+            ach034Title=Mythic Power
+        譯文 : >-
+            
+
+#-------------------------------#
+    110 :
+        標註 : 
+        原文 : >-
+            ach034Desc=Craft a Mythical Relic.
+        譯文 : >-
+            
+
+#-------------------------------#
+    112 :
+        標註 : 
+        原文 : >-
+            ach035Title=To the Explorer Go the Spoils
+        譯文 : >-
+            
+
+#-------------------------------#
+    113 :
+        標註 : 
+        原文 : >-
+            ach035Desc=Open 10 One-Shot Chests.
+        譯文 : >-
+            
+
+#-------------------------------#
+    115 :
+        標註 : 
+        原文 : >-
+            ach036Title=True Devotion
+        譯文 : >-
+            
+
+#-------------------------------#
+    116 :
+        標註 : 
+        原文 : >-
+            ach036Desc=Restore 10 Devotion Shrines.
+        譯文 : >-
+            
+
+#-------------------------------#
+    118 :
+        標註 : 
+        原文 : >-
+            ach037Title=Survivor
+        譯文 : >-
+            
+
+#-------------------------------#
+    119 :
+        標註 : 
+        原文 : >-
+            ach037Desc=Reach level 10.
+        譯文 : >-
+            
+
+#-------------------------------#
+    121 :
+        標註 : 
+        原文 : >-
+            ach038Title=Champion
+        譯文 : >-
+            
+
+#-------------------------------#
+    122 :
+        標註 : 
+        原文 : >-
+            ach038Desc=Reach level 35.
+        譯文 : >-
+            
+
+#-------------------------------#
+    124 :
+        標註 : 
+        原文 : >-
+            ach039Title=Hero
+        譯文 : >-
+            
+
+#-------------------------------#
+    125 :
+        標註 : 
+        原文 : >-
+            ach039Desc=Reach level 50.
+        譯文 : >-
+            
+
+#-------------------------------#
+    127 :
+        標註 : 
+        原文 : >-
+            ach040Title=Legend
+        譯文 : >-
+            
+
+#-------------------------------#
+    128 :
+        標註 : 
+        原文 : >-
+            ach040Desc=Reach level 75.
+        譯文 : >-
+            
+
+#-------------------------------#
+    130 :
+        標註 : 
+        原文 : >-
+            ach041Title=Immortal Legend
+        譯文 : >-
+            
+
+#-------------------------------#
+    131 :
+        標註 : 
+        原文 : >-
+            ach041Desc=Reach level 75 on Hardcore Mode.
+        譯文 : >-
+            
+
+#-------------------------------#
+    133 :
+        標註 : 
+        原文 : >-
+            ach042Title=Defender of Cairn
+        譯文 : >-
+            
+
+#-------------------------------#
+    134 :
+        標註 : 
+        原文 : >-
+            ach042Desc=Complete the Game.
+        譯文 : >-
+            
+
+#-------------------------------#
+    136 :
+        標註 : 
+        原文 : >-
+            ach043Title=Champion of Cairn
+        譯文 : >-
+            
+
+#-------------------------------#
+    137 :
+        標註 : 
+        原文 : >-
+            ach043Desc=Complete the Game on Elite Difficulty.
+        譯文 : >-
+            
+
+#-------------------------------#
+    139 :
+        標註 : 
+        原文 : >-
+            ach044Title=Savior of Cairn
+        譯文 : >-
+            
+
+#-------------------------------#
+    140 :
+        標註 : 
+        原文 : >-
+            ach044Desc=Complete the Game on Ultimate Difficulty.
+        譯文 : >-
+            
+
+#-------------------------------#
+    142 :
+        標註 : 
+        原文 : >-
+            ach045Title=Immportal Savior
+        譯文 : >-
+            
+
+#-------------------------------#
+    143 :
+        標註 : 
+        原文 : >-
+            ach045Desc=Complete the Game on Ultimate Difficulty, Hardcore Mode.
+        譯文 : >-
+            
+
+#-------------------------------#
+    145 :
+        標註 : 
+        原文 : >-
+            ach046Title=Difficult Decisions
+        譯文 : >-
+            
+
+#-------------------------------#
+    146 :
+        標註 : 
+        原文 : >-
+            ach046Desc=???
+        譯文 : >-
+            
+
+#-------------------------------#
+    148 :
+        標註 : 
+        原文 : >-
+            ach047Title=No Exceptions
+        譯文 : >-
+            
+
+#-------------------------------#
+    149 :
+        標註 : 
+        原文 : >-
+            ach047Desc=Slay ???
+        譯文 : >-
+            
+
+#-------------------------------#
+    151 :
+        標註 : 
+        原文 : >-
+            ach048Title=I Was Not Expecting You, Human
+        譯文 : >-
+            
+
+#-------------------------------#
+    152 :
+        標註 : 
+        原文 : >-
+            ach048Desc=Slay Warden Krieg on Veteran mode with a character under level 11.
+        譯文 : >-
+            
+
+#-------------------------------#
+    154 :
+        標註 : 
+        原文 : >-
+            ach049Title=Securing Burrwitch
+        譯文 : >-
+            
+
+#-------------------------------#
+    155 :
+        標註 : 
+        原文 : >-
+            ach049Desc=Secure the Burrwitch Riftgate on Veteran Mode.
+        譯文 : >-
+            
+
+#-------------------------------#
+    157 :
+        標註 : 
+        原文 : >-
+            ach050Title=Hidden in the Flooded Passage
+        譯文 : >-
+            
+
+#-------------------------------#
+    158 :
+        標註 : 
+        原文 : >-
+            ach050Desc=Discover what is concealed behind the collapsed rocks in the Flooded Passage.
+        譯文 : >-
+            
+
+#-------------------------------#
+    160 :
+        標註 : 
+        原文 : >-
+            ach051Title=Cronley's Secret
+        譯文 : >-
+            
+
+#-------------------------------#
+    161 :
+        標註 : 
+        原文 : >-
+            ach051Desc=Uncover Darius Cronley's Secret.
+        譯文 : >-
+            
+
+#-------------------------------#
+    163 :
+        標註 : 
+        原文 : >-
+            ach052Title=Hidden Wealth
+        譯文 : >-
+            
+
+#-------------------------------#
+    164 :
+        標註 : 
+        原文 : >-
+            ach052Desc=Find the buried treasure in the farmlands near Homestead.
+        譯文 : >-
+            
+
+#-------------------------------#
+    166 :
+        標註 : 
+        原文 : >-
+            ach053Title=In the Depths, He Lived Forgotten
+        譯文 : >-
+            
+
+#-------------------------------#
+    167 :
+        標註 : 
+        原文 : >-
+            ach053Desc=Slay ???
+        譯文 : >-
+            
+
+#-------------------------------#
+    169 :
+        標註 : 
+        原文 : >-
+            ach054Title=The Death Room
+        譯文 : >-
+            
+
+#-------------------------------#
+    170 :
+        標註 : 
+        原文 : >-
+            ach054Desc=???
+        譯文 : >-
+            
+
+#-------------------------------#
+    172 :
+        標註 : 
+        原文 : >-
+            ach055Title=Let Me Gather My Notes
+        譯文 : >-
+            
+
+#-------------------------------#
+    173 :
+        標註 : 
+        原文 : >-
+            ach055Desc=Collect 5 Lore Notes
+        譯文 : >-
+            
+
+#-------------------------------#
+    175 :
+        標註 : 
+        原文 : >-
+            ach056Title=Note Collector
+        譯文 : >-
+            
+
+#-------------------------------#
+    176 :
+        標註 : 
+        原文 : >-
+            ach056Desc=Collect 20 Lore Notes
+        譯文 : >-
+            
+
+#-------------------------------#
+    178 :
+        標註 : 
+        原文 : >-
+            ach057Title=Lorekeeper
+        譯文 : >-
+            
+
+#-------------------------------#
+    179 :
+        標註 : 
+        原文 : >-
+            ach057Desc=Collect 50 Lore Notes
+        譯文 : >-
+            
+
+#-------------------------------#
+    181 :
+        標註 : 
+        原文 : >-
+            ach058Title=True Nemesis
+        譯文 : >-
+            
+
+#-------------------------------#
+    182 :
+        標註 : 
+        原文 : >-
+            ach058Desc=Slay All Nemesis monsters (red name) on Elite or Ultimate Difficulty.
+        譯文 : >-
+            

@@ -1,0 +1,65 @@
+npc_deanoldbarrow.txt:
+
+#-------------------------------#
+    1 :
+        標註 : 
+        原文 : >-
+            Dean Oldbarrow
+        譯文 : >-
+            
+
+#-------------------------------#
+    2 :
+        標註 : 
+        原文 : >-
+            Looks like the old man was right to trust you. We owe you our thanks.
+        譯文 : >-
+            
+
+#-------------------------------#
+    3 :
+        標註 : 
+        原文 : >-
+            Just doing my part.
+        譯文 : >-
+            
+
+#-------------------------------#
+    4 :
+        標註 : 
+        原文 : >-
+            What brings you to Homestead?
+        譯文 : >-
+            
+
+#-------------------------------#
+    5 :
+        標註 : 
+        原文 : >-
+            What can you tell me about Homestead?
+        譯文 : >-
+            
+
+#-------------------------------#
+    6 :
+        標註 : 
+        原文 : >-
+            Not much to tell. When the attacks started, we gathered our neighbors and holed up in here as best we could.{^n}{^n}Things were looking pretty bad up until the Legion showed up. Now we stand a fighting chance.
+        譯文 : >-
+            
+
+#-------------------------------#
+    7 :
+        標註 : 
+        原文 : >-
+            Farewell.
+        譯文 : >-
+            
+
+#-------------------------------#
+    8 :
+        標註 : 
+        原文 : >-
+            Just passing through.
+        譯文 : >-
+            

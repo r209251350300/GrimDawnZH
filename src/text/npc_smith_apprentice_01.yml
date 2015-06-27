@@ -1,0 +1,473 @@
+npc_smith_apprentice_01.txt:
+
+#-------------------------------#
+    1 :
+        標註 : 
+        原文 : >-
+            Duncan
+        譯文 : >-
+            
+
+#-------------------------------#
+    2 :
+        標註 : 
+        原文 : >-
+            Greetings, traveler.
+        譯文 : >-
+            
+
+#-------------------------------#
+    3 :
+        標註 : 
+        原文 : >-
+            Farewell.
+        譯文 : >-
+            
+
+#-------------------------------#
+    4 :
+        標註 : 
+        原文 : >-
+            I'm almost finished here. I'll see you in Devil's Crossing.
+        譯文 : >-
+            
+
+#-------------------------------#
+    5 :
+        標註 : 
+        原文 : >-
+            See you there.
+        譯文 : >-
+            
+
+#-------------------------------#
+    6 :
+        標註 : 
+        原文 : >-
+            I don't blame you for your decision. Angrim is a fine blacksmith, the finest around to be sure. I'll do what I can for these people with what I got.
+        譯文 : >-
+            
+
+#-------------------------------#
+    7 :
+        標註 : 
+        原文 : >-
+            Farewell.
+        譯文 : >-
+            
+
+#-------------------------------#
+    8 :
+        標註 : 
+        原文 : >-
+            You're back! Do you have the Malleum Menhir?
+        譯文 : >-
+            
+
+#-------------------------------#
+    9 :
+        標註 : 
+        原文 : >-
+            I'm sorry, but the hammer stays with Angrim.
+        譯文 : >-
+            
+
+#-------------------------------#
+    10 :
+        標註 : 
+        原文 : >-
+            Ah, I...see...I guess this is good bye then. If you'll excuse me, I have to tend to the forge.
+        譯文 : >-
+            
+
+#-------------------------------#
+    11 :
+        標註 : 
+        原文 : >-
+            Farewell.
+        譯文 : >-
+            
+
+#-------------------------------#
+    12 :
+        標註 : 
+        原文 : >-
+            You're back! Do you have the Malleum Menhir?
+        譯文 : >-
+            
+
+#-------------------------------#
+    13 :
+        標註 : 
+        原文 : >-
+            I persuaded Angrim to part with it. Here you go.
+        譯文 : >-
+            
+
+#-------------------------------#
+    14 :
+        標註 : 
+        原文 : >-
+            I'm impressed. Angrim is a tough man to convince of anything, but I'm glad it did not have to come to blows. Thank you, I will do much good with this.
+        譯文 : >-
+            
+
+#-------------------------------#
+    15 :
+        標註 : 
+        原文 : >-
+            So will you join me in Devil's Crossing?
+        譯文 : >-
+            
+
+#-------------------------------#
+    16 :
+        標註 : 
+        原文 : >-
+            Yes, of course. First I must complete my work here. Now that I have my master's forging hammer, I will be able to provide these people with quality equipment.{^n}{^n}I'll see you in Devil's Crossing when I'm finished, I promise.
+        譯文 : >-
+            
+
+#-------------------------------#
+    17 :
+        標註 : 
+        原文 : >-
+            See you there.
+        譯文 : >-
+            
+
+#-------------------------------#
+    18 :
+        標註 : 
+        原文 : >-
+            I had the hammer, but I misplaced it.
+        譯文 : >-
+            
+
+#-------------------------------#
+    19 :
+        標註 : 
+        原文 : >-
+            What?! Go back out there and find it. That hammer is invaluable!
+        譯文 : >-
+            
+
+#-------------------------------#
+    20 :
+        標註 : 
+        原文 : >-
+            I'm on it.
+        譯文 : >-
+            
+
+#-------------------------------#
+    21 :
+        標註 : 
+        原文 : >-
+            You're back! Do you have the Malleum Menhir?
+        譯文 : >-
+            
+
+#-------------------------------#
+    22 :
+        標註 : 
+        原文 : >-
+            I was forced to kill Angrim for it, but here it is.
+        譯文 : >-
+            
+
+#-------------------------------#
+    23 :
+        標註 : 
+        原文 : >-
+            I wish it hadn't come to this. That is a terrible price to pay for this sacred relic. But the good of us all outweighs the life of one.{^n}{^n}I will have to toil away that much harder to make sure that Angrim's life was not taken in vain.
+        譯文 : >-
+            
+
+#-------------------------------#
+    24 :
+        標註 : 
+        原文 : >-
+            So will you join me in Devil's Crossing?
+        譯文 : >-
+            
+
+#-------------------------------#
+    25 :
+        標註 : 
+        原文 : >-
+            Yes, of course. First I must complete my work here. Now that I have my master's forging hammer, I will be able to provide these people with quality equipment.{^n}{^n}I'll see you in Devil's Crossing when I'm finished, I promise.
+        譯文 : >-
+            
+
+#-------------------------------#
+    26 :
+        標註 : 
+        原文 : >-
+            See you there.
+        譯文 : >-
+            
+
+#-------------------------------#
+    27 :
+        標註 : 
+        原文 : >-
+            I had the hammer, but I misplaced it.
+        譯文 : >-
+            
+
+#-------------------------------#
+    28 :
+        標註 : 
+        原文 : >-
+            What?! Go back out there and find it. That hammer is invaluable!
+        譯文 : >-
+            
+
+#-------------------------------#
+    29 :
+        標註 : 
+        原文 : >-
+            I'm on it.
+        譯文 : >-
+            
+
+#-------------------------------#
+    30 :
+        標註 : 
+        原文 : >-
+            So? Did you speak to Angrim?
+        譯文 : >-
+            
+
+#-------------------------------#
+    31 :
+        標註 : 
+        原文 : >-
+            Where is he again?
+        譯文 : >-
+            
+
+#-------------------------------#
+    32 :
+        標註 : 
+        原文 : >-
+            My master left the camp earlier today, heading northeast. He can't be far.
+        譯文 : >-
+            
+
+#-------------------------------#
+    35 :
+        標註 : 
+        原文 : >-
+            I will find him.
+        譯文 : >-
+            
+
+#-------------------------------#
+    36 :
+        標註 : 
+        原文 : >-
+            What is the Malleum Menhir?
+        譯文 : >-
+            
+
+#-------------------------------#
+    37 :
+        標註 : 
+        原文 : >-
+            It is an ancient forging hammer passed down through generations of blacksmiths. It is now in the hands of my master, Angrim, but I feel that the time has come for it to be passed on to younger hands.
+        譯文 : >-
+            
+
+#-------------------------------#
+    38 :
+        標註 : 
+        原文 : >-
+            Where is Angrim again?
+        譯文 : >-
+            
+
+#-------------------------------#
+    40 :
+        標註 : 
+        原文 : >-
+            I see.
+        譯文 : >-
+            
+
+#-------------------------------#
+    41 :
+        標註 : 
+        原文 : >-
+            Why do you feel the hammer should go to you?
+        譯文 : >-
+            
+
+#-------------------------------#
+    42 :
+        標註 : 
+        原文 : >-
+            My master is an expert blacksmith, don't get me wrong. The weapons he creates are of the finest quality, but he is reluctant to experiment with arcane forging techniques. In that, I am his superior and he knows it.{^n}{^n}More importantly though, I wish to help people while my master wishes only to prepare soldiers for the battle against the Aetherials. It's a noble goal, but humanity will not thrive if just our soldiers survive.
+        譯文 : >-
+            
+
+#-------------------------------#
+    43 :
+        標註 : 
+        原文 : >-
+            Where is Angrim again?
+        譯文 : >-
+            
+
+#-------------------------------#
+    45 :
+        標註 : 
+        原文 : >-
+            I understand.
+        譯文 : >-
+            
+
+#-------------------------------#
+    46 :
+        標註 : 
+        原文 : >-
+            I'm still searching.
+        譯文 : >-
+            
+
+#-------------------------------#
+    47 :
+        標註 : 
+        原文 : >-
+            Hello, traveler. If you find yourself going about these parts, I was wondering if you'd help us locate someone. I'm a bit tied up with the forge here.
+        譯文 : >-
+            
+
+#-------------------------------#
+    48 :
+        標註 : 
+        原文 : >-
+            Someone disappeared?
+        譯文 : >-
+            
+
+#-------------------------------#
+    49 :
+        標註 : 
+        原文 : >-
+            My master, Angrim, left our camp earlier today. He's intent on finding a group of survivors that he considers "worthy" of our smithing talents. We don't exactly see eye to eye on the matter of who we should be helping.{^n}{^n}Angrim wants to field an army and take the fight to the Aetherials. I'd rather save as many as I can, whether they can fight or not. I want to help these people, but without my master's forging hammer, the sacred Malleum Menhir, I won't be able to make anything worth a damn.
+        譯文 : >-
+            
+
+#-------------------------------#
+    50 :
+        標註 : 
+        原文 : >-
+            A blacksmith? We could use you in Devil's Crossing.
+        譯文 : >-
+            
+
+#-------------------------------#
+    51 :
+        標註 : 
+        原文 : >-
+            If you get Malleum Menhir back, I will gladly join you in Devil's Crossing, after I use it to help out around here.{^n}{^n}Please seek out my master and get Malleum Menhir back. I saw him heading out to the northeast. He couldn't have gotten far.
+        譯文 : >-
+            
+
+#-------------------------------#
+    52 :
+        標註 : 
+        原文 : >-
+            I will find Angrim.
+        譯文 : >-
+            
+
+#-------------------------------#
+    53 :
+        標註 : 
+        原文 : >-
+            I'm sorry, I cannot help you.
+        譯文 : >-
+            
+
+#-------------------------------#
+    54 :
+        標註 : 
+        原文 : >-
+            Why do you feel the hammer should go to you?
+        譯文 : >-
+            
+
+#-------------------------------#
+    55 :
+        標註 : 
+        原文 : >-
+            My master is an expert blacksmith, don't get me wrong. The weapons he creates are of the finest quality, but he is reluctant to experiment with arcane forging techniques. In that, I am his superior and he knows it.{^n}{^n}More importantly though, I wish to help people while my master wishes only to prepare soldiers for the battle against the Aetherials. It's a noble goal, but humanity will not thrive if just our soldiers survive.
+        譯文 : >-
+            
+
+#-------------------------------#
+    58 :
+        標註 : 
+        原文 : >-
+            I understand.
+        譯文 : >-
+            
+
+#-------------------------------#
+    59 :
+        標註 : 
+        原文 : >-
+            What is the Malleum Menhir?
+        譯文 : >-
+            
+
+#-------------------------------#
+    60 :
+        標註 : 
+        原文 : >-
+            It is an ancient forging hammer passed down through generations of blacksmiths. It is now in the hands of my master, Angrim, but I feel that the time has come for it to be passed on to younger hands.
+        譯文 : >-
+            
+
+#-------------------------------#
+    63 :
+        標註 : 
+        原文 : >-
+            I see.
+        譯文 : >-
+            
+
+#-------------------------------#
+    64 :
+        標註 : 
+        原文 : >-
+            What are you doing out here?
+        譯文 : >-
+            
+
+#-------------------------------#
+    65 :
+        標註 : 
+        原文 : >-
+            Arming these people against the dangers of Cairn. Doing the best I can with what I've got.
+        譯文 : >-
+            
+
+#-------------------------------#
+    66 :
+        標註 : 
+        原文 : >-
+            What did you need help with?
+        譯文 : >-
+            
+
+#-------------------------------#
+    67 :
+        標註 : 
+        原文 : >-
+            Goodbye.
+        譯文 : >-
+            

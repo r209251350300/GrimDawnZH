@@ -1,0 +1,3697 @@
+tags_uimain.txt:
+
+#-------------------------------#
+    1 :
+        標註 : 
+        原文 : >-
+            ﻿tagTitleScreenText=Grim Dawn Early Access{^n}©2015 Crate Entertainment, LLC{^n}{^n}Welcome to Grim Dawn Early Access! We appreciate your feedback.{^n}{^n}Please visit us at www.grimdawn.com to participate{^n}in the ongoing development of Grim Dawn!
+        譯文 : >-
+            
+
+#-------------------------------#
+    2 :
+        標註 : 
+        原文 : >-
+            tagDemoScreenText=Thanks for  playing!{^n}{^n}Grim Dawn is currently available on Steam Early Access, or via our website at www.grimdawn.com
+        譯文 : >-
+            
+
+#-------------------------------#
+    3 :
+        標註 : 
+        原文 : >-
+            tagMenu01=Play Game
+        譯文 : >-
+            
+
+#-------------------------------#
+    4 :
+        標註 : 
+        原文 : >-
+            tagMenu02=Custom Game
+        譯文 : >-
+            
+
+#-------------------------------#
+    5 :
+        標註 : 
+        原文 : >-
+            tagMenu03=Information
+        譯文 : >-
+            
+
+#-------------------------------#
+    6 :
+        標註 : 
+        原文 : >-
+            tagMenu04=Options
+        譯文 : >-
+            
+
+#-------------------------------#
+    7 :
+        標註 : 
+        原文 : >-
+            tagMenu05=Credits
+        譯文 : >-
+            
+
+#-------------------------------#
+    8 :
+        標註 : 
+        原文 : >-
+            tagMenu06=Updates
+        譯文 : >-
+            
+
+#-------------------------------#
+    9 :
+        標註 : 
+        原文 : >-
+            tagMenu07=Exit
+        譯文 : >-
+            
+
+#-------------------------------#
+    10 :
+        標註 : 
+        原文 : >-
+            tagMenu08=Survival Mode
+        譯文 : >-
+            
+
+#-------------------------------#
+    11 :
+        標註 : 
+        原文 : >-
+            tagMenuButton01=Create Character
+        譯文 : >-
+            
+
+#-------------------------------#
+    12 :
+        標註 : 
+        原文 : >-
+            tagMenuButton02=Import
+        譯文 : >-
+            
+
+#-------------------------------#
+    13 :
+        標註 : 
+        原文 : >-
+            tagMenuButton03=Delete Character
+        譯文 : >-
+            
+
+#-------------------------------#
+    14 :
+        標註 : 
+        原文 : >-
+            tagMenuButton04=Back
+        譯文 : >-
+            
+
+#-------------------------------#
+    15 :
+        標註 : 
+        原文 : >-
+            tagMenuButton05=Start
+        譯文 : >-
+            
+
+#-------------------------------#
+    16 :
+        標註 : 
+        原文 : >-
+            tagMenuButton06=Cancel
+        譯文 : >-
+            
+
+#-------------------------------#
+    17 :
+        標註 : 
+        原文 : >-
+            tagMenuButton07=Apply
+        譯文 : >-
+            
+
+#-------------------------------#
+    18 :
+        標註 : 
+        原文 : >-
+            tagMenuButton08=Default
+        譯文 : >-
+            
+
+#-------------------------------#
+    19 :
+        標註 : 
+        原文 : >-
+            tagMenuButton09=Ok
+        譯文 : >-
+            
+
+#-------------------------------#
+    20 :
+        標註 : 
+        原文 : >-
+            tagMenuButton10=Create
+        譯文 : >-
+            
+
+#-------------------------------#
+    21 :
+        標註 : 
+        原文 : >-
+            tagMenuChar={%d0} ~ {%d1}
+        譯文 : >-
+            
+
+#-------------------------------#
+    22 :
+        標註 : 
+        原文 : >-
+            tagCharLevelClass=Level {%d0} {%t1}
+        譯文 : >-
+            
+
+#-------------------------------#
+    25 :
+        標註 : 
+        原文 : >-
+            tagMenuMPWarning=Welcome to Multiplayer Testing! Warning: during the test phase, you will encounter bugs, crashes and performance issues. Please post problems to the Grim Dawn forum.
+        譯文 : >-
+            
+
+#-------------------------------#
+    31 :
+        標註 : 
+        原文 : >-
+            tagMenuGame01=Single Player
+        譯文 : >-
+            
+
+#-------------------------------#
+    32 :
+        標註 : 
+        原文 : >-
+            tagMenuGame02=Join Multiplayer
+        譯文 : >-
+            
+
+#-------------------------------#
+    33 :
+        標註 : 
+        原文 : >-
+            tagMenuGame03=Host Multiplayer
+        譯文 : >-
+            
+
+#-------------------------------#
+    34 :
+        標註 : 
+        原文 : >-
+            tagMenuGame04=Internet
+        譯文 : >-
+            
+
+#-------------------------------#
+    35 :
+        標註 : 
+        原文 : >-
+            tagMenuGame05=LAN
+        譯文 : >-
+            
+
+#-------------------------------#
+    36 :
+        標註 : 
+        原文 : >-
+            tagMenuGame06=Game Name
+        譯文 : >-
+            
+
+#-------------------------------#
+    37 :
+        標註 : 
+        原文 : >-
+            tagMenuGame07=Password
+        譯文 : >-
+            
+
+#-------------------------------#
+    38 :
+        標註 : 
+        原文 : >-
+            tagMenuGame08=Max. Players
+        譯文 : >-
+            
+
+#-------------------------------#
+    39 :
+        標註 : 
+        原文 : >-
+            tagMenuGame09=Level Range
+        譯文 : >-
+            
+
+#-------------------------------#
+    40 :
+        標註 : 
+        原文 : >-
+            tagMenuGame10=-
+        譯文 : >-
+            
+
+#-------------------------------#
+    41 :
+        標註 : 
+        原文 : >-
+            tagMenuGame11=Map
+        譯文 : >-
+            
+
+#-------------------------------#
+    42 :
+        標註 : 
+        原文 : >-
+            tagMenuGame12=Difficulty
+        譯文 : >-
+            
+
+#-------------------------------#
+    43 :
+        標註 : 
+        原文 : >-
+            tagMenuGame13=Enable Player vs. Player Combat
+        譯文 : >-
+            
+
+#-------------------------------#
+    44 :
+        標註 : 
+        原文 : >-
+            tagDifficultyUnlock01=You have unlocked the Veteran level of difficulty.
+        譯文 : >-
+            
+
+#-------------------------------#
+    45 :
+        標註 : 
+        原文 : >-
+            tagDifficultyUnlock02=You have unlocked the Elite level of difficulty.
+        譯文 : >-
+            
+
+#-------------------------------#
+    46 :
+        標註 : 
+        原文 : >-
+            tagMenuCreate01=Create Character
+        譯文 : >-
+            
+
+#-------------------------------#
+    47 :
+        標註 : 
+        原文 : >-
+            tagMenuCreate02=Name
+        譯文 : >-
+            
+
+#-------------------------------#
+    48 :
+        標註 : 
+        原文 : >-
+            tagMenuCreate03=Male
+        譯文 : >-
+            
+
+#-------------------------------#
+    49 :
+        標註 : 
+        原文 : >-
+            tagMenuCreate04=Female
+        譯文 : >-
+            
+
+#-------------------------------#
+    50 :
+        標註 : 
+        原文 : >-
+            tagMenuCreate05=Enter a name for your character.
+        譯文 : >-
+            
+
+#-------------------------------#
+    51 :
+        標註 : 
+        原文 : >-
+            tagTunicColor=Outfit Color
+        譯文 : >-
+            
+
+#-------------------------------#
+    52 :
+        標註 : 
+        原文 : >-
+            tagMenuImport01=Import Campaign Character {%s}
+        譯文 : >-
+            
+
+#-------------------------------#
+    53 :
+        標註 : 
+        原文 : >-
+            tagMenuImport02=Select a Character
+        譯文 : >-
+            
+
+#-------------------------------#
+    54 :
+        標註 : 
+        原文 : >-
+            tagMenuImport03=Name
+        譯文 : >-
+            
+
+#-------------------------------#
+    55 :
+        標註 : 
+        原文 : >-
+            tagMenuImport04=Class
+        譯文 : >-
+            
+
+#-------------------------------#
+    56 :
+        標註 : 
+        原文 : >-
+            tagMenuImport05=Level
+        譯文 : >-
+            
+
+#-------------------------------#
+    57 :
+        標註 : 
+        原文 : >-
+            tagMenuImport06=Rename Character:
+        譯文 : >-
+            
+
+#-------------------------------#
+    59 :
+        標註 : 
+        原文 : >-
+            tagRDifficultyTitle01=Normal
+        譯文 : >-
+            
+
+#-------------------------------#
+    60 :
+        標註 : 
+        原文 : >-
+            tagRDifficultyTitle02=Elite
+        譯文 : >-
+            
+
+#-------------------------------#
+    61 :
+        標註 : 
+        原文 : >-
+            tagRDifficultyTitle03=Ultimate
+        譯文 : >-
+            
+
+#-------------------------------#
+    62 :
+        標註 : 
+        原文 : >-
+            tagChallengeDifficulty=Veteran
+        譯文 : >-
+            
+
+#-------------------------------#
+    63 :
+        標註 : 
+        原文 : >-
+            tagHardcore=Hardcore
+        譯文 : >-
+            
+
+#-------------------------------#
+    64 :
+        標註 : 
+        原文 : >-
+            tagChallenge=Veteran
+        譯文 : >-
+            
+
+#-------------------------------#
+    65 :
+        標註 : 
+        原文 : >-
+            tagRDifficultyDesc01=Complete this difficulty mode to unlock harder difficulty modes.
+        譯文 : >-
+            
+
+#-------------------------------#
+    66 :
+        標註 : 
+        原文 : >-
+            tagRDifficultyDesc02=The game must be completed in Normal difficulty to play Veteran difficulty.
+        譯文 : >-
+            
+
+#-------------------------------#
+    67 :
+        標註 : 
+        原文 : >-
+            tagRDifficultyDesc03=The game must be completed in Veteran difficulty to play Elite difficulty.
+        譯文 : >-
+            
+
+#-------------------------------#
+    68 :
+        標註 : 
+        原文 : >-
+            tagDifficultyTitleSet=Choose Difficulty:
+        譯文 : >-
+            
+
+#-------------------------------#
+    69 :
+        標註 : 
+        原文 : >-
+            tagDifficultyTitleShow=Difficulties Available to Join:
+        譯文 : >-
+            
+
+#-------------------------------#
+    70 :
+        標註 : 
+        原文 : >-
+            tagDifficultyNormal=Normal Difficulty
+        譯文 : >-
+            
+
+#-------------------------------#
+    71 :
+        標註 : 
+        原文 : >-
+            tagDifficultyNormalVeteran=Veteran Difficulty
+        譯文 : >-
+            
+
+#-------------------------------#
+    72 :
+        標註 : 
+        原文 : >-
+            tagDifficultyElite=Elite Difficulty
+        譯文 : >-
+            
+
+#-------------------------------#
+    73 :
+        標註 : 
+        原文 : >-
+            tagDifficultyUltimate=Ultimate Difficulty
+        譯文 : >-
+            
+
+#-------------------------------#
+    74 :
+        標註 : 
+        原文 : >-
+            tagDifficultyJoinNormal=Normal Difficulty Only
+        譯文 : >-
+            
+
+#-------------------------------#
+    75 :
+        標註 : 
+        原文 : >-
+            tagDifficultyJoinElite=Up to Elite Difficulty
+        譯文 : >-
+            
+
+#-------------------------------#
+    76 :
+        標註 : 
+        原文 : >-
+            tagDifficultyJoinUltimate=Up to Ultimate Difficulty
+        譯文 : >-
+            
+
+#-------------------------------#
+    77 :
+        標註 : 
+        原文 : >-
+            tagDifficultyJoinAny=Any Difficulty
+        譯文 : >-
+            
+
+#-------------------------------#
+    79 :
+        標註 : 
+        原文 : >-
+            tagPlayOptionsAccept=Accept
+        譯文 : >-
+            
+
+#-------------------------------#
+    80 :
+        標註 : 
+        原文 : >-
+            tagPlayOptionsCancel=Cancel
+        譯文 : >-
+            
+
+#-------------------------------#
+    81 :
+        標註 : 
+        原文 : >-
+            tagPlayGameModeCampaign=Main Campaign
+        譯文 : >-
+            
+
+#-------------------------------#
+    82 :
+        標註 : 
+        原文 : >-
+            tagPlayGameModeCustom=Custom Game
+        譯文 : >-
+            
+
+#-------------------------------#
+    83 :
+        標註 : 
+        原文 : >-
+            tagPlayGameModeSurvival=Survival Mode
+        譯文 : >-
+            
+
+#-------------------------------#
+    85 :
+        標註 : 
+        原文 : >-
+            tagGameStateInit=Initializing...
+        譯文 : >-
+            
+
+#-------------------------------#
+    86 :
+        標註 : 
+        原文 : >-
+            tagGameStateLoading=Loading...
+        譯文 : >-
+            
+
+#-------------------------------#
+    87 :
+        標註 : 
+        原文 : >-
+            tagGameStateStarting=Starting Game...
+        譯文 : >-
+            
+
+#-------------------------------#
+    88 :
+        標註 : 
+        原文 : >-
+            tagGameStateConnecting=Connecting to Server...
+        譯文 : >-
+            
+
+#-------------------------------#
+    89 :
+        標註 : 
+        原文 : >-
+            tagGameStateData=Waiting for Server...
+        譯文 : >-
+            
+
+#-------------------------------#
+    91 :
+        標註 : 
+        原文 : >-
+            tagGogMustBeSignedIn=You must be logged into GOG Galaxy to play Grim Dawn in Multiplayer mode. Please login to GOG Galaxy and launch Grim Dawn from the GOG launcher!
+        譯文 : >-
+            
+
+#-------------------------------#
+    97 :
+        標註 : 
+        原文 : >-
+            tagGameplayTitle=General
+        譯文 : >-
+            
+
+#-------------------------------#
+    98 :
+        標註 : 
+        原文 : >-
+            tagGameplayDesc01=This will display help pop-ups in the game.
+        譯文 : >-
+            
+
+#-------------------------------#
+    99 :
+        標註 : 
+        原文 : >-
+            tagGameplayDesc02=This enables a right click sell option when using the market window.
+        譯文 : >-
+            
+
+#-------------------------------#
+    100 :
+        標註 : 
+        原文 : >-
+            tagGameplayDesc03=This enables item pop-ups when mousing over equipment in the world.
+        譯文 : >-
+            
+
+#-------------------------------#
+    101 :
+        標註 : 
+        原文 : >-
+            tagGameplayDesc04=Display damage numbers when you hit enemies.
+        譯文 : >-
+            
+
+#-------------------------------#
+    102 :
+        標註 : 
+        原文 : >-
+            tagGameplayDesc22=Display critical hit multipliers when you crit enemies.
+        譯文 : >-
+            
+
+#-------------------------------#
+    103 :
+        標註 : 
+        原文 : >-
+            tagGameplayDesc23=Updates per second when the game window is inactive.
+        譯文 : >-
+            
+
+#-------------------------------#
+    104 :
+        標註 : 
+        原文 : >-
+            tagGameplayOption01=Display Help
+        譯文 : >-
+            
+
+#-------------------------------#
+    105 :
+        標註 : 
+        原文 : >-
+            tagGameplayOption02=Enable Quicksell (Right Mouse)
+        譯文 : >-
+            
+
+#-------------------------------#
+    106 :
+        標註 : 
+        原文 : >-
+            tagGameplayOption03=Auto Item Tooltips
+        譯文 : >-
+            
+
+#-------------------------------#
+    107 :
+        標註 : 
+        原文 : >-
+            tagGameplayOption04=Display Damage
+        譯文 : >-
+            
+
+#-------------------------------#
+    108 :
+        標註 : 
+        原文 : >-
+            tagGameplayOption05=Enable Optional Roll-Overs
+        譯文 : >-
+            
+
+#-------------------------------#
+    109 :
+        標註 : 
+        原文 : >-
+            tagGameplayOption06=Show Enemy Level
+        譯文 : >-
+            
+
+#-------------------------------#
+    110 :
+        標註 : 
+        原文 : >-
+            tagGameplayOption07=Disable Auto Camera Movement
+        譯文 : >-
+            
+
+#-------------------------------#
+    111 :
+        標註 : 
+        原文 : >-
+            tagGameplayOption08=Disable Text Scroll
+        譯文 : >-
+            
+
+#-------------------------------#
+    112 :
+        標註 : 
+        原文 : >-
+            tagGameplayOption09=Language
+        譯文 : >-
+            
+
+#-------------------------------#
+    113 :
+        標註 : 
+        原文 : >-
+            tagGameplayOption10=Internet Connection
+        譯文 : >-
+            
+
+#-------------------------------#
+    114 :
+        標註 : 
+        原文 : >-
+            tagGameplayOption10A=Dial Up
+        譯文 : >-
+            
+
+#-------------------------------#
+    115 :
+        標註 : 
+        原文 : >-
+            tagGameplayOption10B=Medium
+        譯文 : >-
+            
+
+#-------------------------------#
+    116 :
+        標註 : 
+        原文 : >-
+            tagGameplayOption10C=Fast
+        譯文 : >-
+            
+
+#-------------------------------#
+    117 :
+        標註 : 
+        原文 : >-
+            tagGameplayOption11=Lock Item Pickup
+        譯文 : >-
+            
+
+#-------------------------------#
+    118 :
+        標註 : 
+        原文 : >-
+            tagGameplayOption12=Always Show Loot
+        譯文 : >-
+            
+
+#-------------------------------#
+    119 :
+        標註 : 
+        原文 : >-
+            tagGameplayOption13=Crit Shake
+        譯文 : >-
+            
+
+#-------------------------------#
+    120 :
+        標註 : 
+        原文 : >-
+            tagGameplayOption14=Target Outline
+        譯文 : >-
+            
+
+#-------------------------------#
+    121 :
+        標註 : 
+        原文 : >-
+            tagGameplayOption15=Lock Map Rotation
+        譯文 : >-
+            
+
+#-------------------------------#
+    122 :
+        標註 : 
+        原文 : >-
+            tagGameplayOption16=Gore
+        譯文 : >-
+            
+
+#-------------------------------#
+    123 :
+        標註 : 
+        原文 : >-
+            tagGameplayOption17=Blood
+        譯文 : >-
+            
+
+#-------------------------------#
+    124 :
+        標註 : 
+        原文 : >-
+            tagGameplayOption18=Tutorial Tips
+        譯文 : >-
+            
+
+#-------------------------------#
+    125 :
+        標註 : 
+        原文 : >-
+            tagGameplayOption19=Corpse Persistence
+        譯文 : >-
+            
+
+#-------------------------------#
+    126 :
+        標註 : 
+        原文 : >-
+            tagGameplayOption20=Classic Targeting
+        譯文 : >-
+            
+
+#-------------------------------#
+    127 :
+        標註 : 
+        原文 : >-
+            tagGameplayOption21=Report Anonymous Statistics
+        譯文 : >-
+            
+
+#-------------------------------#
+    128 :
+        標註 : 
+        原文 : >-
+            tagGameplayOption22=Show Crit Multipliers
+        譯文 : >-
+            
+
+#-------------------------------#
+    129 :
+        標註 : 
+        原文 : >-
+            tagGameplayOption23=Background FPS
+        譯文 : >-
+            
+
+#-------------------------------#
+    130 :
+        標註 : 
+        原文 : >-
+            tagAlwaysShowLootOff=Off
+        譯文 : >-
+            
+
+#-------------------------------#
+    131 :
+        標註 : 
+        原文 : >-
+            tagAlwaysShowLootCommon=Common+
+        譯文 : >-
+            
+
+#-------------------------------#
+    132 :
+        標註 : 
+        原文 : >-
+            tagAlwaysShowLootMagic=Magic+
+        譯文 : >-
+            
+
+#-------------------------------#
+    133 :
+        標註 : 
+        原文 : >-
+            tagAlwaysShowLootRare=Rare+
+        譯文 : >-
+            
+
+#-------------------------------#
+    134 :
+        標註 : 
+        原文 : >-
+            tagAlwaysShowLootEpic=Epic+
+        譯文 : >-
+            
+
+#-------------------------------#
+    135 :
+        標註 : 
+        原文 : >-
+            tagAlwaysShowLootLegendary=Legendary+
+        譯文 : >-
+            
+
+#-------------------------------#
+    136 :
+        標註 : 
+        原文 : >-
+            tagNone=None
+        譯文 : >-
+            
+
+#-------------------------------#
+    137 :
+        標註 : 
+        原文 : >-
+            tagRed=Red
+        譯文 : >-
+            
+
+#-------------------------------#
+    138 :
+        標註 : 
+        原文 : >-
+            tagGreen=Green
+        譯文 : >-
+            
+
+#-------------------------------#
+    139 :
+        標註 : 
+        原文 : >-
+            tagBlue=Blue
+        譯文 : >-
+            
+
+#-------------------------------#
+    140 :
+        標註 : 
+        原文 : >-
+            tagGameplayDesc05=This will turn off roll-over support help on the HUD.
+        譯文 : >-
+            
+
+#-------------------------------#
+    141 :
+        標註 : 
+        原文 : >-
+            tagGameplayDesc06=This displays an enemy's level when targeted.
+        譯文 : >-
+            
+
+#-------------------------------#
+    142 :
+        標註 : 
+        原文 : >-
+            tagGameplayDesc07=This disables auto camera movement.
+        譯文 : >-
+            
+
+#-------------------------------#
+    143 :
+        標註 : 
+        原文 : >-
+            tagGameplayDesc08=This disable text scrolling when speaking to NPC's
+        譯文 : >-
+            
+
+#-------------------------------#
+    144 :
+        標註 : 
+        原文 : >-
+            tagGameplayDesc09=This allows you to change languages.  IT will require you to restart the game.
+        譯文 : >-
+            
+
+#-------------------------------#
+    145 :
+        標註 : 
+        原文 : >-
+            tagGameplayDesc18=Enables/disables display of tutorial tips.
+        譯文 : >-
+            
+
+#-------------------------------#
+    146 :
+        標註 : 
+        原文 : >-
+            tagGameplayDesc19=Check to enable classic ARPG targeting with target-lock. Uncheck to use our new targeting scheme without hard target-lock.
+        譯文 : >-
+            
+
+#-------------------------------#
+    147 :
+        標註 : 
+        原文 : >-
+            tagLanguage01=English (US)
+        譯文 : >-
+            
+
+#-------------------------------#
+    148 :
+        標註 : 
+        原文 : >-
+            tagLanguage02=English (GB)
+        譯文 : >-
+            
+
+#-------------------------------#
+    149 :
+        標註 : 
+        原文 : >-
+            tagLanguage03=Español
+        譯文 : >-
+            
+
+#-------------------------------#
+    150 :
+        標註 : 
+        原文 : >-
+            tagLanguage04=Français
+        譯文 : >-
+            
+
+#-------------------------------#
+    151 :
+        標註 : 
+        原文 : >-
+            tagLanguage05=Deutsch
+        譯文 : >-
+            
+
+#-------------------------------#
+    152 :
+        標註 : 
+        原文 : >-
+            tagLanguage06=Italiano
+        譯文 : >-
+            
+
+#-------------------------------#
+    153 :
+        標註 : 
+        原文 : >-
+            tagKeybindingTitle01=Keybinding
+        譯文 : >-
+            
+
+#-------------------------------#
+    154 :
+        標註 : 
+        原文 : >-
+            tagKeybindingTitle02=Function
+        譯文 : >-
+            
+
+#-------------------------------#
+    155 :
+        標註 : 
+        原文 : >-
+            tagKeybindingTitle03=Primary
+        譯文 : >-
+            
+
+#-------------------------------#
+    156 :
+        標註 : 
+        原文 : >-
+            tagKeybindingTitle04=Secondary
+        譯文 : >-
+            
+
+#-------------------------------#
+    157 :
+        標註 : 
+        原文 : >-
+            tagKeybindingButton01=Clear
+        譯文 : >-
+            
+
+#-------------------------------#
+    158 :
+        標註 : 
+        原文 : >-
+            tagKeybindingMessage01=Press the key to bind to {%t0}
+        譯文 : >-
+            
+
+#-------------------------------#
+    159 :
+        標註 : 
+        原文 : >-
+            tagKeybind01=Character Window
+        譯文 : >-
+            
+
+#-------------------------------#
+    160 :
+        標註 : 
+        原文 : >-
+            tagKeybind02=Skill Window
+        譯文 : >-
+            
+
+#-------------------------------#
+    161 :
+        標註 : 
+        原文 : >-
+            tagKeybind03=Mission Window
+        譯文 : >-
+            
+
+#-------------------------------#
+    162 :
+        標註 : 
+        原文 : >-
+            tagKeybind04=Map Window
+        譯文 : >-
+            
+
+#-------------------------------#
+    163 :
+        標註 : 
+        原文 : >-
+            tagKeybind05=Chat Window
+        譯文 : >-
+            
+
+#-------------------------------#
+    164 :
+        標註 : 
+        原文 : >-
+            tagKeybind06=Group Window
+        譯文 : >-
+            
+
+#-------------------------------#
+    165 :
+        標註 : 
+        原文 : >-
+            tagKeybind07=Game Menu
+        譯文 : >-
+            
+
+#-------------------------------#
+    166 :
+        標註 : 
+        原文 : >-
+            tagKeybind08=Quickbar Slot 01
+        譯文 : >-
+            
+
+#-------------------------------#
+    167 :
+        標註 : 
+        原文 : >-
+            tagKeybind09=Quickbar Slot 02
+        譯文 : >-
+            
+
+#-------------------------------#
+    168 :
+        標註 : 
+        原文 : >-
+            tagKeybind10=Quickbar Slot 03
+        譯文 : >-
+            
+
+#-------------------------------#
+    169 :
+        標註 : 
+        原文 : >-
+            tagKeybind11=Quickbar Slot 04
+        譯文 : >-
+            
+
+#-------------------------------#
+    170 :
+        標註 : 
+        原文 : >-
+            tagKeybind12=Quickbar Slot 05
+        譯文 : >-
+            
+
+#-------------------------------#
+    171 :
+        標註 : 
+        原文 : >-
+            tagKeybind13=Quickbar Slot 06
+        譯文 : >-
+            
+
+#-------------------------------#
+    172 :
+        標註 : 
+        原文 : >-
+            tagKeybind14=Quickbar Slot 07
+        譯文 : >-
+            
+
+#-------------------------------#
+    173 :
+        標註 : 
+        原文 : >-
+            tagKeybind15=Quickbar Slot 08
+        譯文 : >-
+            
+
+#-------------------------------#
+    174 :
+        標註 : 
+        原文 : >-
+            tagKeybind16=Quickbar Slot 09
+        譯文 : >-
+            
+
+#-------------------------------#
+    175 :
+        標註 : 
+        原文 : >-
+            tagKeybind17=Quickbar Slot 10
+        譯文 : >-
+            
+
+#-------------------------------#
+    176 :
+        標註 : 
+        原文 : >-
+            tagKeybind18=Drink Health Potion
+        譯文 : >-
+            
+
+#-------------------------------#
+    177 :
+        標註 : 
+        原文 : >-
+            tagKeybind19=Drink Energy Potion
+        譯文 : >-
+            
+
+#-------------------------------#
+    178 :
+        標註 : 
+        原文 : >-
+            tagKeybind20=Camera Zoom In 
+        譯文 : >-
+            
+
+#-------------------------------#
+    179 :
+        標註 : 
+        原文 : >-
+            tagKeybind21=Camera Zoom Out
+        譯文 : >-
+            
+
+#-------------------------------#
+    180 :
+        標註 : 
+        原文 : >-
+            tagKeybind22=Camera Max Zoom In
+        譯文 : >-
+            
+
+#-------------------------------#
+    181 :
+        標註 : 
+        原文 : >-
+            tagKeybind23=Camera Max Zoom Out
+        譯文 : >-
+            
+
+#-------------------------------#
+    182 :
+        標註 : 
+        原文 : >-
+            tagKeybind26=Drop Item
+        譯文 : >-
+            
+
+#-------------------------------#
+    183 :
+        標註 : 
+        原文 : >-
+            tagKeybind27=Show Items (No Filter)
+        譯文 : >-
+            
+
+#-------------------------------#
+    184 :
+        標註 : 
+        原文 : >-
+            tagKeybind28=Show Item Tooltips
+        譯文 : >-
+            
+
+#-------------------------------#
+    185 :
+        標註 : 
+        原文 : >-
+            tagKeybind29=Show Items (Filter Common)
+        譯文 : >-
+            
+
+#-------------------------------#
+    186 :
+        標註 : 
+        原文 : >-
+            tagKeybind30=Center Map (Map Window)
+        譯文 : >-
+            
+
+#-------------------------------#
+    187 :
+        標註 : 
+        原文 : >-
+            tagKeybind31=Activate Portal Stone
+        譯文 : >-
+            
+
+#-------------------------------#
+    188 :
+        標註 : 
+        原文 : >-
+            tagKeybind32=Help Window
+        譯文 : >-
+            
+
+#-------------------------------#
+    189 :
+        標註 : 
+        原文 : >-
+            tagKeybind33=Switch Weapons
+        譯文 : >-
+            
+
+#-------------------------------#
+    190 :
+        標註 : 
+        原文 : >-
+            tagKeybind34=Camera Default View
+        譯文 : >-
+            
+
+#-------------------------------#
+    191 :
+        標註 : 
+        原文 : >-
+            tagKeybind35=Target Pet (Hold Key and Click)
+        譯文 : >-
+            
+
+#-------------------------------#
+    192 :
+        標註 : 
+        原文 : >-
+            tagKeybind36=Stationary Attack (Hold Key and Click)
+        譯文 : >-
+            
+
+#-------------------------------#
+    193 :
+        標註 : 
+        原文 : >-
+            tagKeybind37=Pause Game (Single Player Only)
+        譯文 : >-
+            
+
+#-------------------------------#
+    194 :
+        標註 : 
+        原文 : >-
+            tagKeybind38=Toggle Pet Display
+        譯文 : >-
+            
+
+#-------------------------------#
+    195 :
+        標註 : 
+        原文 : >-
+            tagKeybind39=Toggle Party Display
+        譯文 : >-
+            
+
+#-------------------------------#
+    196 :
+        標註 : 
+        原文 : >-
+            tagKeybind40=Quickbar Switch
+        譯文 : >-
+            
+
+#-------------------------------#
+    197 :
+        標註 : 
+        原文 : >-
+            tagKeybind41=Chat Command : Party
+        譯文 : >-
+            
+
+#-------------------------------#
+    198 :
+        標註 : 
+        原文 : >-
+            tagKeybind42=Chat Command : Tell
+        譯文 : >-
+            
+
+#-------------------------------#
+    199 :
+        標註 : 
+        原文 : >-
+            tagKeybind43=Chat Command : Reply
+        譯文 : >-
+            
+
+#-------------------------------#
+    200 :
+        標註 : 
+        原文 : >-
+            tagKeybind44=Camera Rotate Left
+        譯文 : >-
+            
+
+#-------------------------------#
+    201 :
+        標註 : 
+        原文 : >-
+            tagKeybind45=Camera Rotate Right
+        譯文 : >-
+            
+
+#-------------------------------#
+    202 :
+        標註 : 
+        原文 : >-
+            tagKeybind46=Camera Rotate
+        譯文 : >-
+            
+
+#-------------------------------#
+    203 :
+        標註 : 
+        原文 : >-
+            tagKeybind47=Factions Window
+        譯文 : >-
+            
+
+#-------------------------------#
+    204 :
+        標註 : 
+        原文 : >-
+            tagKeybind48=Achievements Window
+        譯文 : >-
+            
+
+#-------------------------------#
+    205 :
+        標註 : 
+        原文 : >-
+            tagKeybindTitle01=General Keybindings
+        譯文 : >-
+            
+
+#-------------------------------#
+    206 :
+        標註 : 
+        原文 : >-
+            tagKeybindTitle02=Chat Keybindings
+        譯文 : >-
+            
+
+#-------------------------------#
+    207 :
+        標註 : 
+        原文 : >-
+            tagAudioTitle=Audio
+        譯文 : >-
+            
+
+#-------------------------------#
+    208 :
+        標註 : 
+        原文 : >-
+            tagAudioOption01=Master Volume
+        譯文 : >-
+            
+
+#-------------------------------#
+    209 :
+        標註 : 
+        原文 : >-
+            tagAudioOption02=Music Volume
+        譯文 : >-
+            
+
+#-------------------------------#
+    210 :
+        標註 : 
+        原文 : >-
+            tagAudioOption03=Sound FX Volume
+        譯文 : >-
+            
+
+#-------------------------------#
+    211 :
+        標註 : 
+        原文 : >-
+            tagAudioOption04=Dialog Volume
+        譯文 : >-
+            
+
+#-------------------------------#
+    212 :
+        標註 : 
+        原文 : >-
+            tagAudioOption05=Ambient Music Frequency
+        譯文 : >-
+            
+
+#-------------------------------#
+    213 :
+        標註 : 
+        原文 : >-
+            tagAudioOption06=Less Often
+        譯文 : >-
+            
+
+#-------------------------------#
+    214 :
+        標註 : 
+        原文 : >-
+            tagAudioOption07=Default
+        譯文 : >-
+            
+
+#-------------------------------#
+    215 :
+        標註 : 
+        原文 : >-
+            tagAudioOption08=More Often
+        譯文 : >-
+            
+
+#-------------------------------#
+    216 :
+        標註 : 
+        原文 : >-
+            tagAudioOption09=Enable EAX
+        譯文 : >-
+            
+
+#-------------------------------#
+    217 :
+        標註 : 
+        原文 : >-
+            tagAudioOption10=Enable Hardware Mixing
+        譯文 : >-
+            
+
+#-------------------------------#
+    218 :
+        標註 : 
+        原文 : >-
+            tagAudioOption11=Ambient FX Volume
+        譯文 : >-
+            
+
+#-------------------------------#
+    219 :
+        標註 : 
+        原文 : >-
+            tagSoundDevice=Audio Device
+        譯文 : >-
+            
+
+#-------------------------------#
+    220 :
+        標註 : 
+        原文 : >-
+            tagSpeakerSetup=Speaker Setup
+        譯文 : >-
+            
+
+#-------------------------------#
+    221 :
+        標註 : 
+        原文 : >-
+            tagHeadphoneSpeakers=Headphones
+        譯文 : >-
+            
+
+#-------------------------------#
+    222 :
+        標註 : 
+        原文 : >-
+            tagStereoSpeakers=Stereo
+        譯文 : >-
+            
+
+#-------------------------------#
+    223 :
+        標註 : 
+        原文 : >-
+            tagQuadraphonicSpeakers=Quadraphonic
+        譯文 : >-
+            
+
+#-------------------------------#
+    224 :
+        標註 : 
+        原文 : >-
+            tagSurroundSpeakers=Surround
+        譯文 : >-
+            
+
+#-------------------------------#
+    225 :
+        標註 : 
+        原文 : >-
+            tag51Speakers=5.1 Surround
+        譯文 : >-
+            
+
+#-------------------------------#
+    226 :
+        標註 : 
+        原文 : >-
+            tag71Speakers=7.1 Surround
+        譯文 : >-
+            
+
+#-------------------------------#
+    227 :
+        標註 : 
+        原文 : >-
+            tagVideoTitle=Video
+        譯文 : >-
+            
+
+#-------------------------------#
+    228 :
+        標註 : 
+        原文 : >-
+            tagVideoResolution01=800 x 600
+        譯文 : >-
+            
+
+#-------------------------------#
+    229 :
+        標註 : 
+        原文 : >-
+            tagVideoResolution02=1024 x 768
+        譯文 : >-
+            
+
+#-------------------------------#
+    230 :
+        標註 : 
+        原文 : >-
+            tagVideoResolution03=1280 x 1024
+        譯文 : >-
+            
+
+#-------------------------------#
+    231 :
+        標註 : 
+        原文 : >-
+            tagVideoLevel01=High
+        譯文 : >-
+            
+
+#-------------------------------#
+    232 :
+        標註 : 
+        原文 : >-
+            tagVideoLevel02=Medium
+        譯文 : >-
+            
+
+#-------------------------------#
+    233 :
+        標註 : 
+        原文 : >-
+            tagVideoLevel03=Low
+        譯文 : >-
+            
+
+#-------------------------------#
+    234 :
+        標註 : 
+        原文 : >-
+            tagVideoLevel04=Very High
+        譯文 : >-
+            
+
+#-------------------------------#
+    235 :
+        標註 : 
+        原文 : >-
+            tagVideoLevel05=Disabled
+        譯文 : >-
+            
+
+#-------------------------------#
+    236 :
+        標註 : 
+        原文 : >-
+            tagVideoOption01=Screen Resolution
+        譯文 : >-
+            
+
+#-------------------------------#
+    237 :
+        標註 : 
+        原文 : >-
+            tagVideoOption02=Textures
+        譯文 : >-
+            
+
+#-------------------------------#
+    238 :
+        標註 : 
+        原文 : >-
+            tagVideoOption03=Shadows
+        譯文 : >-
+            
+
+#-------------------------------#
+    239 :
+        標註 : 
+        原文 : >-
+            tagVideoOption04=Reflections
+        譯文 : >-
+            
+
+#-------------------------------#
+    240 :
+        標註 : 
+        原文 : >-
+            tagVideoOption05=Shaders
+        譯文 : >-
+            
+
+#-------------------------------#
+    241 :
+        標註 : 
+        原文 : >-
+            tagVideoOption06=Terrain
+        譯文 : >-
+            
+
+#-------------------------------#
+    242 :
+        標註 : 
+        原文 : >-
+            tagVideoOption07=Foliage
+        譯文 : >-
+            
+
+#-------------------------------#
+    243 :
+        標註 : 
+        原文 : >-
+            tagVideoOption08=Effects
+        譯文 : >-
+            
+
+#-------------------------------#
+    244 :
+        標註 : 
+        原文 : >-
+            tagVideoOption09=Bloom
+        譯文 : >-
+            
+
+#-------------------------------#
+    245 :
+        標註 : 
+        原文 : >-
+            tagVideoOption10=Pixel Shader
+        譯文 : >-
+            
+
+#-------------------------------#
+    246 :
+        標註 : 
+        原文 : >-
+            tagVideoOption11=Vertical Sync
+        譯文 : >-
+            
+
+#-------------------------------#
+    247 :
+        標註 : 
+        原文 : >-
+            tagVideoOption12=Gamma
+        譯文 : >-
+            
+
+#-------------------------------#
+    248 :
+        標註 : 
+        原文 : >-
+            tagVideoOption13=Anti-aliasing
+        譯文 : >-
+            
+
+#-------------------------------#
+    249 :
+        標註 : 
+        原文 : >-
+            tagVideoOption14=CPU Quality
+        譯文 : >-
+            
+
+#-------------------------------#
+    250 :
+        標註 : 
+        原文 : >-
+            tagVideoOption15=Graphics Quality
+        譯文 : >-
+            
+
+#-------------------------------#
+    251 :
+        標註 : 
+        原文 : >-
+            tagVideoOption16=Physics Quality
+        譯文 : >-
+            
+
+#-------------------------------#
+    252 :
+        標註 : 
+        原文 : >-
+            tagVideoOption17=Advanced
+        譯文 : >-
+            
+
+#-------------------------------#
+    253 :
+        標註 : 
+        原文 : >-
+            tagVideoOption18=Bit Depth
+        譯文 : >-
+            
+
+#-------------------------------#
+    254 :
+        標註 : 
+        原文 : >-
+            tagVideoOption19=Detail Objects
+        譯文 : >-
+            
+
+#-------------------------------#
+    255 :
+        標註 : 
+        原文 : >-
+            tagVideoOption20=Texture Filtering
+        譯文 : >-
+            
+
+#-------------------------------#
+    256 :
+        標註 : 
+        原文 : >-
+            tagVideoOption21=Window Mode
+        譯文 : >-
+            
+
+#-------------------------------#
+    257 :
+        標註 : 
+        原文 : >-
+            tagVideoOption22=Enable IME
+        譯文 : >-
+            
+
+#-------------------------------#
+    258 :
+        標註 : 
+        原文 : >-
+            tagVideoOption23=Widescreen
+        譯文 : >-
+            
+
+#-------------------------------#
+    259 :
+        標註 : 
+        原文 : >-
+            tagVideoOption24=Detail Level
+        譯文 : >-
+            
+
+#-------------------------------#
+    260 :
+        標註 : 
+        原文 : >-
+            tagVideoOption25=Anisotropic Filtering
+        譯文 : >-
+            
+
+#-------------------------------#
+    261 :
+        標註 : 
+        原文 : >-
+            tagVideoOption26=Weather
+        譯文 : >-
+            
+
+#-------------------------------#
+    262 :
+        標註 : 
+        原文 : >-
+            tagVideoOption27=FX
+        譯文 : >-
+            
+
+#-------------------------------#
+    263 :
+        標註 : 
+        原文 : >-
+            tagVideoOption28=Lighting
+        譯文 : >-
+            
+
+#-------------------------------#
+    264 :
+        標註 : 
+        原文 : >-
+            tagVideoOption29=Window Mode
+        譯文 : >-
+            
+
+#-------------------------------#
+    265 :
+        標註 : 
+        原文 : >-
+            tagVideoOption30=Render Device
+        譯文 : >-
+            
+
+#-------------------------------#
+    266 :
+        標註 : 
+        原文 : >-
+            tagFullscreen=Fullscreen
+        譯文 : >-
+            
+
+#-------------------------------#
+    267 :
+        標註 : 
+        原文 : >-
+            tagFullscreenWindowed=Windowed (FullScreen)
+        譯文 : >-
+            
+
+#-------------------------------#
+    268 :
+        標註 : 
+        原文 : >-
+            tagWindowed=Windowed
+        譯文 : >-
+            
+
+#-------------------------------#
+    269 :
+        標註 : 
+        原文 : >-
+            tagVideoOptionDepthOfField=Depth of Field
+        譯文 : >-
+            
+
+#-------------------------------#
+    270 :
+        標註 : 
+        原文 : >-
+            tagVideoOptionSoftParticles=Soft Particles
+        譯文 : >-
+            
+
+#-------------------------------#
+    271 :
+        標註 : 
+        原文 : >-
+            tagVideoOptionUIScale=UI Scale
+        譯文 : >-
+            
+
+#-------------------------------#
+    272 :
+        標註 : 
+        原文 : >-
+            tagVideoOptionA2C=Alpha To Coverage
+        譯文 : >-
+            
+
+#-------------------------------#
+    274 :
+        標註 : 
+        原文 : >-
+            tagNetworkTitle=Network
+        譯文 : >-
+            
+
+#-------------------------------#
+    275 :
+        標註 : 
+        原文 : >-
+            tagUpnpTitle=UPnP:
+        譯文 : >-
+            
+
+#-------------------------------#
+    276 :
+        標註 : 
+        原文 : >-
+            tagUpnpStatus=UPnP Status:
+        譯文 : >-
+            
+
+#-------------------------------#
+    277 :
+        標註 : 
+        原文 : >-
+            tagUpnpAvailable=Available
+        譯文 : >-
+            
+
+#-------------------------------#
+    278 :
+        標註 : 
+        原文 : >-
+            tagUpnpNotAvailable=Not Available
+        譯文 : >-
+            
+
+#-------------------------------#
+    279 :
+        標註 : 
+        原文 : >-
+            tagUpnpHelp=Help
+        譯文 : >-
+            
+
+#-------------------------------#
+    280 :
+        標註 : 
+        原文 : >-
+            tagUpnpControl=Enable UPnP
+        譯文 : >-
+            
+
+#-------------------------------#
+    281 :
+        標註 : 
+        原文 : >-
+            tagNetworkStatusTitle=Network Status:
+        譯文 : >-
+            
+
+#-------------------------------#
+    282 :
+        標註 : 
+        原文 : >-
+            tagNetworkStatusTest=Test
+        譯文 : >-
+            
+
+#-------------------------------#
+    283 :
+        標註 : 
+        原文 : >-
+            tagNetworkNoOpts=Network Options are unavailable in game.{^n}Please exit to the Main Menu and open the Options Menu.
+        譯文 : >-
+            
+
+#-------------------------------#
+    284 :
+        標註 : 
+        原文 : >-
+            tagCloudSaving=Enable Cloud Saving
+        譯文 : >-
+            
+
+#-------------------------------#
+    285 :
+        標註 : 
+        原文 : >-
+            tagResetCloud=Delete Cloud Saves
+        譯文 : >-
+            
+
+#-------------------------------#
+    286 :
+        標註 : 
+        原文 : >-
+            tagDownloadCloud=Download Cloud Saves
+        譯文 : >-
+            
+
+#-------------------------------#
+    288 :
+        標註 : 
+        原文 : >-
+            tagUPnPCheckFail=UPnP Services are not available to configure your router to host a Grim Dawn Server.  Please check your router settings and enable UPnP, or, if that is not possible, manually configure your router to open port 27016 for both the UDP and TCP protocols.
+        譯文 : >-
+            
+
+#-------------------------------#
+    290 :
+        標註 : 
+        原文 : >-
+            tagUPnPNotAvailableHelp=UPnP is not available.  Grim Dawn will not be able to auto-configure your router to Host an Internet server.  Please check your router settings and enable UPnP or manually configure your router to open port 27016 for both the UDP and TCP protocols.
+        譯文 : >-
+            
+
+#-------------------------------#
+    292 :
+        標註 : 
+        原文 : >-
+            tagUPnPEnabledHelp=UPnP is enabled.  No manual configuration is needed.
+        譯文 : >-
+            
+
+#-------------------------------#
+    293 :
+        標註 : 
+        原文 : >-
+            tagUPnPDisabledHelp=UPnP is disabled.  Port 27016 must be opened on your router for both the UDP and TCP protocols to host a Grim Dawn server.
+        譯文 : >-
+            
+
+#-------------------------------#
+    295 :
+        標註 : 
+        原文 : >-
+            tagUPnPHelp=UPnP is a protocol that allows Grim Dawn to Communicate with and control your router.  To host an Internet server, ports must be opened on your router.  UPnP allows Grim Dawn to open those ports, and close them on exit, with no manual configuration required.
+        譯文 : >-
+            
+
+#-------------------------------#
+    297 :
+        標註 : 
+        原文 : >-
+            tagIPCheckHelp=The network configuration test checks that the local router has a valid external IP address, and that the address matches the external address visible to the internet.
+        譯文 : >-
+            
+
+#-------------------------------#
+    299 :
+        標註 : 
+        原文 : >-
+            tagIPCheckFail=The public IP address reported by your router does not match the public IP address externally visible to the Internet.  Usually, this is caused by attempting to host a Grim Dawn Server from behind more than one router.  Please check your router configuration and restart Grim Dawn.
+        譯文 : >-
+            
+
+#-------------------------------#
+    301 :
+        標註 : 
+        原文 : >-
+            tagIPCheckFailMaybe=The public IP address reported by your router (%t0) is not a valid IP address.  It is possible that your router is functioning properly and did not report the public IP correctly.  However, if you are unable to host a Grim Dawn server, please check your router configuration.  In particular, you should check to make sure that the Grim Dawn server is not behind more than one router.  Some Internet providers use bundled modem/router devices.  If there is another router between the Grim Dawn server and the bundled device you will not be able to host an internet server.
+        譯文 : >-
+            
+
+#-------------------------------#
+    303 :
+        標註 : 
+        原文 : >-
+            tagIPCheckPass=Network configuration test passed.  The public IP address reported by your router matches that which is externally visible on the internet.
+        譯文 : >-
+            
+
+#-------------------------------#
+    305 :
+        標註 : 
+        原文 : >-
+            tagIPCheckUnable=Unable to test network configuration.  This check requires that the local router has the UPnP protocol enabled, and that UPnP support is enabled in Grim Dawn.  If it is not enabled, please enable it, restart Grim Dawn, and re-run this test.
+        譯文 : >-
+            
+
+#-------------------------------#
+    307 :
+        標註 : 
+        原文 : >-
+            tagIPCheckUnableIP=Unable to obtain the externally visible IP address.  The test cannot be run at this time.
+        譯文 : >-
+            
+
+#-------------------------------#
+    309 :
+        標註 : 
+        原文 : >-
+            tagIPTesting=Testing Configuration...
+        譯文 : >-
+            
+
+#-------------------------------#
+    310 :
+        標註 : 
+        原文 : >-
+            tagIPLocalPublic=Public IP reported by your router:
+        譯文 : >-
+            
+
+#-------------------------------#
+    311 :
+        標註 : 
+        原文 : >-
+            tagIPExternalPublic=Public IP visible to the Internet:
+        譯文 : >-
+            
+
+#-------------------------------#
+    312 :
+        標註 : 
+        原文 : >-
+            tagIPInvalid=<Unable to obtain address>
+        譯文 : >-
+            
+
+#-------------------------------#
+    315 :
+        標註 : 
+        原文 : >-
+            tagMultiplayer01=Game Name
+        譯文 : >-
+            
+
+#-------------------------------#
+    316 :
+        標註 : 
+        原文 : >-
+            tagMultiplayer02=Difficulty
+        譯文 : >-
+            
+
+#-------------------------------#
+    317 :
+        標註 : 
+        原文 : >-
+            tagMultiplayer03=Map
+        譯文 : >-
+            
+
+#-------------------------------#
+    318 :
+        標註 : 
+        原文 : >-
+            tagMultiplayer04=Players
+        譯文 : >-
+            
+
+#-------------------------------#
+    319 :
+        標註 : 
+        原文 : >-
+            tagMultiplayer05=Ping
+        譯文 : >-
+            
+
+#-------------------------------#
+    320 :
+        標註 : 
+        原文 : >-
+            tagMultiplayer06=Summary
+        譯文 : >-
+            
+
+#-------------------------------#
+    321 :
+        標註 : 
+        原文 : >-
+            tagMultiplayer07=Game Name Filter:
+        譯文 : >-
+            
+
+#-------------------------------#
+    322 :
+        標註 : 
+        原文 : >-
+            tagMultiplayer09=Map Unavailable
+        譯文 : >-
+            
+
+#-------------------------------#
+    323 :
+        標註 : 
+        原文 : >-
+            tagMultiplayer10=Hide Full Games
+        譯文 : >-
+            
+
+#-------------------------------#
+    324 :
+        標註 : 
+        原文 : >-
+            tagMultiplayer11=Hide Locked Games
+        譯文 : >-
+            
+
+#-------------------------------#
+    325 :
+        標註 : 
+        原文 : >-
+            tagMultiplayer12={%d0} / {%d1} 
+        譯文 : >-
+            
+
+#-------------------------------#
+    326 :
+        標註 : 
+        原文 : >-
+            tagMultiplayer13={%d0} hr {%d1} min {%d2} sec
+        譯文 : >-
+            
+
+#-------------------------------#
+    327 :
+        標註 : 
+        原文 : >-
+            tagMultiplayer14=Locked
+        譯文 : >-
+            
+
+#-------------------------------#
+    328 :
+        標註 : 
+        原文 : >-
+            tagMultiplayer15=Version
+        譯文 : >-
+            
+
+#-------------------------------#
+    330 :
+        標註 : 
+        原文 : >-
+            tagMultiStats01=Map :
+        譯文 : >-
+            
+
+#-------------------------------#
+    331 :
+        標註 : 
+        原文 : >-
+            tagMultiStats02=Players :  {%d0} / {%d1}
+        譯文 : >-
+            
+
+#-------------------------------#
+    332 :
+        標註 : 
+        原文 : >-
+            tagMultiStats03=Difficulty :
+        譯文 : >-
+            
+
+#-------------------------------#
+    333 :
+        標註 : 
+        原文 : >-
+            tagMultiStats04=Elapsed Time :
+        譯文 : >-
+            
+
+#-------------------------------#
+    334 :
+        標註 : 
+        原文 : >-
+            tagMultiStats05=Level Range +/-
+        譯文 : >-
+            
+
+#-------------------------------#
+    335 :
+        標註 : 
+        原文 : >-
+            tagMultiButtonRefresh=Refresh
+        譯文 : >-
+            
+
+#-------------------------------#
+    336 :
+        標註 : 
+        原文 : >-
+            tagMultiNameFormat={%t0} (Level {%d0})
+        譯文 : >-
+            
+
+#-------------------------------#
+    338 :
+        標註 : 
+        原文 : >-
+            tagDefaultMap=Grim Dawn
+        譯文 : >-
+            
+
+#-------------------------------#
+    339 :
+        標註 : 
+        原文 : >-
+            tagMenuErrorTitle=Information
+        譯文 : >-
+            
+
+#-------------------------------#
+    340 :
+        標註 : 
+        原文 : >-
+            tagMenuError07=Please select a name for your character.
+        譯文 : >-
+            
+
+#-------------------------------#
+    341 :
+        標註 : 
+        原文 : >-
+            tagMenuError08=Unable to connect to server.
+        譯文 : >-
+            
+
+#-------------------------------#
+    342 :
+        標註 : 
+        原文 : >-
+            tagMenuError09=Please select a server.
+        譯文 : >-
+            
+
+#-------------------------------#
+    343 :
+        標註 : 
+        原文 : >-
+            tagMenuError11=Internet service unavailable.
+        譯文 : >-
+            
+
+#-------------------------------#
+    344 :
+        標註 : 
+        原文 : >-
+            tagMenuError12=Internet service temporarily unavailable due to scheduled maintenance.
+        譯文 : >-
+            
+
+#-------------------------------#
+    345 :
+        標註 : 
+        原文 : >-
+            tagMenuError13=Error connecting to internet service.
+        譯文 : >-
+            
+
+#-------------------------------#
+    346 :
+        標註 : 
+        原文 : >-
+            tagMenuError14=Network problems detected.
+        譯文 : >-
+            
+
+#-------------------------------#
+    347 :
+        標註 : 
+        原文 : >-
+            tagMenuError15=Lost connection to server.
+        譯文 : >-
+            
+
+#-------------------------------#
+    348 :
+        標註 : 
+        原文 : >-
+            tagMenuError16=You have been banned from this server.
+        譯文 : >-
+            
+
+#-------------------------------#
+    349 :
+        標註 : 
+        原文 : >-
+            tagMenuError17=A password is required to join this game.
+        譯文 : >-
+            
+
+#-------------------------------#
+    350 :
+        標註 : 
+        原文 : >-
+            tagMenuError18=Unable to connect.  The game you are trying to join is full.
+        譯文 : >-
+            
+
+#-------------------------------#
+    351 :
+        標註 : 
+        原文 : >-
+            tagMenuError19=Unable to connect.  You have not unlocked that difficulty level with this character.
+        譯文 : >-
+            
+
+#-------------------------------#
+    352 :
+        標註 : 
+        原文 : >-
+            tagMenuError20=Invalid Password.
+        譯文 : >-
+            
+
+#-------------------------------#
+    353 :
+        標註 : 
+        原文 : >-
+            tagMenuError21=This game requires custom map: {%t0}
+        譯文 : >-
+            
+
+#-------------------------------#
+    354 :
+        標註 : 
+        原文 : >-
+            tagMenuError21a=This game is using an incompatible game mode. Your mode: "{%s0"}, Server's mode: "{%s1}"
+        譯文 : >-
+            
+
+#-------------------------------#
+    355 :
+        標註 : 
+        原文 : >-
+            tagMenuError21b=Hardcore and non-hardcore players cannot play together.  Please select another game.
+        譯文 : >-
+            
+
+#-------------------------------#
+    356 :
+        標註 : 
+        原文 : >-
+            tagMenuError22=This game is full.  Please select another.
+        譯文 : >-
+            
+
+#-------------------------------#
+    357 :
+        標註 : 
+        原文 : >-
+            tagMenuError23=This game requires characters to be between level {%d0} ~ {%d1}.  Please select another game.
+        譯文 : >-
+            
+
+#-------------------------------#
+    358 :
+        標註 : 
+        原文 : >-
+            tagMenuError24=Some of your changes will not take effect until you restart the game.
+        譯文 : >-
+            
+
+#-------------------------------#
+    359 :
+        標註 : 
+        原文 : >-
+            tagMenuError25=You have made some changes to options in the game.  Do you wish to apply those changes?
+        譯文 : >-
+            
+
+#-------------------------------#
+    360 :
+        標註 : 
+        原文 : >-
+            tagMenuError26=Unable to Connect to Server - Invalid CD Key
+        譯文 : >-
+            
+
+#-------------------------------#
+    361 :
+        標註 : 
+        原文 : >-
+            tagMenuError28=Invalid CD Key
+        譯文 : >-
+            
+
+#-------------------------------#
+    362 :
+        標註 : 
+        原文 : >-
+            tagMenuError29=CD Key Already in Use
+        譯文 : >-
+            
+
+#-------------------------------#
+    363 :
+        標註 : 
+        原文 : >-
+            tagMenuError30=CD Key Has Been Disabled
+        譯文 : >-
+            
+
+#-------------------------------#
+    364 :
+        標註 : 
+        原文 : >-
+            tagMenuError31=Building server list.  Cancel to view partial server list.
+        譯文 : >-
+            
+
+#-------------------------------#
+    365 :
+        標註 : 
+        原文 : >-
+            tagMenuError32=You do not have the correct version to connect to this server.  Please update.
+        譯文 : >-
+            
+
+#-------------------------------#
+    366 :
+        標註 : 
+        原文 : >-
+            tagMenuError33=Couldn't initialize graphics engine.
+        譯文 : >-
+            
+
+#-------------------------------#
+    367 :
+        標註 : 
+        原文 : >-
+            tagMenuError34=Virtual memory must be enabled to run Grim Dawn.
+        譯文 : >-
+            
+
+#-------------------------------#
+    368 :
+        標註 : 
+        原文 : >-
+            tagMenuError35=Are you sure you wish to save and exit your game?
+        譯文 : >-
+            
+
+#-------------------------------#
+    369 :
+        標註 : 
+        原文 : >-
+            tagMenuError36=Are you sure you wish to exit Grim Dawn?
+        譯文 : >-
+            
+
+#-------------------------------#
+    370 :
+        標註 : 
+        原文 : >-
+            tagMenuError37=A copy of Grim Dawn is already running.
+        譯文 : >-
+            
+
+#-------------------------------#
+    371 :
+        標註 : 
+        原文 : >-
+            tagMenuError38=A character with that name already exists.
+        譯文 : >-
+            
+
+#-------------------------------#
+    372 :
+        標註 : 
+        原文 : >-
+            tagMenuError39=Error downloading update file.
+        譯文 : >-
+            
+
+#-------------------------------#
+    373 :
+        標註 : 
+        原文 : >-
+            tagMenuError40=Invalid player file.
+        譯文 : >-
+            
+
+#-------------------------------#
+    374 :
+        標註 : 
+        原文 : >-
+            tagMenuError41=Please insert the original Grim Dawn disc.
+        譯文 : >-
+            
+
+#-------------------------------#
+    375 :
+        標註 : 
+        原文 : >-
+            tagMenuError42=Steam authentication failed.
+        譯文 : >-
+            
+
+#-------------------------------#
+    376 :
+        標註 : 
+        原文 : >-
+            tagConnectAborted=Connect Aborted.
+        譯文 : >-
+            
+
+#-------------------------------#
+    377 :
+        標註 : 
+        原文 : >-
+            tagMenuWarning01=Warning:  This will create a copy of your character {%s}.  This copied character can only be used in Custom Games.
+        譯文 : >-
+            
+
+#-------------------------------#
+    378 :
+        標註 : 
+        原文 : >-
+            tagMenuWarning02=Would you like to rename this Custom Only Character?
+        譯文 : >-
+            
+
+#-------------------------------#
+    379 :
+        標註 : 
+        原文 : >-
+            tagMenuWarning03=Leave blank and press "OK" to keep {%s} as the new characters name.
+        譯文 : >-
+            
+
+#-------------------------------#
+    380 :
+        標註 : 
+        原文 : >-
+            tagMenuUpdate01=No updates available at this time.
+        譯文 : >-
+            
+
+#-------------------------------#
+    381 :
+        標註 : 
+        原文 : >-
+            tagMenuUpdate02=Downloading Update
+        譯文 : >-
+            
+
+#-------------------------------#
+    382 :
+        標註 : 
+        原文 : >-
+            tagMenuDelete01=Are you sure you want to permanently delete this character?
+        譯文 : >-
+            
+
+#-------------------------------#
+    383 :
+        標註 : 
+        原文 : >-
+            tagDeveloperTitle=Developer
+        譯文 : >-
+            
+
+#-------------------------------#
+    384 :
+        標註 : 
+        原文 : >-
+            tagDeveloperOption01=Video Sync to Refresh 
+        譯文 : >-
+            
+
+#-------------------------------#
+    385 :
+        標註 : 
+        原文 : >-
+            tagDeveloperOption02=Full Screen 
+        譯文 : >-
+            
+
+#-------------------------------#
+    386 :
+        標註 : 
+        原文 : >-
+            tagDeveloperOption03=Show Tag Errors 
+        譯文 : >-
+            
+
+#-------------------------------#
+    387 :
+        標註 : 
+        原文 : >-
+            tagDeveloperOption04=Use Archives 
+        譯文 : >-
+            
+
+#-------------------------------#
+    388 :
+        標註 : 
+        原文 : >-
+            tagDeveloperOption05=Send Debug Mail 
+        譯文 : >-
+            
+
+#-------------------------------#
+    389 :
+        標註 : 
+        原文 : >-
+            tagDeveloperOption06=Show Assert Messages 
+        譯文 : >-
+            
+
+#-------------------------------#
+    390 :
+        標註 : 
+        原文 : >-
+            tagDeveloperOption07=Auto-Close Archives
+        譯文 : >-
+            
+
+#-------------------------------#
+    391 :
+        標註 : 
+        原文 : >-
+            tagDeveloperOption08=Load Database from Archive
+        譯文 : >-
+            
+
+#-------------------------------#
+    392 :
+        標註 : 
+        原文 : >-
+            tagDeveloperOption09=Show Intro Movies
+        譯文 : >-
+            
+
+#-------------------------------#
+    393 :
+        標註 : 
+        原文 : >-
+            tagDeveloperOption10=Force Single Processor Mode
+        譯文 : >-
+            
+
+#-------------------------------#
+    394 :
+        標註 : 
+        原文 : >-
+            tagDeveloperOption11=Max Resource Threads
+        譯文 : >-
+            
+
+#-------------------------------#
+    395 :
+        標註 : 
+        原文 : >-
+            tagNamePlate01=Grim Dawn Game Setup
+        譯文 : >-
+            
+
+#-------------------------------#
+    396 :
+        標註 : 
+        原文 : >-
+            tagNamePlate02=Custom Game Setup
+        譯文 : >-
+            
+
+#-------------------------------#
+    397 :
+        標註 : 
+        原文 : >-
+            tagNamePlate03=Options Menu
+        譯文 : >-
+            
+
+#-------------------------------#
+    398 :
+        標註 : 
+        原文 : >-
+            tagNamePlate04=Credits
+        譯文 : >-
+            
+
+#-------------------------------#
+    399 :
+        標註 : 
+        原文 : >-
+            tagNamePlate05=LAN
+        譯文 : >-
+            
+
+#-------------------------------#
+    400 :
+        標註 : 
+        原文 : >-
+            tagNamePlate06=Internet
+        譯文 : >-
+            
+
+#-------------------------------#
+    401 :
+        標註 : 
+        原文 : >-
+            tagPreviewError=This feature is disabled.
+        譯文 : >-
+            
+
+#-------------------------------#
+    402 :
+        標註 : 
+        原文 : >-
+            tagLoading=Loading
+        譯文 : >-
+            
+
+#-------------------------------#
+    403 :
+        標註 : 
+        原文 : >-
+            tagFrenchPatch=Grim Dawn will now update the original Grim Dawn dialog files to the French version.
+        譯文 : >-
+            
+
+#-------------------------------#
+    404 :
+        標註 : 
+        原文 : >-
+            tagGermanPatch=Grim Dawn will now update the original Grim Dawn dialog files to the German version.
+        譯文 : >-
+            
+
+#-------------------------------#
+    405 :
+        標註 : 
+        原文 : >-
+            tagLanguagePatchError=Grim Dawn was unable to update the original Grim Dawn dialog files.
+        譯文 : >-
+            
+
+#-------------------------------#
+    406 :
+        標註 : 
+        原文 : >-
+            tagMenuPatcher01=Updating original Grim Dawn files …
+        譯文 : >-
+            
+
+#-------------------------------#
+    407 :
+        標註 : 
+        原文 : >-
+            tagMenuPatcher02=Error with file : 
+        譯文 : >-
+            
+
+#-------------------------------#
+    408 :
+        標註 : 
+        原文 : >-
+            tagGameSummary={%d0} Games / {%d1} Players
+        譯文 : >-
+            
+
+#-------------------------------#
+    410 :
+        標註 : 
+        原文 : >-
+            tagCharCreatePVP=PVP
+        譯文 : >-
+            
+
+#-------------------------------#
+    411 :
+        標註 : 
+        原文 : >-
+            tagCharCreateAutoParty=Auto-Party
+        譯文 : >-
+            
+
+#-------------------------------#
+    412 :
+        標註 : 
+        原文 : >-
+            tagCharCreatePVPwarning=You have just enabled PVP (Player Versus Player) mode.  In this mode, you can attack other players, and they can attack you.  Note: A game can be either PVP or Auto-Party, but not both.
+        譯文 : >-
+            
+
+#-------------------------------#
+    413 :
+        標註 : 
+        原文 : >-
+            tagCharCreateNeverShow=Never show this warning again.
+        譯文 : >-
+            
+
+#-------------------------------#
+    414 :
+        標註 : 
+        原文 : >-
+            tagCharImportProgress=Importing character(s) from Grim Dawn.  This could take several minutes.
+        譯文 : >-
+            
+
+#-------------------------------#
+    415 :
+        標註 : 
+        原文 : >-
+            tagCharImportTQCampaign=Grim Dawn Campaign Characters
+        譯文 : >-
+            
+
+#-------------------------------#
+    416 :
+        標註 : 
+        原文 : >-
+            tagCharImportTQCustom=Grim Dawn Custom Characters
+        譯文 : >-
+            
+
+#-------------------------------#
+    417 :
+        標註 : 
+        原文 : >-
+            tagCharImportTQXCampaign=Grim Dawn Campaign Characters
+        譯文 : >-
+            
+
+#-------------------------------#
+    418 :
+        標註 : 
+        原文 : >-
+            tagCharImportTitle=Import Character
+        譯文 : >-
+            
+
+#-------------------------------#
+    419 :
+        標註 : 
+        原文 : >-
+            tagInstancedLoot=Instanced Loot
+        譯文 : >-
+            
+
+#-------------------------------#
+    421 :
+        標註 : 
+        原文 : >-
+            tagLobbyLock=Password Locked 
+        譯文 : >-
+            
+
+#-------------------------------#
+    422 :
+        標註 : 
+        原文 : >-
+            tagLobbyDifficulty=Difficulty
+        譯文 : >-
+            
+
+#-------------------------------#
+    423 :
+        標註 : 
+        原文 : >-
+            tagLobbyAutoparty=Auto-Party Enabled 
+        譯文 : >-
+            
+
+#-------------------------------#
+    424 :
+        標註 : 
+        原文 : >-
+            tagLobbyInstancedLoot=Instanced Loot
+        譯文 : >-
+            
+
+#-------------------------------#
+    425 :
+        標註 : 
+        原文 : >-
+            tagLobbyLanguage=Language 
+        譯文 : >-
+            
+
+#-------------------------------#
+    426 :
+        標註 : 
+        原文 : >-
+            tagLobbyPVP=PVP Enabled
+        譯文 : >-
+            
+
+#-------------------------------#
+    427 :
+        標註 : 
+        原文 : >-
+            tagLobbyHardcore=Hardcore Enabled
+        譯文 : >-
+            
+
+#-------------------------------#
+    428 :
+        標註 : 
+        原文 : >-
+            tagLobbyNormalDifficulty=Normal Difficulty
+        譯文 : >-
+            
+
+#-------------------------------#
+    429 :
+        標註 : 
+        原文 : >-
+            tagLobbyEliteDifficulty=Elite Difficulty
+        譯文 : >-
+            
+
+#-------------------------------#
+    430 :
+        標註 : 
+        原文 : >-
+            tagLobbyUltimateDifficulty=Ultimate Difficulty
+        譯文 : >-
+            
+
+#-------------------------------#
+    431 :
+        標註 : 
+        原文 : >-
+            tagLobbyChallenge=Veteran Difficulty
+        譯文 : >-
+            
+
+#-------------------------------#
+    432 :
+        標註 : 
+        原文 : >-
+            tagLobbyPlayers=Players in Game/Max Players
+        譯文 : >-
+            
+
+#-------------------------------#
+    433 :
+        標註 : 
+        原文 : >-
+            tagLobbySearchTitle=Advanced Search
+        譯文 : >-
+            
+
+#-------------------------------#
+    434 :
+        標註 : 
+        原文 : >-
+            tagLobbySearchPingBelow=Ping Below
+        譯文 : >-
+            
+
+#-------------------------------#
+    435 :
+        標註 : 
+        原文 : >-
+            tagLobbySearchMaxPlayers=Max Players
+        譯文 : >-
+            
+
+#-------------------------------#
+    436 :
+        標註 : 
+        原文 : >-
+            tagLobbySearchShow=Show
+        譯文 : >-
+            
+
+#-------------------------------#
+    437 :
+        標註 : 
+        原文 : >-
+            tagLobbySearchHide=Hide
+        譯文 : >-
+            
+
+#-------------------------------#
+    438 :
+        標註 : 
+        原文 : >-
+            tagLobbySearchFull=Full
+        譯文 : >-
+            
+
+#-------------------------------#
+    439 :
+        標註 : 
+        原文 : >-
+            tagLobbySearchLocked=Locked
+        譯文 : >-
+            
+
+#-------------------------------#
+    440 :
+        標註 : 
+        原文 : >-
+            tagLobbySearchPVP=PVP
+        譯文 : >-
+            
+
+#-------------------------------#
+    441 :
+        標註 : 
+        原文 : >-
+            tagLobbySearchAutoParty=Auto-Party
+        譯文 : >-
+            
+
+#-------------------------------#
+    442 :
+        標註 : 
+        原文 : >-
+            tagLobbySearchLanguage=Language:
+        譯文 : >-
+            
+
+#-------------------------------#
+    443 :
+        標註 : 
+        原文 : >-
+            tagLobbySearchSearch=Search
+        譯文 : >-
+            
+
+#-------------------------------#
+    444 :
+        標註 : 
+        原文 : >-
+            tagLobbySearchCancel=Cancel
+        譯文 : >-
+            
+
+#-------------------------------#
+    445 :
+        標註 : 
+        原文 : >-
+            tagLobbyDirect=Direct
+        譯文 : >-
+            
+
+#-------------------------------#
+    446 :
+        標註 : 
+        原文 : >-
+            tagLobbyDirectTitle=Set Direct Connect Server Address
+        譯文 : >-
+            
+
+#-------------------------------#
+    447 :
+        標註 : 
+        原文 : >-
+            tagLobbyDirectIP=IP:
+        譯文 : >-
+            
+
+#-------------------------------#
+    448 :
+        標註 : 
+        原文 : >-
+            tagLobbyDirectPort=Port:
+        譯文 : >-
+            
+
+#-------------------------------#
+    449 :
+        標註 : 
+        原文 : >-
+            tagLobbyDirectSave=Save
+        譯文 : >-
+            
+
+#-------------------------------#
+    450 :
+        標註 : 
+        原文 : >-
+            tagLobbyDirectCancel=Cancel
+        譯文 : >-
+            
+
+#-------------------------------#
+    451 :
+        標註 : 
+        原文 : >-
+            tagLobbyPlayersTitle=Players:
+        譯文 : >-
+            
+
+#-------------------------------#
+    452 :
+        標註 : 
+        原文 : >-
+            tagLobbyServerTypeTitle=Server Type:
+        譯文 : >-
+            
+
+#-------------------------------#
+    453 :
+        標註 : 
+        原文 : >-
+            tagLobbyServerTypeAll=All
+        譯文 : >-
+            
+
+#-------------------------------#
+    454 :
+        標註 : 
+        原文 : >-
+            tagLobbyServerTypeFriends=Friends
+        譯文 : >-
+            
+
+#-------------------------------#
+    455 :
+        標註 : 
+        原文 : >-
+            tagLobbyServerTypeRecent=Recent
+        譯文 : >-
+            
+
+#-------------------------------#
+    457 :
+        標註 : 
+        原文 : >-
+            tagCharDetailsPlayerLevel=Level:
+        譯文 : >-
+            
+
+#-------------------------------#
+    458 :
+        標註 : 
+        原文 : >-
+            tagCharDetailsItemLevel=Item Level:
+        譯文 : >-
+            
+
+#-------------------------------#
+    459 :
+        標註 : 
+        原文 : >-
+            tagCharDetailsPlayerLocation=Location:
+        譯文 : >-
+            
+
+#-------------------------------#
+    460 :
+        標註 : 
+        原文 : >-
+            tagCharDetailsFaction=Faction Status:
+        譯文 : >-
+            
+
+#-------------------------------#
+    461 :
+        標註 : 
+        原文 : >-
+            tagCharDetailsActiveQuests=Active Quests:
+        譯文 : >-
+            
+
+#-------------------------------#
+    463 :
+        標註 : 
+        原文 : >-
+            tagDirectConnectMenuConnecting=Connecting to Server {%t0}
+        譯文 : >-
+            
+
+#-------------------------------#
+    464 :
+        標註 : 
+        原文 : >-
+            tagDirectConnectMenuStatus1=Contacting Server...
+        譯文 : >-
+            
+
+#-------------------------------#
+    465 :
+        標註 : 
+        原文 : >-
+            tagDirectConnectMenuStatus2=Connecting to Server...
+        譯文 : >-
+            
+
+#-------------------------------#
+    466 :
+        標註 : 
+        原文 : >-
+            tagDirectConnectMenuStatus3=Connection complete, launching game.
+        譯文 : >-
+            
+
+#-------------------------------#
+    469 :
+        標註 : 
+        原文 : >-
+            tagFriendOffline=Offline
+        譯文 : >-
+            
+
+#-------------------------------#
+    470 :
+        標註 : 
+        原文 : >-
+            tagFriendOnline=Online
+        譯文 : >-
+            
+
+#-------------------------------#
+    471 :
+        標註 : 
+        原文 : >-
+            tagFriendBusy=Busy
+        譯文 : >-
+            
+
+#-------------------------------#
+    472 :
+        標註 : 
+        原文 : >-
+            tagFriendAway=Away
+        譯文 : >-
+            
+
+#-------------------------------#
+    473 :
+        標註 : 
+        原文 : >-
+            tagFriendUnknown=Status Unknown
+        譯文 : >-
+            
+
+#-------------------------------#
+    474 :
+        標註 : 
+        原文 : >-
+            tagFriendPlayingGrimDawnSP=In Game (Single Player)
+        譯文 : >-
+            
+
+#-------------------------------#
+    475 :
+        標註 : 
+        原文 : >-
+            tagFriendPlayingGrimDawnMP=In Game (Multiplayer)
+        譯文 : >-
+            
+
+#-------------------------------#
+    476 :
+        標註 : 
+        原文 : >-
+            tagFriendAddButton=Add Friend
+        譯文 : >-
+            
+
+#-------------------------------#
+    477 :
+        標註 : 
+        原文 : >-
+            tagFriendJoinGameButton=Join Game
+        譯文 : >-
+            
+
+#-------------------------------#
+    480 :
+        標註 : 
+        原文 : >-
+            tagOptionOff=Off
+        譯文 : >-
+            
+
+#-------------------------------#
+    481 :
+        標註 : 
+        原文 : >-
+            tagVideoOptionTripleBuffering=Triple Buffering
+        譯文 : >-
+            
+
+#-------------------------------#
+    482 :
+        標註 : 
+        原文 : >-
+            tagVideoOptionCameraShake=Camera Shake
+        譯文 : >-
+            
+
+#-------------------------------#
+    483 :
+        標註 : 
+        原文 : >-
+            tagVideoOptionAdvancedEffects=Post Processing
+        譯文 : >-
+            
+
+#-------------------------------#
+    484 :
+        標註 : 
+        原文 : >-
+            tagVideoOptionDetailObjects=Detail Objects
+        譯文 : >-
+            
+
+#-------------------------------#
+    485 :
+        標註 : 
+        原文 : >-
+            tagLobbyLocation=Location: 
+        譯文 : >-
+            
+
+#-------------------------------#
+    486 :
+        標註 : 
+        原文 : >-
+            tagTQ1ModInvalid=This map was created with an older version of Grim Dawn.
+        譯文 : >-
+            
+
+#-------------------------------#
+    487 :
+        標註 : 
+        原文 : >-
+            tagBrightness=Brightness
+        譯文 : >-
+            
+
+#-------------------------------#
+    488 :
+        標註 : 
+        原文 : >-
+            tagContrast=Contrast
+        譯文 : >-
+            
+
+#-------------------------------#
+    489 :
+        標註 : 
+        原文 : >-
+            tagGamma=Fullscreen Gamma
+        譯文 : >-
+            
+
+#-------------------------------#
+    490 :
+        標註 : 
+        原文 : >-
+            tagColorblind=Color Blindness
+        譯文 : >-
+            
+
+#-------------------------------#
+    491 :
+        標註 : 
+        原文 : >-
+            tagNormal=Normal
+        譯文 : >-
+            
+
+#-------------------------------#
+    492 :
+        標註 : 
+        原文 : >-
+            tagProtanopia=Protanopia
+        譯文 : >-
+            
+
+#-------------------------------#
+    493 :
+        標註 : 
+        原文 : >-
+            tagDeuteranopia=Deuteranopia
+        譯文 : >-
+            
+
+#-------------------------------#
+    494 :
+        標註 : 
+        原文 : >-
+            tagTritanopia=Tritanopia
+        譯文 : >-
+            
+
+#-------------------------------#
+    496 :
+        標註 : 
+        原文 : >-
+            tagOverwriteKeymap=The function ^y{%t0}^w has already been mapped to ^y{%t1}^w. Do you wish to overwrite? 
+        譯文 : >-
+            
+
+#-------------------------------#
+    497 :
+        標註 : 
+        原文 : >-
+            tagHardDiskError=Your computer is currently low on hard drive space.  Grim Dawn may have difficulty saving your game.   To avoid this problem, please create more room on your hardrive.
+        譯文 : >-
+            
+
+#-------------------------------#
+    498 :
+        標註 : 
+        原文 : >-
+            tagMenuError10=Unable to connect to server.  The mod or map version does not match the host.
+        譯文 : >-
+            
+
+#-------------------------------#
+    500 :
+        標註 : 
+        原文 : >-
+            tagReportUsageStats=Help us improve Grim Dawn by periodically reporting anonymous system and gameplay stats?
+        譯文 : >-
+            
+
+#-------------------------------#
+    501 :
+        標註 : 
+        原文 : >-
+            tagImportToSteamCloud=Steam Cloud Saving is enabled. Import existing characters?
+        譯文 : >-
+            
+
+#-------------------------------#
+    502 :
+        標註 : 
+        原文 : >-
+            tagResetCloudWarning=Are you sure you want to delete all characters and data stored in the cloud?
+        譯文 : >-
+            
+
+#-------------------------------#
+    503 :
+        標註 : 
+        原文 : >-
+            tagDownloadCloudWarning=Are you sure you want to download cloud saves? Locally saved characters and data will be overwritten!
+        譯文 : >-
+            
+
+#-------------------------------#
+    504 :
+        標註 : 
+        原文 : >-
+            tagWorking=Working...
+        譯文 : >-
+            

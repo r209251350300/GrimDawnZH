@@ -1,0 +1,409 @@
+npc_blacklegion_deathmarkkadris_01.txt:
+
+#-------------------------------#
+    1 :
+        標註 : 
+        原文 : >-
+            Deathmark Kadris
+        譯文 : >-
+            
+
+#-------------------------------#
+    2 :
+        標註 : 
+        原文 : >-
+            Good work out there. A proper ending to the legend of Ol' Bloodbriar.
+        譯文 : >-
+            
+
+#-------------------------------#
+    3 :
+        標註 : 
+        原文 : >-
+            It wasn't so tough.
+        譯文 : >-
+            
+
+#-------------------------------#
+    4 :
+        標註 : 
+        原文 : >-
+            Move along, Black Legion business.
+        譯文 : >-
+            
+
+#-------------------------------#
+    5 :
+        標註 : 
+        原文 : >-
+            Farewell.
+        譯文 : >-
+            
+
+#-------------------------------#
+    6 :
+        標註 : 
+        原文 : >-
+            You've returned, with a few new bruises I might add.
+        譯文 : >-
+            
+
+#-------------------------------#
+    7 :
+        標註 : 
+        原文 : >-
+            Ol' Bloodbriar is no more.
+        譯文 : >-
+            
+
+#-------------------------------#
+    8 :
+        標註 : 
+        原文 : >-
+            Well done! The death of that horrid beast will go a long way towards restoring order to this region. My superiors will be pleased to hear of this, you can be sure of it.
+        譯文 : >-
+            
+
+#-------------------------------#
+    9 :
+        標註 : 
+        原文 : >-
+            Glad I could help.
+        譯文 : >-
+            
+
+#-------------------------------#
+    10 :
+        標註 : 
+        原文 : >-
+            How goes the hunt for Ol' Bloodbriar?
+        譯文 : >-
+            
+
+#-------------------------------#
+    11 :
+        標註 : 
+        原文 : >-
+            Where should I look for the beast?
+        譯文 : >-
+            
+
+#-------------------------------#
+    12 :
+        標註 : 
+        原文 : >-
+            I've tracked it as far as the Shaded Basin, southeast of the camp, but then it just disappeared. It might be hiding out in one of the caves in the area.
+        譯文 : >-
+            
+
+#-------------------------------#
+    13 :
+        標註 : 
+        原文 : >-
+            Ok, I'm on it.
+        譯文 : >-
+            
+
+#-------------------------------#
+    14 :
+        標註 : 
+        原文 : >-
+            Still hunting.
+        譯文 : >-
+            
+
+#-------------------------------#
+    15 :
+        標註 : 
+        原文 : >-
+            This one's a hunt I've been personally struggling with. Local stories speak of an ancient Thorner Horror known as Ol' Bloodbriar. As it turns out, some of the stories are true and Ol' Bloodbriar's been reported terrorizing the farmers in Homestead.{^n}{^n}I've managed to find some tracks, but I lost them out in the Shaded Basin to south. It might be hiding out in one of the caves out there, but I can't be sure. If you hunt down Ol' Bloodbriar, I will see that my superiors back in Homestead hear about your contributions. Heck, I'll throw in a few coins as a bounty.
+        譯文 : >-
+            
+
+#-------------------------------#
+    16 :
+        標註 : 
+        原文 : >-
+            I'll hunt down your beast.
+        譯文 : >-
+            
+
+#-------------------------------#
+    17 :
+        標註 : 
+        原文 : >-
+            I'm not interested in hunting.
+        譯文 : >-
+            
+
+#-------------------------------#
+    18 :
+        標註 : 
+        原文 : >-
+            You're in luck, I've slain the crimson thorned horror.
+        譯文 : >-
+            
+
+#-------------------------------#
+    20 :
+        標註 : 
+        原文 : >-
+            Any luck with the manticores?
+        譯文 : >-
+            
+
+#-------------------------------#
+    21 :
+        標註 : 
+        原文 : >-
+            I have the venom you need.
+        譯文 : >-
+            
+
+#-------------------------------#
+    22 :
+        標註 : 
+        原文 : >-
+            Well I'll be, that gland is bulging with venom, a fine sample. As promised, a manticore blade of your own. Should serve you well against less...friendly humans, and hopefully chthonians.{^n}{^n}Say, you seem to be quite capable. if you're interested in some coin, I've got a hunt I could use some assistance with.
+        譯文 : >-
+            
+
+#-------------------------------#
+    23 :
+        標註 : 
+        原文 : >-
+            What are you after?
+        譯文 : >-
+            
+
+#-------------------------------#
+    25 :
+        標註 : 
+        原文 : >-
+            Any luck with the manticores?
+        譯文 : >-
+            
+
+#-------------------------------#
+    26 :
+        標註 : 
+        原文 : >-
+            Where should I look?
+        譯文 : >-
+            
+
+#-------------------------------#
+    27 :
+        標註 : 
+        原文 : >-
+            The manticores roam the Jagged Waste to the west of here. Be careful out there. I need the poison in one of their glands, not in your veins.
+        譯文 : >-
+            
+
+#-------------------------------#
+    28 :
+        標註 : 
+        原文 : >-
+            I'll be careful.
+        譯文 : >-
+            
+
+#-------------------------------#
+    29 :
+        標註 : 
+        原文 : >-
+            Haven't dealt with a Wastestalker yet.
+        譯文 : >-
+            
+
+#-------------------------------#
+    30 :
+        標註 : 
+        原文 : >-
+            You must be one tough slith to make it way out here on your own. Deathmark Kadris, of the Black Legion. What brings you here, citizen?
+        譯文 : >-
+            
+
+#-------------------------------#
+    31 :
+        標註 : 
+        原文 : >-
+            I'm exploring the area.
+        譯文 : >-
+            
+
+#-------------------------------#
+    32 :
+        標註 : 
+        原文 : >-
+            I see. Well I can't stop you from going out there, but I must warn you that the wilds out here are not to be trifled with. The Jagged Waste to the west is full of manticores, but if you're foolish enough to venture there then perhaps you'd be willing to bring something back for me?
+        譯文 : >-
+            
+
+#-------------------------------#
+    33 :
+        標註 : 
+        原文 : >-
+            Sure, what do you need?
+        譯文 : >-
+            
+
+#-------------------------------#
+    34 :
+        標註 : 
+        原文 : >-
+            The Manticore Wastestalkers pack a potent venom up in their barbed tails. It's quite caustic and can burn through nearly anything. My hope is that the Legion can use it in their effort against the Chthonian invaders.{^n}{^n}We are dealing with a large group of cultists up near Homestead, and they are starting to bring in the larger demons from the void. We need to turn the tide and fast, or soon there won't be a home to defend. If you bring me back a venom gland from a Wastestalker, then I will gladly provide you with a blade specially coated with their poison. Should do some serious damage in a fight. What do you say?
+        譯文 : >-
+            
+
+#-------------------------------#
+    35 :
+        標註 : 
+        原文 : >-
+            I will get you the venom.
+        譯文 : >-
+            
+
+#-------------------------------#
+    36 :
+        標註 : 
+        原文 : >-
+            No thanks, sounds dangerous.
+        譯文 : >-
+            
+
+#-------------------------------#
+    37 :
+        標註 : 
+        原文 : >-
+            Actually, I've already gathered some manticore venom.
+        譯文 : >-
+            
+
+#-------------------------------#
+    39 :
+        標註 : 
+        原文 : >-
+            Not interested.
+        譯文 : >-
+            
+
+#-------------------------------#
+    40 :
+        標註 : 
+        原文 : >-
+            What are you doing out here?
+        譯文 : >-
+            
+
+#-------------------------------#
+    41 :
+        標註 : 
+        原文 : >-
+            My squad's been deployed out here to the Pine Barrens in order to hunt down the dangerous wildlife roaming outside of Homestead. It's a gruelling process, but someone's gotta do it.
+        譯文 : >-
+            
+
+#-------------------------------#
+    42 :
+        標註 : 
+        原文 : >-
+            Need any help?
+        譯文 : >-
+            
+
+#-------------------------------#
+    44 :
+        標註 : 
+        原文 : >-
+            Good luck out there.
+        譯文 : >-
+            
+
+#-------------------------------#
+    45 :
+        標註 : 
+        原文 : >-
+            Citizen? Hasn't the empire fallen?
+        譯文 : >-
+            
+
+#-------------------------------#
+    46 :
+        標註 : 
+        原文 : >-
+            As long as the Black Legion has at least one soul still breathing, that battle is not over as far as I'm concerned.{^n}{^n}We may have lost the capital, but we have not lost the war!
+        譯文 : >-
+            
+
+#-------------------------------#
+    47 :
+        標註 : 
+        原文 : >-
+            Need any help?
+        譯文 : >-
+            
+
+#-------------------------------#
+    49 :
+        標註 : 
+        原文 : >-
+            You are naive.
+        譯文 : >-
+            
+
+#-------------------------------#
+    50 :
+        標註 : 
+        原文 : >-
+            The Black Legion?
+        譯文 : >-
+            
+
+#-------------------------------#
+    51 :
+        標註 : 
+        原文 : >-
+            Um, yes? The Imperial Elite? The Conquerors of Venmar? You must be from the rural country.{^n}{^n}They didn't know much about us at Homestead either.
+        譯文 : >-
+            
+
+#-------------------------------#
+    52 :
+        標註 : 
+        原文 : >-
+            Where is Homestead?
+        譯文 : >-
+            
+
+#-------------------------------#
+    53 :
+        標註 : 
+        原文 : >-
+            Is that where you're headed? You are going the wrong way, friend.{^n}{^n}Homestead is far to the north of here. Follow the Dusty Road.
+        譯文 : >-
+            
+
+#-------------------------------#
+    54 :
+        標註 : 
+        原文 : >-
+            Thanks.
+        譯文 : >-
+            
+
+#-------------------------------#
+    56 :
+        標註 : 
+        原文 : >-
+            Goodbye.
+        譯文 : >-
+            
+
+#-------------------------------#
+    57 :
+        標註 : 
+        原文 : >-
+            Just passing through.
+        譯文 : >-
+            
