@@ -21,6 +21,12 @@ def loadYamlFile( path )
     return data
 end
 
+class File
+    def to_a
+	self.read.split("\n")
+    end
+end
+
 class String
     def all_blink?
         self.each_char do |ch|
@@ -38,6 +44,7 @@ end
 module Path
     EN = '../res/en/'
     ZH_TW = './tw/'
+    ZH_CN = '../res/cn/'
     TEXT = './text/'
 end
 

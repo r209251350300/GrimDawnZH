@@ -1,310 +1,310 @@
-npc_mogdrogen.txt:
+npc_mogdrogen.txt : 
 
 #-------------------------------#
-    1 :
+    0 :
         標註 : 
         原文 : >-
             Avatar of Mogdrogen
         譯文 : >-
-            
+            Avatar of Mogdrogen
 #-------------------------------#
-    2 :
+    1 :
         標註 : 
         原文 : >-
             Have you come to pay your respects, mortal?
         譯文 : >-
-            
+            Have you come to pay your respects, mortal?
+#-------------------------------#
+    3 :
+        標註 : 
+        原文 : >-
+            Farewell.
+        譯文 : >-
+            Farewell.
 #-------------------------------#
     4 :
         標註 : 
         原文 : >-
-            Farewell.
+            Come to pay your respects?
         譯文 : >-
-            
+            Come to pay your respects?
 #-------------------------------#
     5 :
         標註 : 
         原文 : >-
-            Come to pay your respects?
+            May I ask some questions?
         譯文 : >-
-            
+            May I ask some questions?
 #-------------------------------#
     6 :
         標註 : 
         原文 : >-
-            May I ask some questions?
+            You may ask.
         譯文 : >-
-            
+            You may ask.
 #-------------------------------#
     7 :
         標註 : 
         原文 : >-
-            You may ask.
+            Who or what are you?
         譯文 : >-
-            
+            Who or what are you?
 #-------------------------------#
     8 :
         標註 : 
         原文 : >-
-            Who or what are you?
+            I am the Lord of Beasts, protector of nature, and guardian of the Rhowari.{^n}{^n}Your mortal kind calls me Mogdrogen.
         譯文 : >-
-            
+            I am the Lord of Beasts, protector of nature, and guardian of the Rhowari.{^n}{^n}Your mortal kind calls me Mogdrogen.
 #-------------------------------#
     9 :
         標註 : 
         原文 : >-
-            I am the Lord of Beasts, protector of nature, and guardian of the Rhowari.{^n}{^n}Your mortal kind calls me Mogdrogen.
+            A god? Shouldn't you be protecting Cairn?
         譯文 : >-
-            
+            A god? Shouldn't you be protecting Cairn?
 #-------------------------------#
     10 :
         標註 : 
         原文 : >-
-            A god? Shouldn't you be protecting Cairn?
+            A mere fragment of my presence, an avatar. But more than enough to squash you like the insignificant insect you are.{^n}{^n}So watch your tone with me, mortal.
         譯文 : >-
-            
+            A mere fragment of my presence, an avatar. But more than enough to squash you like the insignificant insect you are.{^n}{^n}So watch your tone with me, mortal.
 #-------------------------------#
     11 :
         標註 : 
         原文 : >-
-            A mere fragment of my presence, an avatar. But more than enough to squash you like the insignificant insect you are.{^n}{^n}So watch your tone with me, mortal.
+            Nobody talks to me that way.
         譯文 : >-
-            
+            Nobody talks to me that way.
 #-------------------------------#
     12 :
         標註 : 
         原文 : >-
-            Nobody talks to me that way.
+            You would threaten a Primordial Being? One who was old when this world was but a molten orb?{^n}{^n}Surely your mortal struggles have not brought you before me seeking your own destruction?
         譯文 : >-
-            
+            You would threaten a Primordial Being? One who was old when this world was but a molten orb?{^n}{^n}Surely your mortal struggles have not brought you before me seeking your own destruction?
 #-------------------------------#
     13 :
         標註 : 
         原文 : >-
-            You would threaten a Primordial Being? One who was old when this world was but a molten orb?{^n}{^n}Surely your mortal struggles have not brought you before me seeking your own destruction?
+            Alright then, I'll be going.
         譯文 : >-
-            
+            Alright then, I'll be going.
 #-------------------------------#
     14 :
         標註 : 
         原文 : >-
-            Alright then, I'll be going.
+            God or not, you die! (Misguidedly Attack)
         譯文 : >-
-            
+            God or not, you die! (Misguidedly Attack)
 #-------------------------------#
     15 :
         標註 : 
         原文 : >-
-            God or not, you die! (Misguidedly Attack)
+            I have another question.
         譯文 : >-
-            
+            I have another question.
 #-------------------------------#
     16 :
         標註 : 
         原文 : >-
-            I have another question.
+            Alright then, I'll be going.
         譯文 : >-
-            
+            Alright then, I'll be going.
 #-------------------------------#
     17 :
         標註 : 
         原文 : >-
-            Alright then, I'll be going.
+            I have another question.
         譯文 : >-
-            
+            I have another question.
 #-------------------------------#
     18 :
         標註 : 
         原文 : >-
-            I have another question.
-        譯文 : >-
-            
-#-------------------------------#
-    19 :
-        標註 : 
-        原文 : >-
             I...see.
         譯文 : >-
-            
+            I...see.
+#-------------------------------#
+    20 :
+        標註 : 
+        原文 : >-
+            I have another question.
+        譯文 : >-
+            I have another question.
 #-------------------------------#
     21 :
         標註 : 
         原文 : >-
-            I have another question.
-        譯文 : >-
-            
-#-------------------------------#
-    22 :
-        標註 : 
-        原文 : >-
             Thank you.
         譯文 : >-
-            
+            Thank you.
+#-------------------------------#
+    24 :
+        標註 : 
+        原文 : >-
+            I have another question.
+        譯文 : >-
+            I have another question.
 #-------------------------------#
     25 :
         標註 : 
         原文 : >-
-            I have another question.
-        譯文 : >-
-            
-#-------------------------------#
-    26 :
-        標註 : 
-        原文 : >-
             Thank you.
         譯文 : >-
-            
+            Thank you.
+#-------------------------------#
+    28 :
+        標註 : 
+        原文 : >-
+            I have another question.
+        譯文 : >-
+            I have another question.
 #-------------------------------#
     29 :
         標註 : 
         原文 : >-
-            I have another question.
-        譯文 : >-
-            
-#-------------------------------#
-    30 :
-        標註 : 
-        原文 : >-
             Thank you.
         譯文 : >-
-            
+            Thank you.
+#-------------------------------#
+    32 :
+        標註 : 
+        原文 : >-
+            I have another question.
+        譯文 : >-
+            I have another question.
 #-------------------------------#
     33 :
         標註 : 
         原文 : >-
-            I have another question.
+            Thank you.
         譯文 : >-
-            
+            Thank you.
 #-------------------------------#
     34 :
         標註 : 
         原文 : >-
-            Thank you.
+            Nevermind.
         譯文 : >-
-            
+            Nevermind.
 #-------------------------------#
     35 :
         標註 : 
         原文 : >-
-            Nevermind.
+            Farewell.
         譯文 : >-
-            
+            Farewell.
 #-------------------------------#
     36 :
         標註 : 
         原文 : >-
-            Farewell.
+            You have done the Rhowari a great justice this day, mortal. For this, I thank you.
         譯文 : >-
-            
+            You have done the Rhowari a great justice this day, mortal. For this, I thank you.
 #-------------------------------#
     37 :
         標註 : 
         原文 : >-
-            You have done the Rhowari a great justice this day, mortal. For this, I thank you.
+            Is this your shrine?
         譯文 : >-
-            
+            Is this your shrine?
 #-------------------------------#
     38 :
         標註 : 
         原文 : >-
-            Is this your shrine?
-        譯文 : >-
-            
-#-------------------------------#
-    39 :
-        標註 : 
-        原文 : >-
             The shrine was created in my honor, yes. It is one of many, though none suffered the corrupting presence of Ch'thon as this one.{^n}{^n}Your valor shall not go without reward.
         譯文 : >-
-            
+            The shrine was created in my honor, yes. It is one of many, though none suffered the corrupting presence of Ch'thon as this one.{^n}{^n}Your valor shall not go without reward.
 #-------------------------------#
-    41 :
+    40 :
         標註 : 
         原文 : >-
             Thank you.
         譯文 : >-
-            
+            Thank you.
 #-------------------------------#
-    42 :
+    41 :
         標註 : 
         原文 : >-
             Have you come to pay your respects, mortal?
         譯文 : >-
-            
+            Have you come to pay your respects, mortal?
 #-------------------------------#
-    43 :
+    42 :
         標註 : 
         原文 : >-
             Who are you?
         譯文 : >-
-            
+            Who are you?
 #-------------------------------#
-    44 :
+    43 :
         標註 : 
         原文 : >-
             I am the Lord of Beasts, protector of nature, and guardian of the Rhowari.{^n}{^n}Your mortal kind calls me Mogdrogen.
         譯文 : >-
-            
+            I am the Lord of Beasts, protector of nature, and guardian of the Rhowari.{^n}{^n}Your mortal kind calls me Mogdrogen.
 #-------------------------------#
-    45 :
+    44 :
         標註 : 
         原文 : >-
             A god? Shouldn't you be protecting Cairn?
         譯文 : >-
-            
+            A god? Shouldn't you be protecting Cairn?
 #-------------------------------#
-    46 :
+    45 :
         標註 : 
         原文 : >-
             A mere fragment of my presence, an avatar. But more than enough to squash you like the insignificant insect you are.{^n}{^n}So watch your tone with me, mortal.
         譯文 : >-
-            
+            A mere fragment of my presence, an avatar. But more than enough to squash you like the insignificant insect you are.{^n}{^n}So watch your tone with me, mortal.
 #-------------------------------#
-    47 :
+    46 :
         標註 : 
         原文 : >-
             Nobody talks to me that way.
         譯文 : >-
-            
+            Nobody talks to me that way.
 #-------------------------------#
-    48 :
+    47 :
         標註 : 
         原文 : >-
             You would threaten a Primordial Being? One who was old when this world was but a molten orb?{^n}{^n}Surely your mortal struggles have not brought you before me seeking your own destruction?
         譯文 : >-
-            
+            You would threaten a Primordial Being? One who was old when this world was but a molten orb?{^n}{^n}Surely your mortal struggles have not brought you before me seeking your own destruction?
+#-------------------------------#
+    48 :
+        標註 : 
+        原文 : >-
+            Alright then, I'll be going.
+        譯文 : >-
+            Alright then, I'll be going.
 #-------------------------------#
     49 :
         標註 : 
         原文 : >-
-            Alright then, I'll be going.
+            God or not, you die! (Misguidedly Attack)
         譯文 : >-
-            
+            God or not, you die! (Misguidedly Attack)
 #-------------------------------#
     50 :
         標註 : 
         原文 : >-
-            God or not, you die! (Misguidedly Attack)
+            Alright then, I'll be going.
         譯文 : >-
-            
+            Alright then, I'll be going.
 #-------------------------------#
     51 :
         標註 : 
         原文 : >-
-            Alright then, I'll be going.
+            I...see.
         譯文 : >-
-            
+            I...see.
 #-------------------------------#
     52 :
         標註 : 
         原文 : >-
-            I...see.
-        譯文 : >-
-            
-#-------------------------------#
-    53 :
-        標註 : 
-        原文 : >-
             Farewell.
         譯文 : >-
-            
+            Farewell.

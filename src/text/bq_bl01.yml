@@ -1,58 +1,58 @@
-bq_bl01.txt:
+bq_bl01.txt : 
 
 #-------------------------------#
-    1 :
+    0 :
         標註 : 
         原文 : >-
             Bounties
         譯文 : >-
-            
+            賞金任務
 #-------------------------------#
-    2 :
+    1 :
         標註 : 
         原文 : >-
             Bounty: Fleshwarped Commanders
         譯文 : >-
-            
+            賞金: 奇型指揮官
 #-------------------------------#
-    3 :
+    2 :
         標註 : 
         原文 : >-
             Bounty
         譯文 : >-
-            
+            賞金
 #-------------------------------#
-    4 :
+    3 :
         標註 : 
         原文 : >-
             The Legion requests assistance in dealing with the Fleshwarped troll threat.{^n}{^n}The elimination of Fleshwarped Commanders is imperative to the success of our forces in the region.{^n}{^n}Any assistance will be compensated with iron bits.
         譯文 : >-
-            
+            軍團請求你解決奇型巨魔的威脅。{^n}{^n}為了在這個地區取得勝利，除掉奇型指揮官是勢在必行的。{^n}{^n}任何的協助都將回報以鐵幣。
 #-------------------------------#
-    6 :
+    5 :
         標註 : 
         原文 : >-
             Slay Fleshwarped Commanders
         譯文 : >-
-            
+            殺死 奇型指揮官
 #-------------------------------#
-    8 :
+    7 :
         標註 : 
         原文 : >-
             Turn In
         譯文 : >-
-            
+            回報任務
 #-------------------------------#
-    9 :
+    8 :
         標註 : 
         原文 : >-
             You have completed the task for the Black Legion and should return to the Bounty Table for your reward.
         譯文 : >-
-            
+            你完成了黑色軍團的賞金任務，你應該回到賞金桌領取獎賞。
 #-------------------------------#
-    10 :
+    9 :
         標註 : 
         原文 : >-
             Return to the Black Legion Bounty Table
         譯文 : >-
-            
+            回到黑色軍團的賞金桌那裡

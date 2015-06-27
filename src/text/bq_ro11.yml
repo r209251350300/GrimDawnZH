@@ -1,58 +1,58 @@
-bq_ro11.txt:
+bq_ro11.txt : 
 
 #-------------------------------#
-    1 :
+    0 :
         標註 : 
         原文 : >-
             Bounties
         譯文 : >-
-            
+            賞金任務
 #-------------------------------#
-    2 :
+    1 :
         標註 : 
         原文 : >-
             Bounty: Rixna Plaguefeather
         譯文 : >-
-            
+            賞金：災疫之羽 雷克希納
 #-------------------------------#
-    3 :
+    2 :
         標註 : 
         原文 : >-
             Bounty
         譯文 : >-
-            
+            Bounty
 #-------------------------------#
-    4 :
+    3 :
         標註 : 
         原文 : >-
             A vile harpy by the name Rixna Plaguefeather has been sighted in the skies over the Broken Hills. Several Rovers have already fallen ill from coming in contact with her plume.{^n}{^n}Rixna appears to carry a plague to which the harpies appear immune, but its effects on humans seem to be far more deadly. She must be put down.{^n}{^n}We have set aside some of their scavenged materials as reward for this task.
         譯文 : >-
-            
+            A vile harpy by the name 災疫之羽 雷克希納 has been sighted in the skies over 破碎丘陵. Several Rovers have already fallen ill from coming in contact with her plume.{^n}{^n}Rixna appears to carry a plague to which the harpies appear immune, but its effects on humans seem to be far more deadly. She must be put down.{^n}{^n}We have set aside some of their scavenged materials as reward for this task.
 #-------------------------------#
-    8 :
+    7 :
         標註 : 
         原文 : >-
             Slay Rixna Plaguefeather
         譯文 : >-
-            
+            殺了災疫之羽 雷克希納
 #-------------------------------#
-    10 :
+    9 :
         標註 : 
         原文 : >-
             Turn In
         譯文 : >-
-            
+            回報任務
 #-------------------------------#
-    11 :
+    10 :
         標註 : 
         原文 : >-
             You have completed the task for the Rovers and should return to the Bounty Table for your reward.
         譯文 : >-
-            
+            你已經完成了任務，你該返回賞金桌領取獎賞。
 #-------------------------------#
-    12 :
+    11 :
         標註 : 
         原文 : >-
             Return to the Rover Bounty Table
         譯文 : >-
-            
+            返回流浪者賞金桌

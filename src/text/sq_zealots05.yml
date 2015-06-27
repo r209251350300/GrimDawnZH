@@ -1,58 +1,58 @@
-sq_zealots05.txt:
+sq_zealots05.txt : 
 
 #-------------------------------#
-    1 :
+    0 :
         標註 : 
         原文 : >-
             Kymon's Chosen
         譯文 : >-
-            
+            Kymon's Chosen
 #-------------------------------#
-    2 :
+    1 :
         標註 : 
         原文 : >-
             Braving the Void
         譯文 : >-
-            
+            Braving the Void
 #-------------------------------#
-    3 :
+    2 :
         標註 : 
         原文 : >-
             Kill Boss
         譯文 : >-
-            
+            Kill Boss
 #-------------------------------#
-    4 :
+    3 :
         標註 : 
         原文 : >-
             WORDS
         譯文 : >-
-            
+            WORDS
 #-------------------------------#
-    5 :
+    4 :
         標註 : 
         原文 : >-
             Slay Bane'Gargoth
         譯文 : >-
-            
+            殺了夢魘 加戈斯
 #-------------------------------#
-    7 :
+    6 :
         標註 : 
         原文 : >-
             Turn-in
         譯文 : >-
-            
+            回報任務
 #-------------------------------#
-    8 :
+    7 :
         標註 : 
         原文 : >-
             You have slain Bane'Gargoth and passed Father Kymon's test. Speak to him back at Sorrow's Bastion of your success.
         譯文 : >-
-            
+            You have slain 夢魘 加戈斯 and passed Father Kymon's test. Speak to him back at 悲傷城堡 of your success.
 #-------------------------------#
-    9 :
+    8 :
         標註 : 
         原文 : >-
             Return to Father Kymon
         譯文 : >-
-            
+            Return to Father Kymon

@@ -13,32 +13,41 @@ def makeLineYaml( line , en , cn: nil, comment: nil )
             #{cn}]
 end
 
+def checkFiles()
+    en = File.open( Path::EN + "bq_bl04.txt", "r", encoding: "UTF-8" ).to_a
+    cn = File.open( Path::ZH_CN + "bq_bl04.txt", "r", encoding: "UTF-8" ).to_a
+    data = loadYamlFile(Path::TEXT + "bq_bl04.yml" )
+    for i in (0.. en.size-1)
+        next if en[i].all_blink?
+        puts en[i]
+        puts cn[i]
+        puts data >> "bq_bl04.txt" >> i+1 >> "原文"
+        puts data >> "bq_bl04.txt" >> i+1 >> "譯文"
+        puts "------------------------------------"
+    end
+end
 
 def makeYamlFiles()
-    fileNames = txtFileNameList(Path::EN)
-    fileNames.each do |fileName|
-        #data = loadYamlFile(Path::TEXT + fileName[0..-4] + "yml" )
-        File.open( Path::EN + fileName, "r", encoding: "UTF-8" ) do |file|
-            fileStr = ""
-            fileStr << fileName + ":\n"
-            lineCount = 0
-            file.each_line do |enLine|
-                lineCount += 1
-                if (enLine.split('#').size > 1) || enLine.all_blink?()
-		    next
-		end
-		puts fileName
-		#cnText = data >> fileName >> lineCount >> "譯文"
-                #if cnText == nil or cnText.empty?()
-		    #cnText == enText
-		#end
-                fileStr << makeLineYaml( lineCount, enLine.chomp )
+    txtFileNameList( Path::EN ).each do | fileName |
+        enLines = File.open( Path::EN + fileName, "r", encoding: "UTF-8" ).to_a
+        cnLines = File.open( Path::ZH_CN + fileName, "r", encoding: "UTF-8" ).to_a
+        size = enLines
+        str = ""
+	str << fileName << " : \n"
+        for i in ( 0 .. enLines.size - 1 )
+            next if enLines[i].all_blink?
+            cnLine = if cnLines[i]
+                if cnLines[i].all_blink? then enLines[i] else cnLines[i] end
+            else
+                enLines[i] if cnLines[i]==nil
             end
-            File.open( Path::TEXT + fileName[0..-4] + "yml" , "w", encoding: "UTF-8" ) do |outFile|
-                outFile.write(fileStr)
-            end
+            str << makeLineYaml( i , enLines[i].chomp , cn: cnLine.chomp )
         end
+        File.open(Path::TEXT + fileName[0..-4] + "yml" , "w", encoding: "UTF-8") do |file|
+    	    file.write str
+    	end
     end
 end
 
 makeYamlFiles()
+puts "WTF"
