@@ -7,7 +7,6 @@ npc_bonusitems_01.txt:
             Kory the Keeper
         譯文 : >-
             
-
 #-------------------------------#
     2 :
         標註 : 
@@ -15,7 +14,6 @@ npc_bonusitems_01.txt:
             Well met, friend! Have I seen you before?... Perhaps we've met... on the road somewhere? Kory is my name. I'm a traveler... a trader... a keeper of the strange. There was a time when... well... no matter. I've traveled far, always in the shadows.
         譯文 : >-
             
-
 #-------------------------------#
     3 :
         標註 : 
@@ -23,7 +21,6 @@ npc_bonusitems_01.txt:
             That's an interesting coat you are wearing...
         譯文 : >-
             
-
 #-------------------------------#
     4 :
         標註 : 
@@ -31,7 +28,6 @@ npc_bonusitems_01.txt:
             Ah, indeed...the mark of the swashbuckler is upon it. I was an adventurer like yourself, at one time...
         譯文 : >-
             
-
 #-------------------------------#
     5 :
         標註 : 
@@ -39,7 +35,6 @@ npc_bonusitems_01.txt:
             (Receive Illusion: Swashbuckler's Coat)
         譯文 : >-
             
-
 #-------------------------------#
     6 :
         標註 : 
@@ -47,7 +42,6 @@ npc_bonusitems_01.txt:
             *Secret Handshake*
         譯文 : >-
             
-
 #-------------------------------#
     7 :
         標註 : 
@@ -55,7 +49,6 @@ npc_bonusitems_01.txt:
             *Kory Whispers*{^n}{^n}Welcome, [[ms]brother[fs]sister]. Eternal vigilance.
         譯文 : >-
             
-
 #-------------------------------#
     8 :
         標註 : 
@@ -63,7 +56,6 @@ npc_bonusitems_01.txt:
             (Receive Illusion: Powdered Wig)
         譯文 : >-
             
-
 #-------------------------------#
     9 :
         標註 : 
@@ -71,7 +63,6 @@ npc_bonusitems_01.txt:
             Care for a drink?
         譯文 : >-
             
-
 #-------------------------------#
     10 :
         標註 : 
@@ -79,7 +70,6 @@ npc_bonusitems_01.txt:
             *Kory lifts up a bottle of Burrwitch Brew*{^n}{^n}To your health!
         譯文 : >-
             
-
 #-------------------------------#
     11 :
         標註 : 
@@ -87,7 +77,6 @@ npc_bonusitems_01.txt:
             (Receive Item: Burrwitch Brew)
         譯文 : >-
             
-
 #-------------------------------#
     12 :
         標註 : 
@@ -95,7 +84,6 @@ npc_bonusitems_01.txt:
             What's that glowing in your pocket?
         譯文 : >-
             
-
 #-------------------------------#
     13 :
         標註 : 
@@ -103,7 +91,6 @@ npc_bonusitems_01.txt:
             Oh this?{^n}{^n}*Kory holds up a jar filled with a swirling blue light*{^n}{^n}That, my friend, is a Will'O'Wisp. They are handy in dark places.
         譯文 : >-
             
-
 #-------------------------------#
     14 :
         標註 : 
@@ -111,7 +98,6 @@ npc_bonusitems_01.txt:
             (Receive Item: Will'O'Wisp in a Jar)
         譯文 : >-
             
-
 #-------------------------------#
     15 :
         標註 : 

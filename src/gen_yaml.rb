@@ -10,8 +10,7 @@ def makeLineYaml( line , en , cn: nil, comment: nil )
         原文 : >-
             #{en}
         譯文 : >-
-            #{cn}
-]
+            #{cn}]
 end
 
 

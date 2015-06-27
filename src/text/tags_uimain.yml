@@ -7,7 +7,6 @@ tags_uimain.txt:
             ﻿tagTitleScreenText=Grim Dawn Early Access{^n}©2015 Crate Entertainment, LLC{^n}{^n}Welcome to Grim Dawn Early Access! We appreciate your feedback.{^n}{^n}Please visit us at www.grimdawn.com to participate{^n}in the ongoing development of Grim Dawn!
         譯文 : >-
             
-
 #-------------------------------#
     2 :
         標註 : 
@@ -15,7 +14,6 @@ tags_uimain.txt:
             tagDemoScreenText=Thanks for  playing!{^n}{^n}Grim Dawn is currently available on Steam Early Access, or via our website at www.grimdawn.com
         譯文 : >-
             
-
 #-------------------------------#
     3 :
         標註 : 
@@ -23,7 +21,6 @@ tags_uimain.txt:
             tagMenu01=Play Game
         譯文 : >-
             
-
 #-------------------------------#
     4 :
         標註 : 
@@ -31,7 +28,6 @@ tags_uimain.txt:
             tagMenu02=Custom Game
         譯文 : >-
             
-
 #-------------------------------#
     5 :
         標註 : 
@@ -39,7 +35,6 @@ tags_uimain.txt:
             tagMenu03=Information
         譯文 : >-
             
-
 #-------------------------------#
     6 :
         標註 : 
@@ -47,7 +42,6 @@ tags_uimain.txt:
             tagMenu04=Options
         譯文 : >-
             
-
 #-------------------------------#
     7 :
         標註 : 
@@ -55,7 +49,6 @@ tags_uimain.txt:
             tagMenu05=Credits
         譯文 : >-
             
-
 #-------------------------------#
     8 :
         標註 : 
@@ -63,7 +56,6 @@ tags_uimain.txt:
             tagMenu06=Updates
         譯文 : >-
             
-
 #-------------------------------#
     9 :
         標註 : 
@@ -71,7 +63,6 @@ tags_uimain.txt:
             tagMenu07=Exit
         譯文 : >-
             
-
 #-------------------------------#
     10 :
         標註 : 
@@ -79,7 +70,6 @@ tags_uimain.txt:
             tagMenu08=Survival Mode
         譯文 : >-
             
-
 #-------------------------------#
     11 :
         標註 : 
@@ -87,7 +77,6 @@ tags_uimain.txt:
             tagMenuButton01=Create Character
         譯文 : >-
             
-
 #-------------------------------#
     12 :
         標註 : 
@@ -95,7 +84,6 @@ tags_uimain.txt:
             tagMenuButton02=Import
         譯文 : >-
             
-
 #-------------------------------#
     13 :
         標註 : 
@@ -103,7 +91,6 @@ tags_uimain.txt:
             tagMenuButton03=Delete Character
         譯文 : >-
             
-
 #-------------------------------#
     14 :
         標註 : 
@@ -111,7 +98,6 @@ tags_uimain.txt:
             tagMenuButton04=Back
         譯文 : >-
             
-
 #-------------------------------#
     15 :
         標註 : 
@@ -119,7 +105,6 @@ tags_uimain.txt:
             tagMenuButton05=Start
         譯文 : >-
             
-
 #-------------------------------#
     16 :
         標註 : 
@@ -127,7 +112,6 @@ tags_uimain.txt:
             tagMenuButton06=Cancel
         譯文 : >-
             
-
 #-------------------------------#
     17 :
         標註 : 
@@ -135,7 +119,6 @@ tags_uimain.txt:
             tagMenuButton07=Apply
         譯文 : >-
             
-
 #-------------------------------#
     18 :
         標註 : 
@@ -143,7 +126,6 @@ tags_uimain.txt:
             tagMenuButton08=Default
         譯文 : >-
             
-
 #-------------------------------#
     19 :
         標註 : 
@@ -151,7 +133,6 @@ tags_uimain.txt:
             tagMenuButton09=Ok
         譯文 : >-
             
-
 #-------------------------------#
     20 :
         標註 : 
@@ -159,7 +140,6 @@ tags_uimain.txt:
             tagMenuButton10=Create
         譯文 : >-
             
-
 #-------------------------------#
     21 :
         標註 : 
@@ -167,7 +147,6 @@ tags_uimain.txt:
             tagMenuChar={%d0} ~ {%d1}
         譯文 : >-
             
-
 #-------------------------------#
     22 :
         標註 : 
@@ -175,7 +154,6 @@ tags_uimain.txt:
             tagCharLevelClass=Level {%d0} {%t1}
         譯文 : >-
             
-
 #-------------------------------#
     25 :
         標註 : 
@@ -183,7 +161,6 @@ tags_uimain.txt:
             tagMenuMPWarning=Welcome to Multiplayer Testing! Warning: during the test phase, you will encounter bugs, crashes and performance issues. Please post problems to the Grim Dawn forum.
         譯文 : >-
             
-
 #-------------------------------#
     31 :
         標註 : 
@@ -191,7 +168,6 @@ tags_uimain.txt:
             tagMenuGame01=Single Player
         譯文 : >-
             
-
 #-------------------------------#
     32 :
         標註 : 
@@ -199,7 +175,6 @@ tags_uimain.txt:
             tagMenuGame02=Join Multiplayer
         譯文 : >-
             
-
 #-------------------------------#
     33 :
         標註 : 
@@ -207,7 +182,6 @@ tags_uimain.txt:
             tagMenuGame03=Host Multiplayer
         譯文 : >-
             
-
 #-------------------------------#
     34 :
         標註 : 
@@ -215,7 +189,6 @@ tags_uimain.txt:
             tagMenuGame04=Internet
         譯文 : >-
             
-
 #-------------------------------#
     35 :
         標註 : 
@@ -223,7 +196,6 @@ tags_uimain.txt:
             tagMenuGame05=LAN
         譯文 : >-
             
-
 #-------------------------------#
     36 :
         標註 : 
@@ -231,7 +203,6 @@ tags_uimain.txt:
             tagMenuGame06=Game Name
         譯文 : >-
             
-
 #-------------------------------#
     37 :
         標註 : 
@@ -239,7 +210,6 @@ tags_uimain.txt:
             tagMenuGame07=Password
         譯文 : >-
             
-
 #-------------------------------#
     38 :
         標註 : 
@@ -247,7 +217,6 @@ tags_uimain.txt:
             tagMenuGame08=Max. Players
         譯文 : >-
             
-
 #-------------------------------#
     39 :
         標註 : 
@@ -255,7 +224,6 @@ tags_uimain.txt:
             tagMenuGame09=Level Range
         譯文 : >-
             
-
 #-------------------------------#
     40 :
         標註 : 
@@ -263,7 +231,6 @@ tags_uimain.txt:
             tagMenuGame10=-
         譯文 : >-
             
-
 #-------------------------------#
     41 :
         標註 : 
@@ -271,7 +238,6 @@ tags_uimain.txt:
             tagMenuGame11=Map
         譯文 : >-
             
-
 #-------------------------------#
     42 :
         標註 : 
@@ -279,7 +245,6 @@ tags_uimain.txt:
             tagMenuGame12=Difficulty
         譯文 : >-
             
-
 #-------------------------------#
     43 :
         標註 : 
@@ -287,7 +252,6 @@ tags_uimain.txt:
             tagMenuGame13=Enable Player vs. Player Combat
         譯文 : >-
             
-
 #-------------------------------#
     44 :
         標註 : 
@@ -295,7 +259,6 @@ tags_uimain.txt:
             tagDifficultyUnlock01=You have unlocked the Veteran level of difficulty.
         譯文 : >-
             
-
 #-------------------------------#
     45 :
         標註 : 
@@ -303,7 +266,6 @@ tags_uimain.txt:
             tagDifficultyUnlock02=You have unlocked the Elite level of difficulty.
         譯文 : >-
             
-
 #-------------------------------#
     46 :
         標註 : 
@@ -311,7 +273,6 @@ tags_uimain.txt:
             tagMenuCreate01=Create Character
         譯文 : >-
             
-
 #-------------------------------#
     47 :
         標註 : 
@@ -319,7 +280,6 @@ tags_uimain.txt:
             tagMenuCreate02=Name
         譯文 : >-
             
-
 #-------------------------------#
     48 :
         標註 : 
@@ -327,7 +287,6 @@ tags_uimain.txt:
             tagMenuCreate03=Male
         譯文 : >-
             
-
 #-------------------------------#
     49 :
         標註 : 
@@ -335,7 +294,6 @@ tags_uimain.txt:
             tagMenuCreate04=Female
         譯文 : >-
             
-
 #-------------------------------#
     50 :
         標註 : 
@@ -343,7 +301,6 @@ tags_uimain.txt:
             tagMenuCreate05=Enter a name for your character.
         譯文 : >-
             
-
 #-------------------------------#
     51 :
         標註 : 
@@ -351,7 +308,6 @@ tags_uimain.txt:
             tagTunicColor=Outfit Color
         譯文 : >-
             
-
 #-------------------------------#
     52 :
         標註 : 
@@ -359,7 +315,6 @@ tags_uimain.txt:
             tagMenuImport01=Import Campaign Character {%s}
         譯文 : >-
             
-
 #-------------------------------#
     53 :
         標註 : 
@@ -367,7 +322,6 @@ tags_uimain.txt:
             tagMenuImport02=Select a Character
         譯文 : >-
             
-
 #-------------------------------#
     54 :
         標註 : 
@@ -375,7 +329,6 @@ tags_uimain.txt:
             tagMenuImport03=Name
         譯文 : >-
             
-
 #-------------------------------#
     55 :
         標註 : 
@@ -383,7 +336,6 @@ tags_uimain.txt:
             tagMenuImport04=Class
         譯文 : >-
             
-
 #-------------------------------#
     56 :
         標註 : 
@@ -391,7 +343,6 @@ tags_uimain.txt:
             tagMenuImport05=Level
         譯文 : >-
             
-
 #-------------------------------#
     57 :
         標註 : 
@@ -399,7 +350,6 @@ tags_uimain.txt:
             tagMenuImport06=Rename Character:
         譯文 : >-
             
-
 #-------------------------------#
     59 :
         標註 : 
@@ -407,7 +357,6 @@ tags_uimain.txt:
             tagRDifficultyTitle01=Normal
         譯文 : >-
             
-
 #-------------------------------#
     60 :
         標註 : 
@@ -415,7 +364,6 @@ tags_uimain.txt:
             tagRDifficultyTitle02=Elite
         譯文 : >-
             
-
 #-------------------------------#
     61 :
         標註 : 
@@ -423,7 +371,6 @@ tags_uimain.txt:
             tagRDifficultyTitle03=Ultimate
         譯文 : >-
             
-
 #-------------------------------#
     62 :
         標註 : 
@@ -431,7 +378,6 @@ tags_uimain.txt:
             tagChallengeDifficulty=Veteran
         譯文 : >-
             
-
 #-------------------------------#
     63 :
         標註 : 
@@ -439,7 +385,6 @@ tags_uimain.txt:
             tagHardcore=Hardcore
         譯文 : >-
             
-
 #-------------------------------#
     64 :
         標註 : 
@@ -447,7 +392,6 @@ tags_uimain.txt:
             tagChallenge=Veteran
         譯文 : >-
             
-
 #-------------------------------#
     65 :
         標註 : 
@@ -455,7 +399,6 @@ tags_uimain.txt:
             tagRDifficultyDesc01=Complete this difficulty mode to unlock harder difficulty modes.
         譯文 : >-
             
-
 #-------------------------------#
     66 :
         標註 : 
@@ -463,7 +406,6 @@ tags_uimain.txt:
             tagRDifficultyDesc02=The game must be completed in Normal difficulty to play Veteran difficulty.
         譯文 : >-
             
-
 #-------------------------------#
     67 :
         標註 : 
@@ -471,7 +413,6 @@ tags_uimain.txt:
             tagRDifficultyDesc03=The game must be completed in Veteran difficulty to play Elite difficulty.
         譯文 : >-
             
-
 #-------------------------------#
     68 :
         標註 : 
@@ -479,7 +420,6 @@ tags_uimain.txt:
             tagDifficultyTitleSet=Choose Difficulty:
         譯文 : >-
             
-
 #-------------------------------#
     69 :
         標註 : 
@@ -487,7 +427,6 @@ tags_uimain.txt:
             tagDifficultyTitleShow=Difficulties Available to Join:
         譯文 : >-
             
-
 #-------------------------------#
     70 :
         標註 : 
@@ -495,7 +434,6 @@ tags_uimain.txt:
             tagDifficultyNormal=Normal Difficulty
         譯文 : >-
             
-
 #-------------------------------#
     71 :
         標註 : 
@@ -503,7 +441,6 @@ tags_uimain.txt:
             tagDifficultyNormalVeteran=Veteran Difficulty
         譯文 : >-
             
-
 #-------------------------------#
     72 :
         標註 : 
@@ -511,7 +448,6 @@ tags_uimain.txt:
             tagDifficultyElite=Elite Difficulty
         譯文 : >-
             
-
 #-------------------------------#
     73 :
         標註 : 
@@ -519,7 +455,6 @@ tags_uimain.txt:
             tagDifficultyUltimate=Ultimate Difficulty
         譯文 : >-
             
-
 #-------------------------------#
     74 :
         標註 : 
@@ -527,7 +462,6 @@ tags_uimain.txt:
             tagDifficultyJoinNormal=Normal Difficulty Only
         譯文 : >-
             
-
 #-------------------------------#
     75 :
         標註 : 
@@ -535,7 +469,6 @@ tags_uimain.txt:
             tagDifficultyJoinElite=Up to Elite Difficulty
         譯文 : >-
             
-
 #-------------------------------#
     76 :
         標註 : 
@@ -543,7 +476,6 @@ tags_uimain.txt:
             tagDifficultyJoinUltimate=Up to Ultimate Difficulty
         譯文 : >-
             
-
 #-------------------------------#
     77 :
         標註 : 
@@ -551,7 +483,6 @@ tags_uimain.txt:
             tagDifficultyJoinAny=Any Difficulty
         譯文 : >-
             
-
 #-------------------------------#
     79 :
         標註 : 
@@ -559,7 +490,6 @@ tags_uimain.txt:
             tagPlayOptionsAccept=Accept
         譯文 : >-
             
-
 #-------------------------------#
     80 :
         標註 : 
@@ -567,7 +497,6 @@ tags_uimain.txt:
             tagPlayOptionsCancel=Cancel
         譯文 : >-
             
-
 #-------------------------------#
     81 :
         標註 : 
@@ -575,7 +504,6 @@ tags_uimain.txt:
             tagPlayGameModeCampaign=Main Campaign
         譯文 : >-
             
-
 #-------------------------------#
     82 :
         標註 : 
@@ -583,7 +511,6 @@ tags_uimain.txt:
             tagPlayGameModeCustom=Custom Game
         譯文 : >-
             
-
 #-------------------------------#
     83 :
         標註 : 
@@ -591,7 +518,6 @@ tags_uimain.txt:
             tagPlayGameModeSurvival=Survival Mode
         譯文 : >-
             
-
 #-------------------------------#
     85 :
         標註 : 
@@ -599,7 +525,6 @@ tags_uimain.txt:
             tagGameStateInit=Initializing...
         譯文 : >-
             
-
 #-------------------------------#
     86 :
         標註 : 
@@ -607,7 +532,6 @@ tags_uimain.txt:
             tagGameStateLoading=Loading...
         譯文 : >-
             
-
 #-------------------------------#
     87 :
         標註 : 
@@ -615,7 +539,6 @@ tags_uimain.txt:
             tagGameStateStarting=Starting Game...
         譯文 : >-
             
-
 #-------------------------------#
     88 :
         標註 : 
@@ -623,7 +546,6 @@ tags_uimain.txt:
             tagGameStateConnecting=Connecting to Server...
         譯文 : >-
             
-
 #-------------------------------#
     89 :
         標註 : 
@@ -631,7 +553,6 @@ tags_uimain.txt:
             tagGameStateData=Waiting for Server...
         譯文 : >-
             
-
 #-------------------------------#
     91 :
         標註 : 
@@ -639,7 +560,6 @@ tags_uimain.txt:
             tagGogMustBeSignedIn=You must be logged into GOG Galaxy to play Grim Dawn in Multiplayer mode. Please login to GOG Galaxy and launch Grim Dawn from the GOG launcher!
         譯文 : >-
             
-
 #-------------------------------#
     97 :
         標註 : 
@@ -647,7 +567,6 @@ tags_uimain.txt:
             tagGameplayTitle=General
         譯文 : >-
             
-
 #-------------------------------#
     98 :
         標註 : 
@@ -655,7 +574,6 @@ tags_uimain.txt:
             tagGameplayDesc01=This will display help pop-ups in the game.
         譯文 : >-
             
-
 #-------------------------------#
     99 :
         標註 : 
@@ -663,7 +581,6 @@ tags_uimain.txt:
             tagGameplayDesc02=This enables a right click sell option when using the market window.
         譯文 : >-
             
-
 #-------------------------------#
     100 :
         標註 : 
@@ -671,7 +588,6 @@ tags_uimain.txt:
             tagGameplayDesc03=This enables item pop-ups when mousing over equipment in the world.
         譯文 : >-
             
-
 #-------------------------------#
     101 :
         標註 : 
@@ -679,7 +595,6 @@ tags_uimain.txt:
             tagGameplayDesc04=Display damage numbers when you hit enemies.
         譯文 : >-
             
-
 #-------------------------------#
     102 :
         標註 : 
@@ -687,7 +602,6 @@ tags_uimain.txt:
             tagGameplayDesc22=Display critical hit multipliers when you crit enemies.
         譯文 : >-
             
-
 #-------------------------------#
     103 :
         標註 : 
@@ -695,7 +609,6 @@ tags_uimain.txt:
             tagGameplayDesc23=Updates per second when the game window is inactive.
         譯文 : >-
             
-
 #-------------------------------#
     104 :
         標註 : 
@@ -703,7 +616,6 @@ tags_uimain.txt:
             tagGameplayOption01=Display Help
         譯文 : >-
             
-
 #-------------------------------#
     105 :
         標註 : 
@@ -711,7 +623,6 @@ tags_uimain.txt:
             tagGameplayOption02=Enable Quicksell (Right Mouse)
         譯文 : >-
             
-
 #-------------------------------#
     106 :
         標註 : 
@@ -719,7 +630,6 @@ tags_uimain.txt:
             tagGameplayOption03=Auto Item Tooltips
         譯文 : >-
             
-
 #-------------------------------#
     107 :
         標註 : 
@@ -727,7 +637,6 @@ tags_uimain.txt:
             tagGameplayOption04=Display Damage
         譯文 : >-
             
-
 #-------------------------------#
     108 :
         標註 : 
@@ -735,7 +644,6 @@ tags_uimain.txt:
             tagGameplayOption05=Enable Optional Roll-Overs
         譯文 : >-
             
-
 #-------------------------------#
     109 :
         標註 : 
@@ -743,7 +651,6 @@ tags_uimain.txt:
             tagGameplayOption06=Show Enemy Level
         譯文 : >-
             
-
 #-------------------------------#
     110 :
         標註 : 
@@ -751,7 +658,6 @@ tags_uimain.txt:
             tagGameplayOption07=Disable Auto Camera Movement
         譯文 : >-
             
-
 #-------------------------------#
     111 :
         標註 : 
@@ -759,7 +665,6 @@ tags_uimain.txt:
             tagGameplayOption08=Disable Text Scroll
         譯文 : >-
             
-
 #-------------------------------#
     112 :
         標註 : 
@@ -767,7 +672,6 @@ tags_uimain.txt:
             tagGameplayOption09=Language
         譯文 : >-
             
-
 #-------------------------------#
     113 :
         標註 : 
@@ -775,7 +679,6 @@ tags_uimain.txt:
             tagGameplayOption10=Internet Connection
         譯文 : >-
             
-
 #-------------------------------#
     114 :
         標註 : 
@@ -783,7 +686,6 @@ tags_uimain.txt:
             tagGameplayOption10A=Dial Up
         譯文 : >-
             
-
 #-------------------------------#
     115 :
         標註 : 
@@ -791,7 +693,6 @@ tags_uimain.txt:
             tagGameplayOption10B=Medium
         譯文 : >-
             
-
 #-------------------------------#
     116 :
         標註 : 
@@ -799,7 +700,6 @@ tags_uimain.txt:
             tagGameplayOption10C=Fast
         譯文 : >-
             
-
 #-------------------------------#
     117 :
         標註 : 
@@ -807,7 +707,6 @@ tags_uimain.txt:
             tagGameplayOption11=Lock Item Pickup
         譯文 : >-
             
-
 #-------------------------------#
     118 :
         標註 : 
@@ -815,7 +714,6 @@ tags_uimain.txt:
             tagGameplayOption12=Always Show Loot
         譯文 : >-
             
-
 #-------------------------------#
     119 :
         標註 : 
@@ -823,7 +721,6 @@ tags_uimain.txt:
             tagGameplayOption13=Crit Shake
         譯文 : >-
             
-
 #-------------------------------#
     120 :
         標註 : 
@@ -831,7 +728,6 @@ tags_uimain.txt:
             tagGameplayOption14=Target Outline
         譯文 : >-
             
-
 #-------------------------------#
     121 :
         標註 : 
@@ -839,7 +735,6 @@ tags_uimain.txt:
             tagGameplayOption15=Lock Map Rotation
         譯文 : >-
             
-
 #-------------------------------#
     122 :
         標註 : 
@@ -847,7 +742,6 @@ tags_uimain.txt:
             tagGameplayOption16=Gore
         譯文 : >-
             
-
 #-------------------------------#
     123 :
         標註 : 
@@ -855,7 +749,6 @@ tags_uimain.txt:
             tagGameplayOption17=Blood
         譯文 : >-
             
-
 #-------------------------------#
     124 :
         標註 : 
@@ -863,7 +756,6 @@ tags_uimain.txt:
             tagGameplayOption18=Tutorial Tips
         譯文 : >-
             
-
 #-------------------------------#
     125 :
         標註 : 
@@ -871,7 +763,6 @@ tags_uimain.txt:
             tagGameplayOption19=Corpse Persistence
         譯文 : >-
             
-
 #-------------------------------#
     126 :
         標註 : 
@@ -879,7 +770,6 @@ tags_uimain.txt:
             tagGameplayOption20=Classic Targeting
         譯文 : >-
             
-
 #-------------------------------#
     127 :
         標註 : 
@@ -887,7 +777,6 @@ tags_uimain.txt:
             tagGameplayOption21=Report Anonymous Statistics
         譯文 : >-
             
-
 #-------------------------------#
     128 :
         標註 : 
@@ -895,7 +784,6 @@ tags_uimain.txt:
             tagGameplayOption22=Show Crit Multipliers
         譯文 : >-
             
-
 #-------------------------------#
     129 :
         標註 : 
@@ -903,7 +791,6 @@ tags_uimain.txt:
             tagGameplayOption23=Background FPS
         譯文 : >-
             
-
 #-------------------------------#
     130 :
         標註 : 
@@ -911,7 +798,6 @@ tags_uimain.txt:
             tagAlwaysShowLootOff=Off
         譯文 : >-
             
-
 #-------------------------------#
     131 :
         標註 : 
@@ -919,7 +805,6 @@ tags_uimain.txt:
             tagAlwaysShowLootCommon=Common+
         譯文 : >-
             
-
 #-------------------------------#
     132 :
         標註 : 
@@ -927,7 +812,6 @@ tags_uimain.txt:
             tagAlwaysShowLootMagic=Magic+
         譯文 : >-
             
-
 #-------------------------------#
     133 :
         標註 : 
@@ -935,7 +819,6 @@ tags_uimain.txt:
             tagAlwaysShowLootRare=Rare+
         譯文 : >-
             
-
 #-------------------------------#
     134 :
         標註 : 
@@ -943,7 +826,6 @@ tags_uimain.txt:
             tagAlwaysShowLootEpic=Epic+
         譯文 : >-
             
-
 #-------------------------------#
     135 :
         標註 : 
@@ -951,7 +833,6 @@ tags_uimain.txt:
             tagAlwaysShowLootLegendary=Legendary+
         譯文 : >-
             
-
 #-------------------------------#
     136 :
         標註 : 
@@ -959,7 +840,6 @@ tags_uimain.txt:
             tagNone=None
         譯文 : >-
             
-
 #-------------------------------#
     137 :
         標註 : 
@@ -967,7 +847,6 @@ tags_uimain.txt:
             tagRed=Red
         譯文 : >-
             
-
 #-------------------------------#
     138 :
         標註 : 
@@ -975,7 +854,6 @@ tags_uimain.txt:
             tagGreen=Green
         譯文 : >-
             
-
 #-------------------------------#
     139 :
         標註 : 
@@ -983,7 +861,6 @@ tags_uimain.txt:
             tagBlue=Blue
         譯文 : >-
             
-
 #-------------------------------#
     140 :
         標註 : 
@@ -991,7 +868,6 @@ tags_uimain.txt:
             tagGameplayDesc05=This will turn off roll-over support help on the HUD.
         譯文 : >-
             
-
 #-------------------------------#
     141 :
         標註 : 
@@ -999,7 +875,6 @@ tags_uimain.txt:
             tagGameplayDesc06=This displays an enemy's level when targeted.
         譯文 : >-
             
-
 #-------------------------------#
     142 :
         標註 : 
@@ -1007,7 +882,6 @@ tags_uimain.txt:
             tagGameplayDesc07=This disables auto camera movement.
         譯文 : >-
             
-
 #-------------------------------#
     143 :
         標註 : 
@@ -1015,7 +889,6 @@ tags_uimain.txt:
             tagGameplayDesc08=This disable text scrolling when speaking to NPC's
         譯文 : >-
             
-
 #-------------------------------#
     144 :
         標註 : 
@@ -1023,7 +896,6 @@ tags_uimain.txt:
             tagGameplayDesc09=This allows you to change languages.  IT will require you to restart the game.
         譯文 : >-
             
-
 #-------------------------------#
     145 :
         標註 : 
@@ -1031,7 +903,6 @@ tags_uimain.txt:
             tagGameplayDesc18=Enables/disables display of tutorial tips.
         譯文 : >-
             
-
 #-------------------------------#
     146 :
         標註 : 
@@ -1039,7 +910,6 @@ tags_uimain.txt:
             tagGameplayDesc19=Check to enable classic ARPG targeting with target-lock. Uncheck to use our new targeting scheme without hard target-lock.
         譯文 : >-
             
-
 #-------------------------------#
     147 :
         標註 : 
@@ -1047,7 +917,6 @@ tags_uimain.txt:
             tagLanguage01=English (US)
         譯文 : >-
             
-
 #-------------------------------#
     148 :
         標註 : 
@@ -1055,7 +924,6 @@ tags_uimain.txt:
             tagLanguage02=English (GB)
         譯文 : >-
             
-
 #-------------------------------#
     149 :
         標註 : 
@@ -1063,7 +931,6 @@ tags_uimain.txt:
             tagLanguage03=Español
         譯文 : >-
             
-
 #-------------------------------#
     150 :
         標註 : 
@@ -1071,7 +938,6 @@ tags_uimain.txt:
             tagLanguage04=Français
         譯文 : >-
             
-
 #-------------------------------#
     151 :
         標註 : 
@@ -1079,7 +945,6 @@ tags_uimain.txt:
             tagLanguage05=Deutsch
         譯文 : >-
             
-
 #-------------------------------#
     152 :
         標註 : 
@@ -1087,7 +952,6 @@ tags_uimain.txt:
             tagLanguage06=Italiano
         譯文 : >-
             
-
 #-------------------------------#
     153 :
         標註 : 
@@ -1095,7 +959,6 @@ tags_uimain.txt:
             tagKeybindingTitle01=Keybinding
         譯文 : >-
             
-
 #-------------------------------#
     154 :
         標註 : 
@@ -1103,7 +966,6 @@ tags_uimain.txt:
             tagKeybindingTitle02=Function
         譯文 : >-
             
-
 #-------------------------------#
     155 :
         標註 : 
@@ -1111,7 +973,6 @@ tags_uimain.txt:
             tagKeybindingTitle03=Primary
         譯文 : >-
             
-
 #-------------------------------#
     156 :
         標註 : 
@@ -1119,7 +980,6 @@ tags_uimain.txt:
             tagKeybindingTitle04=Secondary
         譯文 : >-
             
-
 #-------------------------------#
     157 :
         標註 : 
@@ -1127,7 +987,6 @@ tags_uimain.txt:
             tagKeybindingButton01=Clear
         譯文 : >-
             
-
 #-------------------------------#
     158 :
         標註 : 
@@ -1135,7 +994,6 @@ tags_uimain.txt:
             tagKeybindingMessage01=Press the key to bind to {%t0}
         譯文 : >-
             
-
 #-------------------------------#
     159 :
         標註 : 
@@ -1143,7 +1001,6 @@ tags_uimain.txt:
             tagKeybind01=Character Window
         譯文 : >-
             
-
 #-------------------------------#
     160 :
         標註 : 
@@ -1151,7 +1008,6 @@ tags_uimain.txt:
             tagKeybind02=Skill Window
         譯文 : >-
             
-
 #-------------------------------#
     161 :
         標註 : 
@@ -1159,7 +1015,6 @@ tags_uimain.txt:
             tagKeybind03=Mission Window
         譯文 : >-
             
-
 #-------------------------------#
     162 :
         標註 : 
@@ -1167,7 +1022,6 @@ tags_uimain.txt:
             tagKeybind04=Map Window
         譯文 : >-
             
-
 #-------------------------------#
     163 :
         標註 : 
@@ -1175,7 +1029,6 @@ tags_uimain.txt:
             tagKeybind05=Chat Window
         譯文 : >-
             
-
 #-------------------------------#
     164 :
         標註 : 
@@ -1183,7 +1036,6 @@ tags_uimain.txt:
             tagKeybind06=Group Window
         譯文 : >-
             
-
 #-------------------------------#
     165 :
         標註 : 
@@ -1191,7 +1043,6 @@ tags_uimain.txt:
             tagKeybind07=Game Menu
         譯文 : >-
             
-
 #-------------------------------#
     166 :
         標註 : 
@@ -1199,7 +1050,6 @@ tags_uimain.txt:
             tagKeybind08=Quickbar Slot 01
         譯文 : >-
             
-
 #-------------------------------#
     167 :
         標註 : 
@@ -1207,7 +1057,6 @@ tags_uimain.txt:
             tagKeybind09=Quickbar Slot 02
         譯文 : >-
             
-
 #-------------------------------#
     168 :
         標註 : 
@@ -1215,7 +1064,6 @@ tags_uimain.txt:
             tagKeybind10=Quickbar Slot 03
         譯文 : >-
             
-
 #-------------------------------#
     169 :
         標註 : 
@@ -1223,7 +1071,6 @@ tags_uimain.txt:
             tagKeybind11=Quickbar Slot 04
         譯文 : >-
             
-
 #-------------------------------#
     170 :
         標註 : 
@@ -1231,7 +1078,6 @@ tags_uimain.txt:
             tagKeybind12=Quickbar Slot 05
         譯文 : >-
             
-
 #-------------------------------#
     171 :
         標註 : 
@@ -1239,7 +1085,6 @@ tags_uimain.txt:
             tagKeybind13=Quickbar Slot 06
         譯文 : >-
             
-
 #-------------------------------#
     172 :
         標註 : 
@@ -1247,7 +1092,6 @@ tags_uimain.txt:
             tagKeybind14=Quickbar Slot 07
         譯文 : >-
             
-
 #-------------------------------#
     173 :
         標註 : 
@@ -1255,7 +1099,6 @@ tags_uimain.txt:
             tagKeybind15=Quickbar Slot 08
         譯文 : >-
             
-
 #-------------------------------#
     174 :
         標註 : 
@@ -1263,7 +1106,6 @@ tags_uimain.txt:
             tagKeybind16=Quickbar Slot 09
         譯文 : >-
             
-
 #-------------------------------#
     175 :
         標註 : 
@@ -1271,7 +1113,6 @@ tags_uimain.txt:
             tagKeybind17=Quickbar Slot 10
         譯文 : >-
             
-
 #-------------------------------#
     176 :
         標註 : 
@@ -1279,7 +1120,6 @@ tags_uimain.txt:
             tagKeybind18=Drink Health Potion
         譯文 : >-
             
-
 #-------------------------------#
     177 :
         標註 : 
@@ -1287,7 +1127,6 @@ tags_uimain.txt:
             tagKeybind19=Drink Energy Potion
         譯文 : >-
             
-
 #-------------------------------#
     178 :
         標註 : 
@@ -1295,7 +1134,6 @@ tags_uimain.txt:
             tagKeybind20=Camera Zoom In 
         譯文 : >-
             
-
 #-------------------------------#
     179 :
         標註 : 
@@ -1303,7 +1141,6 @@ tags_uimain.txt:
             tagKeybind21=Camera Zoom Out
         譯文 : >-
             
-
 #-------------------------------#
     180 :
         標註 : 
@@ -1311,7 +1148,6 @@ tags_uimain.txt:
             tagKeybind22=Camera Max Zoom In
         譯文 : >-
             
-
 #-------------------------------#
     181 :
         標註 : 
@@ -1319,7 +1155,6 @@ tags_uimain.txt:
             tagKeybind23=Camera Max Zoom Out
         譯文 : >-
             
-
 #-------------------------------#
     182 :
         標註 : 
@@ -1327,7 +1162,6 @@ tags_uimain.txt:
             tagKeybind26=Drop Item
         譯文 : >-
             
-
 #-------------------------------#
     183 :
         標註 : 
@@ -1335,7 +1169,6 @@ tags_uimain.txt:
             tagKeybind27=Show Items (No Filter)
         譯文 : >-
             
-
 #-------------------------------#
     184 :
         標註 : 
@@ -1343,7 +1176,6 @@ tags_uimain.txt:
             tagKeybind28=Show Item Tooltips
         譯文 : >-
             
-
 #-------------------------------#
     185 :
         標註 : 
@@ -1351,7 +1183,6 @@ tags_uimain.txt:
             tagKeybind29=Show Items (Filter Common)
         譯文 : >-
             
-
 #-------------------------------#
     186 :
         標註 : 
@@ -1359,7 +1190,6 @@ tags_uimain.txt:
             tagKeybind30=Center Map (Map Window)
         譯文 : >-
             
-
 #-------------------------------#
     187 :
         標註 : 
@@ -1367,7 +1197,6 @@ tags_uimain.txt:
             tagKeybind31=Activate Portal Stone
         譯文 : >-
             
-
 #-------------------------------#
     188 :
         標註 : 
@@ -1375,7 +1204,6 @@ tags_uimain.txt:
             tagKeybind32=Help Window
         譯文 : >-
             
-
 #-------------------------------#
     189 :
         標註 : 
@@ -1383,7 +1211,6 @@ tags_uimain.txt:
             tagKeybind33=Switch Weapons
         譯文 : >-
             
-
 #-------------------------------#
     190 :
         標註 : 
@@ -1391,7 +1218,6 @@ tags_uimain.txt:
             tagKeybind34=Camera Default View
         譯文 : >-
             
-
 #-------------------------------#
     191 :
         標註 : 
@@ -1399,7 +1225,6 @@ tags_uimain.txt:
             tagKeybind35=Target Pet (Hold Key and Click)
         譯文 : >-
             
-
 #-------------------------------#
     192 :
         標註 : 
@@ -1407,7 +1232,6 @@ tags_uimain.txt:
             tagKeybind36=Stationary Attack (Hold Key and Click)
         譯文 : >-
             
-
 #-------------------------------#
     193 :
         標註 : 
@@ -1415,7 +1239,6 @@ tags_uimain.txt:
             tagKeybind37=Pause Game (Single Player Only)
         譯文 : >-
             
-
 #-------------------------------#
     194 :
         標註 : 
@@ -1423,7 +1246,6 @@ tags_uimain.txt:
             tagKeybind38=Toggle Pet Display
         譯文 : >-
             
-
 #-------------------------------#
     195 :
         標註 : 
@@ -1431,7 +1253,6 @@ tags_uimain.txt:
             tagKeybind39=Toggle Party Display
         譯文 : >-
             
-
 #-------------------------------#
     196 :
         標註 : 
@@ -1439,7 +1260,6 @@ tags_uimain.txt:
             tagKeybind40=Quickbar Switch
         譯文 : >-
             
-
 #-------------------------------#
     197 :
         標註 : 
@@ -1447,7 +1267,6 @@ tags_uimain.txt:
             tagKeybind41=Chat Command : Party
         譯文 : >-
             
-
 #-------------------------------#
     198 :
         標註 : 
@@ -1455,7 +1274,6 @@ tags_uimain.txt:
             tagKeybind42=Chat Command : Tell
         譯文 : >-
             
-
 #-------------------------------#
     199 :
         標註 : 
@@ -1463,7 +1281,6 @@ tags_uimain.txt:
             tagKeybind43=Chat Command : Reply
         譯文 : >-
             
-
 #-------------------------------#
     200 :
         標註 : 
@@ -1471,7 +1288,6 @@ tags_uimain.txt:
             tagKeybind44=Camera Rotate Left
         譯文 : >-
             
-
 #-------------------------------#
     201 :
         標註 : 
@@ -1479,7 +1295,6 @@ tags_uimain.txt:
             tagKeybind45=Camera Rotate Right
         譯文 : >-
             
-
 #-------------------------------#
     202 :
         標註 : 
@@ -1487,7 +1302,6 @@ tags_uimain.txt:
             tagKeybind46=Camera Rotate
         譯文 : >-
             
-
 #-------------------------------#
     203 :
         標註 : 
@@ -1495,7 +1309,6 @@ tags_uimain.txt:
             tagKeybind47=Factions Window
         譯文 : >-
             
-
 #-------------------------------#
     204 :
         標註 : 
@@ -1503,7 +1316,6 @@ tags_uimain.txt:
             tagKeybind48=Achievements Window
         譯文 : >-
             
-
 #-------------------------------#
     205 :
         標註 : 
@@ -1511,7 +1323,6 @@ tags_uimain.txt:
             tagKeybindTitle01=General Keybindings
         譯文 : >-
             
-
 #-------------------------------#
     206 :
         標註 : 
@@ -1519,7 +1330,6 @@ tags_uimain.txt:
             tagKeybindTitle02=Chat Keybindings
         譯文 : >-
             
-
 #-------------------------------#
     207 :
         標註 : 
@@ -1527,7 +1337,6 @@ tags_uimain.txt:
             tagAudioTitle=Audio
         譯文 : >-
             
-
 #-------------------------------#
     208 :
         標註 : 
@@ -1535,7 +1344,6 @@ tags_uimain.txt:
             tagAudioOption01=Master Volume
         譯文 : >-
             
-
 #-------------------------------#
     209 :
         標註 : 
@@ -1543,7 +1351,6 @@ tags_uimain.txt:
             tagAudioOption02=Music Volume
         譯文 : >-
             
-
 #-------------------------------#
     210 :
         標註 : 
@@ -1551,7 +1358,6 @@ tags_uimain.txt:
             tagAudioOption03=Sound FX Volume
         譯文 : >-
             
-
 #-------------------------------#
     211 :
         標註 : 
@@ -1559,7 +1365,6 @@ tags_uimain.txt:
             tagAudioOption04=Dialog Volume
         譯文 : >-
             
-
 #-------------------------------#
     212 :
         標註 : 
@@ -1567,7 +1372,6 @@ tags_uimain.txt:
             tagAudioOption05=Ambient Music Frequency
         譯文 : >-
             
-
 #-------------------------------#
     213 :
         標註 : 
@@ -1575,7 +1379,6 @@ tags_uimain.txt:
             tagAudioOption06=Less Often
         譯文 : >-
             
-
 #-------------------------------#
     214 :
         標註 : 
@@ -1583,7 +1386,6 @@ tags_uimain.txt:
             tagAudioOption07=Default
         譯文 : >-
             
-
 #-------------------------------#
     215 :
         標註 : 
@@ -1591,7 +1393,6 @@ tags_uimain.txt:
             tagAudioOption08=More Often
         譯文 : >-
             
-
 #-------------------------------#
     216 :
         標註 : 
@@ -1599,7 +1400,6 @@ tags_uimain.txt:
             tagAudioOption09=Enable EAX
         譯文 : >-
             
-
 #-------------------------------#
     217 :
         標註 : 
@@ -1607,7 +1407,6 @@ tags_uimain.txt:
             tagAudioOption10=Enable Hardware Mixing
         譯文 : >-
             
-
 #-------------------------------#
     218 :
         標註 : 
@@ -1615,7 +1414,6 @@ tags_uimain.txt:
             tagAudioOption11=Ambient FX Volume
         譯文 : >-
             
-
 #-------------------------------#
     219 :
         標註 : 
@@ -1623,7 +1421,6 @@ tags_uimain.txt:
             tagSoundDevice=Audio Device
         譯文 : >-
             
-
 #-------------------------------#
     220 :
         標註 : 
@@ -1631,7 +1428,6 @@ tags_uimain.txt:
             tagSpeakerSetup=Speaker Setup
         譯文 : >-
             
-
 #-------------------------------#
     221 :
         標註 : 
@@ -1639,7 +1435,6 @@ tags_uimain.txt:
             tagHeadphoneSpeakers=Headphones
         譯文 : >-
             
-
 #-------------------------------#
     222 :
         標註 : 
@@ -1647,7 +1442,6 @@ tags_uimain.txt:
             tagStereoSpeakers=Stereo
         譯文 : >-
             
-
 #-------------------------------#
     223 :
         標註 : 
@@ -1655,7 +1449,6 @@ tags_uimain.txt:
             tagQuadraphonicSpeakers=Quadraphonic
         譯文 : >-
             
-
 #-------------------------------#
     224 :
         標註 : 
@@ -1663,7 +1456,6 @@ tags_uimain.txt:
             tagSurroundSpeakers=Surround
         譯文 : >-
             
-
 #-------------------------------#
     225 :
         標註 : 
@@ -1671,7 +1463,6 @@ tags_uimain.txt:
             tag51Speakers=5.1 Surround
         譯文 : >-
             
-
 #-------------------------------#
     226 :
         標註 : 
@@ -1679,7 +1470,6 @@ tags_uimain.txt:
             tag71Speakers=7.1 Surround
         譯文 : >-
             
-
 #-------------------------------#
     227 :
         標註 : 
@@ -1687,7 +1477,6 @@ tags_uimain.txt:
             tagVideoTitle=Video
         譯文 : >-
             
-
 #-------------------------------#
     228 :
         標註 : 
@@ -1695,7 +1484,6 @@ tags_uimain.txt:
             tagVideoResolution01=800 x 600
         譯文 : >-
             
-
 #-------------------------------#
     229 :
         標註 : 
@@ -1703,7 +1491,6 @@ tags_uimain.txt:
             tagVideoResolution02=1024 x 768
         譯文 : >-
             
-
 #-------------------------------#
     230 :
         標註 : 
@@ -1711,7 +1498,6 @@ tags_uimain.txt:
             tagVideoResolution03=1280 x 1024
         譯文 : >-
             
-
 #-------------------------------#
     231 :
         標註 : 
@@ -1719,7 +1505,6 @@ tags_uimain.txt:
             tagVideoLevel01=High
         譯文 : >-
             
-
 #-------------------------------#
     232 :
         標註 : 
@@ -1727,7 +1512,6 @@ tags_uimain.txt:
             tagVideoLevel02=Medium
         譯文 : >-
             
-
 #-------------------------------#
     233 :
         標註 : 
@@ -1735,7 +1519,6 @@ tags_uimain.txt:
             tagVideoLevel03=Low
         譯文 : >-
             
-
 #-------------------------------#
     234 :
         標註 : 
@@ -1743,7 +1526,6 @@ tags_uimain.txt:
             tagVideoLevel04=Very High
         譯文 : >-
             
-
 #-------------------------------#
     235 :
         標註 : 
@@ -1751,7 +1533,6 @@ tags_uimain.txt:
             tagVideoLevel05=Disabled
         譯文 : >-
             
-
 #-------------------------------#
     236 :
         標註 : 
@@ -1759,7 +1540,6 @@ tags_uimain.txt:
             tagVideoOption01=Screen Resolution
         譯文 : >-
             
-
 #-------------------------------#
     237 :
         標註 : 
@@ -1767,7 +1547,6 @@ tags_uimain.txt:
             tagVideoOption02=Textures
         譯文 : >-
             
-
 #-------------------------------#
     238 :
         標註 : 
@@ -1775,7 +1554,6 @@ tags_uimain.txt:
             tagVideoOption03=Shadows
         譯文 : >-
             
-
 #-------------------------------#
     239 :
         標註 : 
@@ -1783,7 +1561,6 @@ tags_uimain.txt:
             tagVideoOption04=Reflections
         譯文 : >-
             
-
 #-------------------------------#
     240 :
         標註 : 
@@ -1791,7 +1568,6 @@ tags_uimain.txt:
             tagVideoOption05=Shaders
         譯文 : >-
             
-
 #-------------------------------#
     241 :
         標註 : 
@@ -1799,7 +1575,6 @@ tags_uimain.txt:
             tagVideoOption06=Terrain
         譯文 : >-
             
-
 #-------------------------------#
     242 :
         標註 : 
@@ -1807,7 +1582,6 @@ tags_uimain.txt:
             tagVideoOption07=Foliage
         譯文 : >-
             
-
 #-------------------------------#
     243 :
         標註 : 
@@ -1815,7 +1589,6 @@ tags_uimain.txt:
             tagVideoOption08=Effects
         譯文 : >-
             
-
 #-------------------------------#
     244 :
         標註 : 
@@ -1823,7 +1596,6 @@ tags_uimain.txt:
             tagVideoOption09=Bloom
         譯文 : >-
             
-
 #-------------------------------#
     245 :
         標註 : 
@@ -1831,7 +1603,6 @@ tags_uimain.txt:
             tagVideoOption10=Pixel Shader
         譯文 : >-
             
-
 #-------------------------------#
     246 :
         標註 : 
@@ -1839,7 +1610,6 @@ tags_uimain.txt:
             tagVideoOption11=Vertical Sync
         譯文 : >-
             
-
 #-------------------------------#
     247 :
         標註 : 
@@ -1847,7 +1617,6 @@ tags_uimain.txt:
             tagVideoOption12=Gamma
         譯文 : >-
             
-
 #-------------------------------#
     248 :
         標註 : 
@@ -1855,7 +1624,6 @@ tags_uimain.txt:
             tagVideoOption13=Anti-aliasing
         譯文 : >-
             
-
 #-------------------------------#
     249 :
         標註 : 
@@ -1863,7 +1631,6 @@ tags_uimain.txt:
             tagVideoOption14=CPU Quality
         譯文 : >-
             
-
 #-------------------------------#
     250 :
         標註 : 
@@ -1871,7 +1638,6 @@ tags_uimain.txt:
             tagVideoOption15=Graphics Quality
         譯文 : >-
             
-
 #-------------------------------#
     251 :
         標註 : 
@@ -1879,7 +1645,6 @@ tags_uimain.txt:
             tagVideoOption16=Physics Quality
         譯文 : >-
             
-
 #-------------------------------#
     252 :
         標註 : 
@@ -1887,7 +1652,6 @@ tags_uimain.txt:
             tagVideoOption17=Advanced
         譯文 : >-
             
-
 #-------------------------------#
     253 :
         標註 : 
@@ -1895,7 +1659,6 @@ tags_uimain.txt:
             tagVideoOption18=Bit Depth
         譯文 : >-
             
-
 #-------------------------------#
     254 :
         標註 : 
@@ -1903,7 +1666,6 @@ tags_uimain.txt:
             tagVideoOption19=Detail Objects
         譯文 : >-
             
-
 #-------------------------------#
     255 :
         標註 : 
@@ -1911,7 +1673,6 @@ tags_uimain.txt:
             tagVideoOption20=Texture Filtering
         譯文 : >-
             
-
 #-------------------------------#
     256 :
         標註 : 
@@ -1919,7 +1680,6 @@ tags_uimain.txt:
             tagVideoOption21=Window Mode
         譯文 : >-
             
-
 #-------------------------------#
     257 :
         標註 : 
@@ -1927,7 +1687,6 @@ tags_uimain.txt:
             tagVideoOption22=Enable IME
         譯文 : >-
             
-
 #-------------------------------#
     258 :
         標註 : 
@@ -1935,7 +1694,6 @@ tags_uimain.txt:
             tagVideoOption23=Widescreen
         譯文 : >-
             
-
 #-------------------------------#
     259 :
         標註 : 
@@ -1943,7 +1701,6 @@ tags_uimain.txt:
             tagVideoOption24=Detail Level
         譯文 : >-
             
-
 #-------------------------------#
     260 :
         標註 : 
@@ -1951,7 +1708,6 @@ tags_uimain.txt:
             tagVideoOption25=Anisotropic Filtering
         譯文 : >-
             
-
 #-------------------------------#
     261 :
         標註 : 
@@ -1959,7 +1715,6 @@ tags_uimain.txt:
             tagVideoOption26=Weather
         譯文 : >-
             
-
 #-------------------------------#
     262 :
         標註 : 
@@ -1967,7 +1722,6 @@ tags_uimain.txt:
             tagVideoOption27=FX
         譯文 : >-
             
-
 #-------------------------------#
     263 :
         標註 : 
@@ -1975,7 +1729,6 @@ tags_uimain.txt:
             tagVideoOption28=Lighting
         譯文 : >-
             
-
 #-------------------------------#
     264 :
         標註 : 
@@ -1983,7 +1736,6 @@ tags_uimain.txt:
             tagVideoOption29=Window Mode
         譯文 : >-
             
-
 #-------------------------------#
     265 :
         標註 : 
@@ -1991,7 +1743,6 @@ tags_uimain.txt:
             tagVideoOption30=Render Device
         譯文 : >-
             
-
 #-------------------------------#
     266 :
         標註 : 
@@ -1999,7 +1750,6 @@ tags_uimain.txt:
             tagFullscreen=Fullscreen
         譯文 : >-
             
-
 #-------------------------------#
     267 :
         標註 : 
@@ -2007,7 +1757,6 @@ tags_uimain.txt:
             tagFullscreenWindowed=Windowed (FullScreen)
         譯文 : >-
             
-
 #-------------------------------#
     268 :
         標註 : 
@@ -2015,7 +1764,6 @@ tags_uimain.txt:
             tagWindowed=Windowed
         譯文 : >-
             
-
 #-------------------------------#
     269 :
         標註 : 
@@ -2023,7 +1771,6 @@ tags_uimain.txt:
             tagVideoOptionDepthOfField=Depth of Field
         譯文 : >-
             
-
 #-------------------------------#
     270 :
         標註 : 
@@ -2031,7 +1778,6 @@ tags_uimain.txt:
             tagVideoOptionSoftParticles=Soft Particles
         譯文 : >-
             
-
 #-------------------------------#
     271 :
         標註 : 
@@ -2039,7 +1785,6 @@ tags_uimain.txt:
             tagVideoOptionUIScale=UI Scale
         譯文 : >-
             
-
 #-------------------------------#
     272 :
         標註 : 
@@ -2047,7 +1792,6 @@ tags_uimain.txt:
             tagVideoOptionA2C=Alpha To Coverage
         譯文 : >-
             
-
 #-------------------------------#
     274 :
         標註 : 
@@ -2055,7 +1799,6 @@ tags_uimain.txt:
             tagNetworkTitle=Network
         譯文 : >-
             
-
 #-------------------------------#
     275 :
         標註 : 
@@ -2063,7 +1806,6 @@ tags_uimain.txt:
             tagUpnpTitle=UPnP:
         譯文 : >-
             
-
 #-------------------------------#
     276 :
         標註 : 
@@ -2071,7 +1813,6 @@ tags_uimain.txt:
             tagUpnpStatus=UPnP Status:
         譯文 : >-
             
-
 #-------------------------------#
     277 :
         標註 : 
@@ -2079,7 +1820,6 @@ tags_uimain.txt:
             tagUpnpAvailable=Available
         譯文 : >-
             
-
 #-------------------------------#
     278 :
         標註 : 
@@ -2087,7 +1827,6 @@ tags_uimain.txt:
             tagUpnpNotAvailable=Not Available
         譯文 : >-
             
-
 #-------------------------------#
     279 :
         標註 : 
@@ -2095,7 +1834,6 @@ tags_uimain.txt:
             tagUpnpHelp=Help
         譯文 : >-
             
-
 #-------------------------------#
     280 :
         標註 : 
@@ -2103,7 +1841,6 @@ tags_uimain.txt:
             tagUpnpControl=Enable UPnP
         譯文 : >-
             
-
 #-------------------------------#
     281 :
         標註 : 
@@ -2111,7 +1848,6 @@ tags_uimain.txt:
             tagNetworkStatusTitle=Network Status:
         譯文 : >-
             
-
 #-------------------------------#
     282 :
         標註 : 
@@ -2119,7 +1855,6 @@ tags_uimain.txt:
             tagNetworkStatusTest=Test
         譯文 : >-
             
-
 #-------------------------------#
     283 :
         標註 : 
@@ -2127,7 +1862,6 @@ tags_uimain.txt:
             tagNetworkNoOpts=Network Options are unavailable in game.{^n}Please exit to the Main Menu and open the Options Menu.
         譯文 : >-
             
-
 #-------------------------------#
     284 :
         標註 : 
@@ -2135,7 +1869,6 @@ tags_uimain.txt:
             tagCloudSaving=Enable Cloud Saving
         譯文 : >-
             
-
 #-------------------------------#
     285 :
         標註 : 
@@ -2143,7 +1876,6 @@ tags_uimain.txt:
             tagResetCloud=Delete Cloud Saves
         譯文 : >-
             
-
 #-------------------------------#
     286 :
         標註 : 
@@ -2151,7 +1883,6 @@ tags_uimain.txt:
             tagDownloadCloud=Download Cloud Saves
         譯文 : >-
             
-
 #-------------------------------#
     288 :
         標註 : 
@@ -2159,7 +1890,6 @@ tags_uimain.txt:
             tagUPnPCheckFail=UPnP Services are not available to configure your router to host a Grim Dawn Server.  Please check your router settings and enable UPnP, or, if that is not possible, manually configure your router to open port 27016 for both the UDP and TCP protocols.
         譯文 : >-
             
-
 #-------------------------------#
     290 :
         標註 : 
@@ -2167,7 +1897,6 @@ tags_uimain.txt:
             tagUPnPNotAvailableHelp=UPnP is not available.  Grim Dawn will not be able to auto-configure your router to Host an Internet server.  Please check your router settings and enable UPnP or manually configure your router to open port 27016 for both the UDP and TCP protocols.
         譯文 : >-
             
-
 #-------------------------------#
     292 :
         標註 : 
@@ -2175,7 +1904,6 @@ tags_uimain.txt:
             tagUPnPEnabledHelp=UPnP is enabled.  No manual configuration is needed.
         譯文 : >-
             
-
 #-------------------------------#
     293 :
         標註 : 
@@ -2183,7 +1911,6 @@ tags_uimain.txt:
             tagUPnPDisabledHelp=UPnP is disabled.  Port 27016 must be opened on your router for both the UDP and TCP protocols to host a Grim Dawn server.
         譯文 : >-
             
-
 #-------------------------------#
     295 :
         標註 : 
@@ -2191,7 +1918,6 @@ tags_uimain.txt:
             tagUPnPHelp=UPnP is a protocol that allows Grim Dawn to Communicate with and control your router.  To host an Internet server, ports must be opened on your router.  UPnP allows Grim Dawn to open those ports, and close them on exit, with no manual configuration required.
         譯文 : >-
             
-
 #-------------------------------#
     297 :
         標註 : 
@@ -2199,7 +1925,6 @@ tags_uimain.txt:
             tagIPCheckHelp=The network configuration test checks that the local router has a valid external IP address, and that the address matches the external address visible to the internet.
         譯文 : >-
             
-
 #-------------------------------#
     299 :
         標註 : 
@@ -2207,7 +1932,6 @@ tags_uimain.txt:
             tagIPCheckFail=The public IP address reported by your router does not match the public IP address externally visible to the Internet.  Usually, this is caused by attempting to host a Grim Dawn Server from behind more than one router.  Please check your router configuration and restart Grim Dawn.
         譯文 : >-
             
-
 #-------------------------------#
     301 :
         標註 : 
@@ -2215,7 +1939,6 @@ tags_uimain.txt:
             tagIPCheckFailMaybe=The public IP address reported by your router (%t0) is not a valid IP address.  It is possible that your router is functioning properly and did not report the public IP correctly.  However, if you are unable to host a Grim Dawn server, please check your router configuration.  In particular, you should check to make sure that the Grim Dawn server is not behind more than one router.  Some Internet providers use bundled modem/router devices.  If there is another router between the Grim Dawn server and the bundled device you will not be able to host an internet server.
         譯文 : >-
             
-
 #-------------------------------#
     303 :
         標註 : 
@@ -2223,7 +1946,6 @@ tags_uimain.txt:
             tagIPCheckPass=Network configuration test passed.  The public IP address reported by your router matches that which is externally visible on the internet.
         譯文 : >-
             
-
 #-------------------------------#
     305 :
         標註 : 
@@ -2231,7 +1953,6 @@ tags_uimain.txt:
             tagIPCheckUnable=Unable to test network configuration.  This check requires that the local router has the UPnP protocol enabled, and that UPnP support is enabled in Grim Dawn.  If it is not enabled, please enable it, restart Grim Dawn, and re-run this test.
         譯文 : >-
             
-
 #-------------------------------#
     307 :
         標註 : 
@@ -2239,7 +1960,6 @@ tags_uimain.txt:
             tagIPCheckUnableIP=Unable to obtain the externally visible IP address.  The test cannot be run at this time.
         譯文 : >-
             
-
 #-------------------------------#
     309 :
         標註 : 
@@ -2247,7 +1967,6 @@ tags_uimain.txt:
             tagIPTesting=Testing Configuration...
         譯文 : >-
             
-
 #-------------------------------#
     310 :
         標註 : 
@@ -2255,7 +1974,6 @@ tags_uimain.txt:
             tagIPLocalPublic=Public IP reported by your router:
         譯文 : >-
             
-
 #-------------------------------#
     311 :
         標註 : 
@@ -2263,7 +1981,6 @@ tags_uimain.txt:
             tagIPExternalPublic=Public IP visible to the Internet:
         譯文 : >-
             
-
 #-------------------------------#
     312 :
         標註 : 
@@ -2271,7 +1988,6 @@ tags_uimain.txt:
             tagIPInvalid=<Unable to obtain address>
         譯文 : >-
             
-
 #-------------------------------#
     315 :
         標註 : 
@@ -2279,7 +1995,6 @@ tags_uimain.txt:
             tagMultiplayer01=Game Name
         譯文 : >-
             
-
 #-------------------------------#
     316 :
         標註 : 
@@ -2287,7 +2002,6 @@ tags_uimain.txt:
             tagMultiplayer02=Difficulty
         譯文 : >-
             
-
 #-------------------------------#
     317 :
         標註 : 
@@ -2295,7 +2009,6 @@ tags_uimain.txt:
             tagMultiplayer03=Map
         譯文 : >-
             
-
 #-------------------------------#
     318 :
         標註 : 
@@ -2303,7 +2016,6 @@ tags_uimain.txt:
             tagMultiplayer04=Players
         譯文 : >-
             
-
 #-------------------------------#
     319 :
         標註 : 
@@ -2311,7 +2023,6 @@ tags_uimain.txt:
             tagMultiplayer05=Ping
         譯文 : >-
             
-
 #-------------------------------#
     320 :
         標註 : 
@@ -2319,7 +2030,6 @@ tags_uimain.txt:
             tagMultiplayer06=Summary
         譯文 : >-
             
-
 #-------------------------------#
     321 :
         標註 : 
@@ -2327,7 +2037,6 @@ tags_uimain.txt:
             tagMultiplayer07=Game Name Filter:
         譯文 : >-
             
-
 #-------------------------------#
     322 :
         標註 : 
@@ -2335,7 +2044,6 @@ tags_uimain.txt:
             tagMultiplayer09=Map Unavailable
         譯文 : >-
             
-
 #-------------------------------#
     323 :
         標註 : 
@@ -2343,7 +2051,6 @@ tags_uimain.txt:
             tagMultiplayer10=Hide Full Games
         譯文 : >-
             
-
 #-------------------------------#
     324 :
         標註 : 
@@ -2351,7 +2058,6 @@ tags_uimain.txt:
             tagMultiplayer11=Hide Locked Games
         譯文 : >-
             
-
 #-------------------------------#
     325 :
         標註 : 
@@ -2359,7 +2065,6 @@ tags_uimain.txt:
             tagMultiplayer12={%d0} / {%d1} 
         譯文 : >-
             
-
 #-------------------------------#
     326 :
         標註 : 
@@ -2367,7 +2072,6 @@ tags_uimain.txt:
             tagMultiplayer13={%d0} hr {%d1} min {%d2} sec
         譯文 : >-
             
-
 #-------------------------------#
     327 :
         標註 : 
@@ -2375,7 +2079,6 @@ tags_uimain.txt:
             tagMultiplayer14=Locked
         譯文 : >-
             
-
 #-------------------------------#
     328 :
         標註 : 
@@ -2383,7 +2086,6 @@ tags_uimain.txt:
             tagMultiplayer15=Version
         譯文 : >-
             
-
 #-------------------------------#
     330 :
         標註 : 
@@ -2391,7 +2093,6 @@ tags_uimain.txt:
             tagMultiStats01=Map :
         譯文 : >-
             
-
 #-------------------------------#
     331 :
         標註 : 
@@ -2399,7 +2100,6 @@ tags_uimain.txt:
             tagMultiStats02=Players :  {%d0} / {%d1}
         譯文 : >-
             
-
 #-------------------------------#
     332 :
         標註 : 
@@ -2407,7 +2107,6 @@ tags_uimain.txt:
             tagMultiStats03=Difficulty :
         譯文 : >-
             
-
 #-------------------------------#
     333 :
         標註 : 
@@ -2415,7 +2114,6 @@ tags_uimain.txt:
             tagMultiStats04=Elapsed Time :
         譯文 : >-
             
-
 #-------------------------------#
     334 :
         標註 : 
@@ -2423,7 +2121,6 @@ tags_uimain.txt:
             tagMultiStats05=Level Range +/-
         譯文 : >-
             
-
 #-------------------------------#
     335 :
         標註 : 
@@ -2431,7 +2128,6 @@ tags_uimain.txt:
             tagMultiButtonRefresh=Refresh
         譯文 : >-
             
-
 #-------------------------------#
     336 :
         標註 : 
@@ -2439,7 +2135,6 @@ tags_uimain.txt:
             tagMultiNameFormat={%t0} (Level {%d0})
         譯文 : >-
             
-
 #-------------------------------#
     338 :
         標註 : 
@@ -2447,7 +2142,6 @@ tags_uimain.txt:
             tagDefaultMap=Grim Dawn
         譯文 : >-
             
-
 #-------------------------------#
     339 :
         標註 : 
@@ -2455,7 +2149,6 @@ tags_uimain.txt:
             tagMenuErrorTitle=Information
         譯文 : >-
             
-
 #-------------------------------#
     340 :
         標註 : 
@@ -2463,7 +2156,6 @@ tags_uimain.txt:
             tagMenuError07=Please select a name for your character.
         譯文 : >-
             
-
 #-------------------------------#
     341 :
         標註 : 
@@ -2471,7 +2163,6 @@ tags_uimain.txt:
             tagMenuError08=Unable to connect to server.
         譯文 : >-
             
-
 #-------------------------------#
     342 :
         標註 : 
@@ -2479,7 +2170,6 @@ tags_uimain.txt:
             tagMenuError09=Please select a server.
         譯文 : >-
             
-
 #-------------------------------#
     343 :
         標註 : 
@@ -2487,7 +2177,6 @@ tags_uimain.txt:
             tagMenuError11=Internet service unavailable.
         譯文 : >-
             
-
 #-------------------------------#
     344 :
         標註 : 
@@ -2495,7 +2184,6 @@ tags_uimain.txt:
             tagMenuError12=Internet service temporarily unavailable due to scheduled maintenance.
         譯文 : >-
             
-
 #-------------------------------#
     345 :
         標註 : 
@@ -2503,7 +2191,6 @@ tags_uimain.txt:
             tagMenuError13=Error connecting to internet service.
         譯文 : >-
             
-
 #-------------------------------#
     346 :
         標註 : 
@@ -2511,7 +2198,6 @@ tags_uimain.txt:
             tagMenuError14=Network problems detected.
         譯文 : >-
             
-
 #-------------------------------#
     347 :
         標註 : 
@@ -2519,7 +2205,6 @@ tags_uimain.txt:
             tagMenuError15=Lost connection to server.
         譯文 : >-
             
-
 #-------------------------------#
     348 :
         標註 : 
@@ -2527,7 +2212,6 @@ tags_uimain.txt:
             tagMenuError16=You have been banned from this server.
         譯文 : >-
             
-
 #-------------------------------#
     349 :
         標註 : 
@@ -2535,7 +2219,6 @@ tags_uimain.txt:
             tagMenuError17=A password is required to join this game.
         譯文 : >-
             
-
 #-------------------------------#
     350 :
         標註 : 
@@ -2543,7 +2226,6 @@ tags_uimain.txt:
             tagMenuError18=Unable to connect.  The game you are trying to join is full.
         譯文 : >-
             
-
 #-------------------------------#
     351 :
         標註 : 
@@ -2551,7 +2233,6 @@ tags_uimain.txt:
             tagMenuError19=Unable to connect.  You have not unlocked that difficulty level with this character.
         譯文 : >-
             
-
 #-------------------------------#
     352 :
         標註 : 
@@ -2559,7 +2240,6 @@ tags_uimain.txt:
             tagMenuError20=Invalid Password.
         譯文 : >-
             
-
 #-------------------------------#
     353 :
         標註 : 
@@ -2567,7 +2247,6 @@ tags_uimain.txt:
             tagMenuError21=This game requires custom map: {%t0}
         譯文 : >-
             
-
 #-------------------------------#
     354 :
         標註 : 
@@ -2575,7 +2254,6 @@ tags_uimain.txt:
             tagMenuError21a=This game is using an incompatible game mode. Your mode: "{%s0"}, Server's mode: "{%s1}"
         譯文 : >-
             
-
 #-------------------------------#
     355 :
         標註 : 
@@ -2583,7 +2261,6 @@ tags_uimain.txt:
             tagMenuError21b=Hardcore and non-hardcore players cannot play together.  Please select another game.
         譯文 : >-
             
-
 #-------------------------------#
     356 :
         標註 : 
@@ -2591,7 +2268,6 @@ tags_uimain.txt:
             tagMenuError22=This game is full.  Please select another.
         譯文 : >-
             
-
 #-------------------------------#
     357 :
         標註 : 
@@ -2599,7 +2275,6 @@ tags_uimain.txt:
             tagMenuError23=This game requires characters to be between level {%d0} ~ {%d1}.  Please select another game.
         譯文 : >-
             
-
 #-------------------------------#
     358 :
         標註 : 
@@ -2607,7 +2282,6 @@ tags_uimain.txt:
             tagMenuError24=Some of your changes will not take effect until you restart the game.
         譯文 : >-
             
-
 #-------------------------------#
     359 :
         標註 : 
@@ -2615,7 +2289,6 @@ tags_uimain.txt:
             tagMenuError25=You have made some changes to options in the game.  Do you wish to apply those changes?
         譯文 : >-
             
-
 #-------------------------------#
     360 :
         標註 : 
@@ -2623,7 +2296,6 @@ tags_uimain.txt:
             tagMenuError26=Unable to Connect to Server - Invalid CD Key
         譯文 : >-
             
-
 #-------------------------------#
     361 :
         標註 : 
@@ -2631,7 +2303,6 @@ tags_uimain.txt:
             tagMenuError28=Invalid CD Key
         譯文 : >-
             
-
 #-------------------------------#
     362 :
         標註 : 
@@ -2639,7 +2310,6 @@ tags_uimain.txt:
             tagMenuError29=CD Key Already in Use
         譯文 : >-
             
-
 #-------------------------------#
     363 :
         標註 : 
@@ -2647,7 +2317,6 @@ tags_uimain.txt:
             tagMenuError30=CD Key Has Been Disabled
         譯文 : >-
             
-
 #-------------------------------#
     364 :
         標註 : 
@@ -2655,7 +2324,6 @@ tags_uimain.txt:
             tagMenuError31=Building server list.  Cancel to view partial server list.
         譯文 : >-
             
-
 #-------------------------------#
     365 :
         標註 : 
@@ -2663,7 +2331,6 @@ tags_uimain.txt:
             tagMenuError32=You do not have the correct version to connect to this server.  Please update.
         譯文 : >-
             
-
 #-------------------------------#
     366 :
         標註 : 
@@ -2671,7 +2338,6 @@ tags_uimain.txt:
             tagMenuError33=Couldn't initialize graphics engine.
         譯文 : >-
             
-
 #-------------------------------#
     367 :
         標註 : 
@@ -2679,7 +2345,6 @@ tags_uimain.txt:
             tagMenuError34=Virtual memory must be enabled to run Grim Dawn.
         譯文 : >-
             
-
 #-------------------------------#
     368 :
         標註 : 
@@ -2687,7 +2352,6 @@ tags_uimain.txt:
             tagMenuError35=Are you sure you wish to save and exit your game?
         譯文 : >-
             
-
 #-------------------------------#
     369 :
         標註 : 
@@ -2695,7 +2359,6 @@ tags_uimain.txt:
             tagMenuError36=Are you sure you wish to exit Grim Dawn?
         譯文 : >-
             
-
 #-------------------------------#
     370 :
         標註 : 
@@ -2703,7 +2366,6 @@ tags_uimain.txt:
             tagMenuError37=A copy of Grim Dawn is already running.
         譯文 : >-
             
-
 #-------------------------------#
     371 :
         標註 : 
@@ -2711,7 +2373,6 @@ tags_uimain.txt:
             tagMenuError38=A character with that name already exists.
         譯文 : >-
             
-
 #-------------------------------#
     372 :
         標註 : 
@@ -2719,7 +2380,6 @@ tags_uimain.txt:
             tagMenuError39=Error downloading update file.
         譯文 : >-
             
-
 #-------------------------------#
     373 :
         標註 : 
@@ -2727,7 +2387,6 @@ tags_uimain.txt:
             tagMenuError40=Invalid player file.
         譯文 : >-
             
-
 #-------------------------------#
     374 :
         標註 : 
@@ -2735,7 +2394,6 @@ tags_uimain.txt:
             tagMenuError41=Please insert the original Grim Dawn disc.
         譯文 : >-
             
-
 #-------------------------------#
     375 :
         標註 : 
@@ -2743,7 +2401,6 @@ tags_uimain.txt:
             tagMenuError42=Steam authentication failed.
         譯文 : >-
             
-
 #-------------------------------#
     376 :
         標註 : 
@@ -2751,7 +2408,6 @@ tags_uimain.txt:
             tagConnectAborted=Connect Aborted.
         譯文 : >-
             
-
 #-------------------------------#
     377 :
         標註 : 
@@ -2759,7 +2415,6 @@ tags_uimain.txt:
             tagMenuWarning01=Warning:  This will create a copy of your character {%s}.  This copied character can only be used in Custom Games.
         譯文 : >-
             
-
 #-------------------------------#
     378 :
         標註 : 
@@ -2767,7 +2422,6 @@ tags_uimain.txt:
             tagMenuWarning02=Would you like to rename this Custom Only Character?
         譯文 : >-
             
-
 #-------------------------------#
     379 :
         標註 : 
@@ -2775,7 +2429,6 @@ tags_uimain.txt:
             tagMenuWarning03=Leave blank and press "OK" to keep {%s} as the new characters name.
         譯文 : >-
             
-
 #-------------------------------#
     380 :
         標註 : 
@@ -2783,7 +2436,6 @@ tags_uimain.txt:
             tagMenuUpdate01=No updates available at this time.
         譯文 : >-
             
-
 #-------------------------------#
     381 :
         標註 : 
@@ -2791,7 +2443,6 @@ tags_uimain.txt:
             tagMenuUpdate02=Downloading Update
         譯文 : >-
             
-
 #-------------------------------#
     382 :
         標註 : 
@@ -2799,7 +2450,6 @@ tags_uimain.txt:
             tagMenuDelete01=Are you sure you want to permanently delete this character?
         譯文 : >-
             
-
 #-------------------------------#
     383 :
         標註 : 
@@ -2807,7 +2457,6 @@ tags_uimain.txt:
             tagDeveloperTitle=Developer
         譯文 : >-
             
-
 #-------------------------------#
     384 :
         標註 : 
@@ -2815,7 +2464,6 @@ tags_uimain.txt:
             tagDeveloperOption01=Video Sync to Refresh 
         譯文 : >-
             
-
 #-------------------------------#
     385 :
         標註 : 
@@ -2823,7 +2471,6 @@ tags_uimain.txt:
             tagDeveloperOption02=Full Screen 
         譯文 : >-
             
-
 #-------------------------------#
     386 :
         標註 : 
@@ -2831,7 +2478,6 @@ tags_uimain.txt:
             tagDeveloperOption03=Show Tag Errors 
         譯文 : >-
             
-
 #-------------------------------#
     387 :
         標註 : 
@@ -2839,7 +2485,6 @@ tags_uimain.txt:
             tagDeveloperOption04=Use Archives 
         譯文 : >-
             
-
 #-------------------------------#
     388 :
         標註 : 
@@ -2847,7 +2492,6 @@ tags_uimain.txt:
             tagDeveloperOption05=Send Debug Mail 
         譯文 : >-
             
-
 #-------------------------------#
     389 :
         標註 : 
@@ -2855,7 +2499,6 @@ tags_uimain.txt:
             tagDeveloperOption06=Show Assert Messages 
         譯文 : >-
             
-
 #-------------------------------#
     390 :
         標註 : 
@@ -2863,7 +2506,6 @@ tags_uimain.txt:
             tagDeveloperOption07=Auto-Close Archives
         譯文 : >-
             
-
 #-------------------------------#
     391 :
         標註 : 
@@ -2871,7 +2513,6 @@ tags_uimain.txt:
             tagDeveloperOption08=Load Database from Archive
         譯文 : >-
             
-
 #-------------------------------#
     392 :
         標註 : 
@@ -2879,7 +2520,6 @@ tags_uimain.txt:
             tagDeveloperOption09=Show Intro Movies
         譯文 : >-
             
-
 #-------------------------------#
     393 :
         標註 : 
@@ -2887,7 +2527,6 @@ tags_uimain.txt:
             tagDeveloperOption10=Force Single Processor Mode
         譯文 : >-
             
-
 #-------------------------------#
     394 :
         標註 : 
@@ -2895,7 +2534,6 @@ tags_uimain.txt:
             tagDeveloperOption11=Max Resource Threads
         譯文 : >-
             
-
 #-------------------------------#
     395 :
         標註 : 
@@ -2903,7 +2541,6 @@ tags_uimain.txt:
             tagNamePlate01=Grim Dawn Game Setup
         譯文 : >-
             
-
 #-------------------------------#
     396 :
         標註 : 
@@ -2911,7 +2548,6 @@ tags_uimain.txt:
             tagNamePlate02=Custom Game Setup
         譯文 : >-
             
-
 #-------------------------------#
     397 :
         標註 : 
@@ -2919,7 +2555,6 @@ tags_uimain.txt:
             tagNamePlate03=Options Menu
         譯文 : >-
             
-
 #-------------------------------#
     398 :
         標註 : 
@@ -2927,7 +2562,6 @@ tags_uimain.txt:
             tagNamePlate04=Credits
         譯文 : >-
             
-
 #-------------------------------#
     399 :
         標註 : 
@@ -2935,7 +2569,6 @@ tags_uimain.txt:
             tagNamePlate05=LAN
         譯文 : >-
             
-
 #-------------------------------#
     400 :
         標註 : 
@@ -2943,7 +2576,6 @@ tags_uimain.txt:
             tagNamePlate06=Internet
         譯文 : >-
             
-
 #-------------------------------#
     401 :
         標註 : 
@@ -2951,7 +2583,6 @@ tags_uimain.txt:
             tagPreviewError=This feature is disabled.
         譯文 : >-
             
-
 #-------------------------------#
     402 :
         標註 : 
@@ -2959,7 +2590,6 @@ tags_uimain.txt:
             tagLoading=Loading
         譯文 : >-
             
-
 #-------------------------------#
     403 :
         標註 : 
@@ -2967,7 +2597,6 @@ tags_uimain.txt:
             tagFrenchPatch=Grim Dawn will now update the original Grim Dawn dialog files to the French version.
         譯文 : >-
             
-
 #-------------------------------#
     404 :
         標註 : 
@@ -2975,7 +2604,6 @@ tags_uimain.txt:
             tagGermanPatch=Grim Dawn will now update the original Grim Dawn dialog files to the German version.
         譯文 : >-
             
-
 #-------------------------------#
     405 :
         標註 : 
@@ -2983,7 +2611,6 @@ tags_uimain.txt:
             tagLanguagePatchError=Grim Dawn was unable to update the original Grim Dawn dialog files.
         譯文 : >-
             
-
 #-------------------------------#
     406 :
         標註 : 
@@ -2991,7 +2618,6 @@ tags_uimain.txt:
             tagMenuPatcher01=Updating original Grim Dawn files …
         譯文 : >-
             
-
 #-------------------------------#
     407 :
         標註 : 
@@ -2999,7 +2625,6 @@ tags_uimain.txt:
             tagMenuPatcher02=Error with file : 
         譯文 : >-
             
-
 #-------------------------------#
     408 :
         標註 : 
@@ -3007,7 +2632,6 @@ tags_uimain.txt:
             tagGameSummary={%d0} Games / {%d1} Players
         譯文 : >-
             
-
 #-------------------------------#
     410 :
         標註 : 
@@ -3015,7 +2639,6 @@ tags_uimain.txt:
             tagCharCreatePVP=PVP
         譯文 : >-
             
-
 #-------------------------------#
     411 :
         標註 : 
@@ -3023,7 +2646,6 @@ tags_uimain.txt:
             tagCharCreateAutoParty=Auto-Party
         譯文 : >-
             
-
 #-------------------------------#
     412 :
         標註 : 
@@ -3031,7 +2653,6 @@ tags_uimain.txt:
             tagCharCreatePVPwarning=You have just enabled PVP (Player Versus Player) mode.  In this mode, you can attack other players, and they can attack you.  Note: A game can be either PVP or Auto-Party, but not both.
         譯文 : >-
             
-
 #-------------------------------#
     413 :
         標註 : 
@@ -3039,7 +2660,6 @@ tags_uimain.txt:
             tagCharCreateNeverShow=Never show this warning again.
         譯文 : >-
             
-
 #-------------------------------#
     414 :
         標註 : 
@@ -3047,7 +2667,6 @@ tags_uimain.txt:
             tagCharImportProgress=Importing character(s) from Grim Dawn.  This could take several minutes.
         譯文 : >-
             
-
 #-------------------------------#
     415 :
         標註 : 
@@ -3055,7 +2674,6 @@ tags_uimain.txt:
             tagCharImportTQCampaign=Grim Dawn Campaign Characters
         譯文 : >-
             
-
 #-------------------------------#
     416 :
         標註 : 
@@ -3063,7 +2681,6 @@ tags_uimain.txt:
             tagCharImportTQCustom=Grim Dawn Custom Characters
         譯文 : >-
             
-
 #-------------------------------#
     417 :
         標註 : 
@@ -3071,7 +2688,6 @@ tags_uimain.txt:
             tagCharImportTQXCampaign=Grim Dawn Campaign Characters
         譯文 : >-
             
-
 #-------------------------------#
     418 :
         標註 : 
@@ -3079,7 +2695,6 @@ tags_uimain.txt:
             tagCharImportTitle=Import Character
         譯文 : >-
             
-
 #-------------------------------#
     419 :
         標註 : 
@@ -3087,7 +2702,6 @@ tags_uimain.txt:
             tagInstancedLoot=Instanced Loot
         譯文 : >-
             
-
 #-------------------------------#
     421 :
         標註 : 
@@ -3095,7 +2709,6 @@ tags_uimain.txt:
             tagLobbyLock=Password Locked 
         譯文 : >-
             
-
 #-------------------------------#
     422 :
         標註 : 
@@ -3103,7 +2716,6 @@ tags_uimain.txt:
             tagLobbyDifficulty=Difficulty
         譯文 : >-
             
-
 #-------------------------------#
     423 :
         標註 : 
@@ -3111,7 +2723,6 @@ tags_uimain.txt:
             tagLobbyAutoparty=Auto-Party Enabled 
         譯文 : >-
             
-
 #-------------------------------#
     424 :
         標註 : 
@@ -3119,7 +2730,6 @@ tags_uimain.txt:
             tagLobbyInstancedLoot=Instanced Loot
         譯文 : >-
             
-
 #-------------------------------#
     425 :
         標註 : 
@@ -3127,7 +2737,6 @@ tags_uimain.txt:
             tagLobbyLanguage=Language 
         譯文 : >-
             
-
 #-------------------------------#
     426 :
         標註 : 
@@ -3135,7 +2744,6 @@ tags_uimain.txt:
             tagLobbyPVP=PVP Enabled
         譯文 : >-
             
-
 #-------------------------------#
     427 :
         標註 : 
@@ -3143,7 +2751,6 @@ tags_uimain.txt:
             tagLobbyHardcore=Hardcore Enabled
         譯文 : >-
             
-
 #-------------------------------#
     428 :
         標註 : 
@@ -3151,7 +2758,6 @@ tags_uimain.txt:
             tagLobbyNormalDifficulty=Normal Difficulty
         譯文 : >-
             
-
 #-------------------------------#
     429 :
         標註 : 
@@ -3159,7 +2765,6 @@ tags_uimain.txt:
             tagLobbyEliteDifficulty=Elite Difficulty
         譯文 : >-
             
-
 #-------------------------------#
     430 :
         標註 : 
@@ -3167,7 +2772,6 @@ tags_uimain.txt:
             tagLobbyUltimateDifficulty=Ultimate Difficulty
         譯文 : >-
             
-
 #-------------------------------#
     431 :
         標註 : 
@@ -3175,7 +2779,6 @@ tags_uimain.txt:
             tagLobbyChallenge=Veteran Difficulty
         譯文 : >-
             
-
 #-------------------------------#
     432 :
         標註 : 
@@ -3183,7 +2786,6 @@ tags_uimain.txt:
             tagLobbyPlayers=Players in Game/Max Players
         譯文 : >-
             
-
 #-------------------------------#
     433 :
         標註 : 
@@ -3191,7 +2793,6 @@ tags_uimain.txt:
             tagLobbySearchTitle=Advanced Search
         譯文 : >-
             
-
 #-------------------------------#
     434 :
         標註 : 
@@ -3199,7 +2800,6 @@ tags_uimain.txt:
             tagLobbySearchPingBelow=Ping Below
         譯文 : >-
             
-
 #-------------------------------#
     435 :
         標註 : 
@@ -3207,7 +2807,6 @@ tags_uimain.txt:
             tagLobbySearchMaxPlayers=Max Players
         譯文 : >-
             
-
 #-------------------------------#
     436 :
         標註 : 
@@ -3215,7 +2814,6 @@ tags_uimain.txt:
             tagLobbySearchShow=Show
         譯文 : >-
             
-
 #-------------------------------#
     437 :
         標註 : 
@@ -3223,7 +2821,6 @@ tags_uimain.txt:
             tagLobbySearchHide=Hide
         譯文 : >-
             
-
 #-------------------------------#
     438 :
         標註 : 
@@ -3231,7 +2828,6 @@ tags_uimain.txt:
             tagLobbySearchFull=Full
         譯文 : >-
             
-
 #-------------------------------#
     439 :
         標註 : 
@@ -3239,7 +2835,6 @@ tags_uimain.txt:
             tagLobbySearchLocked=Locked
         譯文 : >-
             
-
 #-------------------------------#
     440 :
         標註 : 
@@ -3247,7 +2842,6 @@ tags_uimain.txt:
             tagLobbySearchPVP=PVP
         譯文 : >-
             
-
 #-------------------------------#
     441 :
         標註 : 
@@ -3255,7 +2849,6 @@ tags_uimain.txt:
             tagLobbySearchAutoParty=Auto-Party
         譯文 : >-
             
-
 #-------------------------------#
     442 :
         標註 : 
@@ -3263,7 +2856,6 @@ tags_uimain.txt:
             tagLobbySearchLanguage=Language:
         譯文 : >-
             
-
 #-------------------------------#
     443 :
         標註 : 
@@ -3271,7 +2863,6 @@ tags_uimain.txt:
             tagLobbySearchSearch=Search
         譯文 : >-
             
-
 #-------------------------------#
     444 :
         標註 : 
@@ -3279,7 +2870,6 @@ tags_uimain.txt:
             tagLobbySearchCancel=Cancel
         譯文 : >-
             
-
 #-------------------------------#
     445 :
         標註 : 
@@ -3287,7 +2877,6 @@ tags_uimain.txt:
             tagLobbyDirect=Direct
         譯文 : >-
             
-
 #-------------------------------#
     446 :
         標註 : 
@@ -3295,7 +2884,6 @@ tags_uimain.txt:
             tagLobbyDirectTitle=Set Direct Connect Server Address
         譯文 : >-
             
-
 #-------------------------------#
     447 :
         標註 : 
@@ -3303,7 +2891,6 @@ tags_uimain.txt:
             tagLobbyDirectIP=IP:
         譯文 : >-
             
-
 #-------------------------------#
     448 :
         標註 : 
@@ -3311,7 +2898,6 @@ tags_uimain.txt:
             tagLobbyDirectPort=Port:
         譯文 : >-
             
-
 #-------------------------------#
     449 :
         標註 : 
@@ -3319,7 +2905,6 @@ tags_uimain.txt:
             tagLobbyDirectSave=Save
         譯文 : >-
             
-
 #-------------------------------#
     450 :
         標註 : 
@@ -3327,7 +2912,6 @@ tags_uimain.txt:
             tagLobbyDirectCancel=Cancel
         譯文 : >-
             
-
 #-------------------------------#
     451 :
         標註 : 
@@ -3335,7 +2919,6 @@ tags_uimain.txt:
             tagLobbyPlayersTitle=Players:
         譯文 : >-
             
-
 #-------------------------------#
     452 :
         標註 : 
@@ -3343,7 +2926,6 @@ tags_uimain.txt:
             tagLobbyServerTypeTitle=Server Type:
         譯文 : >-
             
-
 #-------------------------------#
     453 :
         標註 : 
@@ -3351,7 +2933,6 @@ tags_uimain.txt:
             tagLobbyServerTypeAll=All
         譯文 : >-
             
-
 #-------------------------------#
     454 :
         標註 : 
@@ -3359,7 +2940,6 @@ tags_uimain.txt:
             tagLobbyServerTypeFriends=Friends
         譯文 : >-
             
-
 #-------------------------------#
     455 :
         標註 : 
@@ -3367,7 +2947,6 @@ tags_uimain.txt:
             tagLobbyServerTypeRecent=Recent
         譯文 : >-
             
-
 #-------------------------------#
     457 :
         標註 : 
@@ -3375,7 +2954,6 @@ tags_uimain.txt:
             tagCharDetailsPlayerLevel=Level:
         譯文 : >-
             
-
 #-------------------------------#
     458 :
         標註 : 
@@ -3383,7 +2961,6 @@ tags_uimain.txt:
             tagCharDetailsItemLevel=Item Level:
         譯文 : >-
             
-
 #-------------------------------#
     459 :
         標註 : 
@@ -3391,7 +2968,6 @@ tags_uimain.txt:
             tagCharDetailsPlayerLocation=Location:
         譯文 : >-
             
-
 #-------------------------------#
     460 :
         標註 : 
@@ -3399,7 +2975,6 @@ tags_uimain.txt:
             tagCharDetailsFaction=Faction Status:
         譯文 : >-
             
-
 #-------------------------------#
     461 :
         標註 : 
@@ -3407,7 +2982,6 @@ tags_uimain.txt:
             tagCharDetailsActiveQuests=Active Quests:
         譯文 : >-
             
-
 #-------------------------------#
     463 :
         標註 : 
@@ -3415,7 +2989,6 @@ tags_uimain.txt:
             tagDirectConnectMenuConnecting=Connecting to Server {%t0}
         譯文 : >-
             
-
 #-------------------------------#
     464 :
         標註 : 
@@ -3423,7 +2996,6 @@ tags_uimain.txt:
             tagDirectConnectMenuStatus1=Contacting Server...
         譯文 : >-
             
-
 #-------------------------------#
     465 :
         標註 : 
@@ -3431,7 +3003,6 @@ tags_uimain.txt:
             tagDirectConnectMenuStatus2=Connecting to Server...
         譯文 : >-
             
-
 #-------------------------------#
     466 :
         標註 : 
@@ -3439,7 +3010,6 @@ tags_uimain.txt:
             tagDirectConnectMenuStatus3=Connection complete, launching game.
         譯文 : >-
             
-
 #-------------------------------#
     469 :
         標註 : 
@@ -3447,7 +3017,6 @@ tags_uimain.txt:
             tagFriendOffline=Offline
         譯文 : >-
             
-
 #-------------------------------#
     470 :
         標註 : 
@@ -3455,7 +3024,6 @@ tags_uimain.txt:
             tagFriendOnline=Online
         譯文 : >-
             
-
 #-------------------------------#
     471 :
         標註 : 
@@ -3463,7 +3031,6 @@ tags_uimain.txt:
             tagFriendBusy=Busy
         譯文 : >-
             
-
 #-------------------------------#
     472 :
         標註 : 
@@ -3471,7 +3038,6 @@ tags_uimain.txt:
             tagFriendAway=Away
         譯文 : >-
             
-
 #-------------------------------#
     473 :
         標註 : 
@@ -3479,7 +3045,6 @@ tags_uimain.txt:
             tagFriendUnknown=Status Unknown
         譯文 : >-
             
-
 #-------------------------------#
     474 :
         標註 : 
@@ -3487,7 +3052,6 @@ tags_uimain.txt:
             tagFriendPlayingGrimDawnSP=In Game (Single Player)
         譯文 : >-
             
-
 #-------------------------------#
     475 :
         標註 : 
@@ -3495,7 +3059,6 @@ tags_uimain.txt:
             tagFriendPlayingGrimDawnMP=In Game (Multiplayer)
         譯文 : >-
             
-
 #-------------------------------#
     476 :
         標註 : 
@@ -3503,7 +3066,6 @@ tags_uimain.txt:
             tagFriendAddButton=Add Friend
         譯文 : >-
             
-
 #-------------------------------#
     477 :
         標註 : 
@@ -3511,7 +3073,6 @@ tags_uimain.txt:
             tagFriendJoinGameButton=Join Game
         譯文 : >-
             
-
 #-------------------------------#
     480 :
         標註 : 
@@ -3519,7 +3080,6 @@ tags_uimain.txt:
             tagOptionOff=Off
         譯文 : >-
             
-
 #-------------------------------#
     481 :
         標註 : 
@@ -3527,7 +3087,6 @@ tags_uimain.txt:
             tagVideoOptionTripleBuffering=Triple Buffering
         譯文 : >-
             
-
 #-------------------------------#
     482 :
         標註 : 
@@ -3535,7 +3094,6 @@ tags_uimain.txt:
             tagVideoOptionCameraShake=Camera Shake
         譯文 : >-
             
-
 #-------------------------------#
     483 :
         標註 : 
@@ -3543,7 +3101,6 @@ tags_uimain.txt:
             tagVideoOptionAdvancedEffects=Post Processing
         譯文 : >-
             
-
 #-------------------------------#
     484 :
         標註 : 
@@ -3551,7 +3108,6 @@ tags_uimain.txt:
             tagVideoOptionDetailObjects=Detail Objects
         譯文 : >-
             
-
 #-------------------------------#
     485 :
         標註 : 
@@ -3559,7 +3115,6 @@ tags_uimain.txt:
             tagLobbyLocation=Location: 
         譯文 : >-
             
-
 #-------------------------------#
     486 :
         標註 : 
@@ -3567,7 +3122,6 @@ tags_uimain.txt:
             tagTQ1ModInvalid=This map was created with an older version of Grim Dawn.
         譯文 : >-
             
-
 #-------------------------------#
     487 :
         標註 : 
@@ -3575,7 +3129,6 @@ tags_uimain.txt:
             tagBrightness=Brightness
         譯文 : >-
             
-
 #-------------------------------#
     488 :
         標註 : 
@@ -3583,7 +3136,6 @@ tags_uimain.txt:
             tagContrast=Contrast
         譯文 : >-
             
-
 #-------------------------------#
     489 :
         標註 : 
@@ -3591,7 +3143,6 @@ tags_uimain.txt:
             tagGamma=Fullscreen Gamma
         譯文 : >-
             
-
 #-------------------------------#
     490 :
         標註 : 
@@ -3599,7 +3150,6 @@ tags_uimain.txt:
             tagColorblind=Color Blindness
         譯文 : >-
             
-
 #-------------------------------#
     491 :
         標註 : 
@@ -3607,7 +3157,6 @@ tags_uimain.txt:
             tagNormal=Normal
         譯文 : >-
             
-
 #-------------------------------#
     492 :
         標註 : 
@@ -3615,7 +3164,6 @@ tags_uimain.txt:
             tagProtanopia=Protanopia
         譯文 : >-
             
-
 #-------------------------------#
     493 :
         標註 : 
@@ -3623,7 +3171,6 @@ tags_uimain.txt:
             tagDeuteranopia=Deuteranopia
         譯文 : >-
             
-
 #-------------------------------#
     494 :
         標註 : 
@@ -3631,7 +3178,6 @@ tags_uimain.txt:
             tagTritanopia=Tritanopia
         譯文 : >-
             
-
 #-------------------------------#
     496 :
         標註 : 
@@ -3639,7 +3185,6 @@ tags_uimain.txt:
             tagOverwriteKeymap=The function ^y{%t0}^w has already been mapped to ^y{%t1}^w. Do you wish to overwrite? 
         譯文 : >-
             
-
 #-------------------------------#
     497 :
         標註 : 
@@ -3647,7 +3192,6 @@ tags_uimain.txt:
             tagHardDiskError=Your computer is currently low on hard drive space.  Grim Dawn may have difficulty saving your game.   To avoid this problem, please create more room on your hardrive.
         譯文 : >-
             
-
 #-------------------------------#
     498 :
         標註 : 
@@ -3655,7 +3199,6 @@ tags_uimain.txt:
             tagMenuError10=Unable to connect to server.  The mod or map version does not match the host.
         譯文 : >-
             
-
 #-------------------------------#
     500 :
         標註 : 
@@ -3663,7 +3206,6 @@ tags_uimain.txt:
             tagReportUsageStats=Help us improve Grim Dawn by periodically reporting anonymous system and gameplay stats?
         譯文 : >-
             
-
 #-------------------------------#
     501 :
         標註 : 
@@ -3671,7 +3213,6 @@ tags_uimain.txt:
             tagImportToSteamCloud=Steam Cloud Saving is enabled. Import existing characters?
         譯文 : >-
             
-
 #-------------------------------#
     502 :
         標註 : 
@@ -3679,7 +3220,6 @@ tags_uimain.txt:
             tagResetCloudWarning=Are you sure you want to delete all characters and data stored in the cloud?
         譯文 : >-
             
-
 #-------------------------------#
     503 :
         標註 : 
@@ -3687,7 +3227,6 @@ tags_uimain.txt:
             tagDownloadCloudWarning=Are you sure you want to download cloud saves? Locally saved characters and data will be overwritten!
         譯文 : >-
             
-
 #-------------------------------#
     504 :
         標註 : 
